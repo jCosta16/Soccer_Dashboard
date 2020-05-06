@@ -1,0 +1,32 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1592,52,Kenneth Kronholm,Goalkeeper,34,United States,1.89,right,2019-05-06,Holstein Kiel,31.12.2021,0.35,https://www.transfermarkt.com/kenneth-kronholm/profil/spieler/18971
+1593,52,Bobby Shuttleworth,Goalkeeper,32,United States,1.88,right,2020-01-30,Minnesota United FC,31.12.2021,0.32,https://www.transfermarkt.com/bobby-shuttleworth/profil/spieler/115887
+1594,52,Connor Sparrow,Goalkeeper,25,United States,1.88,-,2020-01-20,Nashville SC,31.12.2020,0.19,https://www.transfermarkt.com/connor-sparrow/profil/spieler/430502
+1595,52,Gabriel Slonina,Goalkeeper,15,United States,1.93,right,2019-03-08,Chicago Fire Academy,31.12.2022,0.0,https://www.transfermarkt.com/gabriel-slonina/profil/spieler/656316
+1596,52,Chris Brady,Goalkeeper,16,United States,1.9,-,2020-03-24,Chicago Fire Academy,31.12.2023,0.0,https://www.transfermarkt.com/chris-brady/profil/spieler/765504
+1597,52,Francisco Calvo,Centre-Back,27,Costa Rica,1.8,left,2019-05-03,Minnesota United FC,31.12.2020,0.78,https://www.transfermarkt.com/francisco-calvo/profil/spieler/188470
+1598,52,Johan Kappelhof,Centre-Back,29,Netherlands,1.8,right,2016-02-02,FC Groningen,31.12.2021,0.65,https://www.transfermarkt.com/johan-kappelhof/profil/spieler/124888
+1599,52,Wyatt Omsberg,Centre-Back,24,United States,1.93,-,2020-02-11,Minnesota United FC,31.12.2021,0.16,https://www.transfermarkt.com/wyatt-omsberg/profil/spieler/562554
+1600,52,Mauricio Pineda,Centre-Back,22,United States,m,-,2020-01-17,North Carolina Tar Heels (University of NC),-,0.05,https://www.transfermarkt.com/mauricio-pineda/profil/spieler/345621
+1601,52,Nicholas Slonina,Centre-Back,19,United States,1.91,-,2019-12-10,Chicago Fire Academy,31.12.2020,0.05,https://www.transfermarkt.com/nicholas-slonina/profil/spieler/730128
+1602,52,Jonathan Bornstein,Left-Back,35,United States,1.75,right,2019-07-22,Maccabi Netanya,31.12.2020,0.32,https://www.transfermarkt.com/jonathan-bornstein/profil/spieler/39454
+1603,52,Miguel Ángel Navarro,Left-Back,21,Venezuela,1.75,left,2020-01-27,Deportivo La Guaira,31.12.2022,0.32,https://www.transfermarkt.com/miguel-angel-navarro/profil/spieler/509390
+1604,52,Andre Reynolds II,Left-Back,19,United States,1.75,left,2019-01-25,Chicago Fire Academy,-,0.05,https://www.transfermarkt.com/andre-reynolds-ii/profil/spieler/647501
+1605,52,Boris Sekulic,Right-Back,28,Slovakia,1.87,right,2020-02-15,Górnik Zabrze,31.12.2022,0.51,https://www.transfermarkt.com/boris-sekulic/profil/spieler/217709
+1606,52,Gastón Giménez,Defensive Midfield,28,Argentina,1.88,left,2020-03-05,Club Atlético Vélez Sarsfield,31.12.2021,3.78,https://www.transfermarkt.com/gaston-gimenez/profil/spieler/216758
+1607,52,Mike Azira,Defensive Midfield,32,Uganda,1.78,-,2019-08-07,Montreal Impact,31.12.2020,0.32,https://www.transfermarkt.com/mike-azira/profil/spieler/228498
+1608,52,Allan Rodriguez,Defensive Midfield,15,United States,1.67,-,2020-03-25,Chicago Fire Academy,31.12.2023,0.0,https://www.transfermarkt.com/allan-rodriguez/profil/spieler/745457
+1609,52,Álvaro Medrán,Central Midfield,26,Spain,1.77,right,2020-01-01,Without Club,31.12.2021,1.3,https://www.transfermarkt.com/alvaro-medran/profil/spieler/253839
+1610,52,Brandt Bronico,Central Midfield,24,United States,1.73,-,2017-01-13,Charlotte 49ers (UNC Charlotte),-,0.7,https://www.transfermarkt.com/brandt-bronico/profil/spieler/271183
+1611,52,Javier Casas,Central Midfield,16,United States,1.73,right,2020-03-10,Chicago Fire Academy,31.12.2023,0.0,https://www.transfermarkt.com/javier-casas/profil/spieler/724411
+1612,52,Jeremiah Gutjahr,Right Midfield,22,United States,1.77,right,2019-01-22,Indiana Hoosiers (Indiana University),31.12.2020,0.19,https://www.transfermarkt.com/jeremiah-gutjahr/profil/spieler/402838
+1613,52,Djordje Mihailovic,Attacking Midfield,21,United States,1.78,-,2017-01-27,Chicago Fire Academy,-,2.7,https://www.transfermarkt.com/djordje-mihailovic/profil/spieler/484756
+1614,52,Luka Stojanovic,Attacking Midfield,26,Serbia,1.86,right,2020-02-20,FK Cukaricki,31.12.2021,1.03,https://www.transfermarkt.com/luka-stojanovic/profil/spieler/186499
+1615,52,Brian Gutiérrez,Attacking Midfield,16,United States,1.78,right,2020-03-09,Chicago Fire Academy,31.12.2023,0.0,https://www.transfermarkt.com/brian-gutierrez/profil/spieler/724443
+1616,52,Ignacio Aliseda,Left Winger,20,Argentina,1.69,both,2020-02-19,Defensa y Justicia,31.12.2023,2.92,https://www.transfermarkt.com/ignacio-aliseda/profil/spieler/604616
+1617,52,Przemyslaw Frankowski,Right Winger,25,Poland,1.76,right,2019-01-22,Jagiellonia Bialystok,31.12.2022,1.73,https://www.transfermarkt.com/przemyslaw-frankowski/profil/spieler/239743
+1618,52,Fabian Herbers,Right Winger,26,Germany,1.82,right,2018-12-09,Philadelphia Union,31.12.2020,0.38,https://www.transfermarkt.com/fabian-herbers/profil/spieler/196077
+1619,52,Alex Monis,Right Winger,17,United States,1.68,right,2020-03-11,Chicago Fire Academy,31.12.2023,0.0,https://www.transfermarkt.com/alex-monis/profil/spieler/724442
+1620,52,Robert Beric,Centre-Forward,28,Slovenia,1.88,right,2020-01-18,AS Saint-Étienne,31.12.2021,2.59,https://www.transfermarkt.com/robert-beric/profil/spieler/91415
+1621,52,C.J. Sapong,Centre-Forward,31,United States,1.85,right,2019-02-23,Philadelphia Union,31.12.2020,1.08,https://www.transfermarkt.com/c-j-sapong/profil/spieler/174724
+1622,52,Elliot Collier,Centre-Forward,25,New Zealand,1.93,-,2018-01-21,Loyola Ramblers (Loyola University Chicago),31.12.2020,0.32,https://www.transfermarkt.com/elliot-collier/profil/spieler/253861

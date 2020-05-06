@@ -1,0 +1,28 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1975,66,Joe Willis,Goalkeeper,31,United States,1.93,-,2019-11-19,Houston Dynamo,-,0.49,https://www.transfermarkt.com/joe-willis/profil/spieler/175615
+1976,66,Adrián Zendejas,Goalkeeper,24,United States,1.96,-,2019-11-19,Sporting Kansas City,-,0.16,https://www.transfermarkt.com/adrian-zendejas/profil/spieler/384129
+1977,66,Elliot Panicco,Goalkeeper,23,United States,1.95,-,2020-01-09,Charlotte 49ers (UNC Charlotte),-,0.05,https://www.transfermarkt.com/elliot-panicco/profil/spieler/637410
+1978,66,Tanner Dieterich,Defender,22,United States,m,-,2020-01-09,Clemson Tigers (Clemson University),-,0.05,https://www.transfermarkt.com/tanner-dieterich/profil/spieler/351507
+1979,66,Walker Zimmerman,Centre-Back,26,United States,1.9,-,2020-02-11,Los Angeles FC,-,2.16,https://www.transfermarkt.com/walker-zimmerman/profil/spieler/245337
+1980,66,Jalil Anibaba,Centre-Back,31,United States,1.83,right,2019-11-19,New England Revolution,-,0.59,https://www.transfermarkt.com/jalil-anibaba/profil/spieler/174715
+1981,66,Dave Romney,Centre-Back,26,United States,1.88,-,2019-11-12,Los Angeles Galaxy,-,0.51,https://www.transfermarkt.com/dave-romney/profil/spieler/367552
+1982,66,Miguel Nazarit,Centre-Back,22,Colombia,1.86,right,2020-01-01,Once Caldas,-,0.35,https://www.transfermarkt.com/miguel-nazarit/profil/spieler/572039
+1983,66,Ken Tribbett,Centre-Back,27,United States,1.88,right,2019-11-22,Nashville SC,31.12.2020,0.32,https://www.transfermarkt.com/ken-tribbett/profil/spieler/271662
+1984,66,Daniel Lovitz,Left-Back,28,United States,1.78,left,2019-11-19,Montreal Impact,-,0.81,https://www.transfermarkt.com/daniel-lovitz/profil/spieler/271198
+1985,66,Jimmy Medranda,Left-Back,26,Colombia,1.65,-,2019-11-19,Sporting Kansas City,-,0.51,https://www.transfermarkt.com/jimmy-medranda/profil/spieler/283624
+1986,66,Taylor Washington,Left-Back,26,United States,1.78,-,2019-11-22,Nashville SC,31.12.2020,0.22,https://www.transfermarkt.com/taylor-washington/profil/spieler/417394
+1987,66,Brayan Beckeles,Right-Back,34,Honduras,1.82,right,2020-01-01,CD Olimpia,-,0.7,https://www.transfermarkt.com/brayan-beckeles/profil/spieler/171043
+1988,66,Eric Miller,Right-Back,27,United States,1.86,right,2019-11-26,New York City FC,-,0.35,https://www.transfermarkt.com/eric-miller/profil/spieler/245315
+1989,66,Alistair Johnston,Midfielder,21,Canada,1.8,-,2020-01-09,Demon Deacons (Wake Forest University),-,0.05,https://www.transfermarkt.com/alistair-johnston/profil/spieler/637446
+1990,66,Aníbal Godoy,Defensive Midfield,30,Panama,1.83,left,2020-01-01,San Jose Earthquakes,-,0.59,https://www.transfermarkt.com/anibal-godoy/profil/spieler/161671
+1991,66,Matt LaGrassa,Defensive Midfield,27,United States,1.82,-,2019-11-22,Nashville SC,31.12.2020,0.3,https://www.transfermarkt.com/matt-lagrassa/profil/spieler/423454
+1992,66,Dax McCarty,Central Midfield,33,United States,1.75,right,2019-11-12,Chicago Fire FC,-,0.73,https://www.transfermarkt.com/dax-mccarty/profil/spieler/39479
+1993,66,Derrick Jones,Central Midfield,23,United States,1.9,right,2019-05-08,Philadelphia Union,-,0.32,https://www.transfermarkt.com/derrick-jones/profil/spieler/411554
+1994,66,Brian Anunga,Central Midfield,23,Cameroon,1.8,-,2020-01-15,Charleston Battery,-,0.3,https://www.transfermarkt.com/brian-anunga/profil/spieler/374282
+1995,66,Hany Mukhtar,Attacking Midfield,25,Germany,1.73,both,2020-01-01,Bröndby IF,-,2.38,https://www.transfermarkt.com/hany-mukhtar/profil/spieler/146155
+1996,66,David Accam,Left Winger,29,Ghana,1.74,right,2020-01-01,Columbus Crew SC,-,0.51,https://www.transfermarkt.com/david-accam/profil/spieler/221855
+1997,66,Randall Leal,Left Winger,23,Costa Rica,1.69,right,2020-01-01,Deportivo Saprissa,-,0.32,https://www.transfermarkt.com/randall-leal/profil/spieler/297786
+1998,66,Dominique Badji,Centre-Forward,27,Senegal,1.83,-,2019-12-02,FC Dallas,31.12.2020,0.86,https://www.transfermarkt.com/dominique-badji/profil/spieler/354840
+1999,66,Abu Danladi,Centre-Forward,24,Ghana,1.78,right,2019-11-19,Minnesota United FC,-,0.51,https://www.transfermarkt.com/abu-danladi/profil/spieler/476676
+2000,66,Daniel Ríos,Centre-Forward,25,Mexico,1.86,left,2018-12-01,Deportivo Guadalajara Premier,-,0.38,https://www.transfermarkt.com/daniel-rios/profil/spieler/325603
+2001,66,Alan Winn,Centre-Forward,24,United States,1.8,-,2019-11-22,Nashville SC,31.12.2020,0.16,https://www.transfermarkt.com/alan-winn/profil/spieler/336173

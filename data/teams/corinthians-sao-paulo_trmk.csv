@@ -1,0 +1,34 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+139,5,Cássio,Goalkeeper,32,Brazil,1.95,right,2012-01-01,Without Club,31.12.2022,2.59,https://www.transfermarkt.com/cassio/profil/spieler/50144
+140,5,Walter,Goalkeeper,32,Brazil,1.88,right,2013-05-01,União Agrícola Barbarense FC (SP),31.12.2021,0.51,https://www.transfermarkt.com/walter/profil/spieler/269860
+141,5,Matheus Donelli,Goalkeeper,17,Brazil,1.89,-,-,-,31.12.2021,0.49,https://www.transfermarkt.com/matheus-donelli/profil/spieler/708723
+142,5,Guilherme Vicentini,Goalkeeper,19,Brazil,1.89,right,2020-02-01,Sport Club Corinthians Paulista U20,31.12.2021,0.0,https://www.transfermarkt.com/guilherme-vicentini/profil/spieler/748527
+143,5,Léo Santos,Centre-Back,21,Brazil,1.86,right,2017-01-01,Sport Club Corinthians Paulista B,12.09.2020,5.83,https://www.transfermarkt.com/leo-santos/profil/spieler/351894
+144,5,Gil,Centre-Back,32,Brazil,1.92,right,2019-07-03,Shandong Luneng Taishan,31.12.2022,4.32,https://www.transfermarkt.com/giltm/profil/spieler/101469
+145,5,Danilo Avelar,Centre-Back,30,Brazil,1.85,left,2019-07-01,Torino FC,31.12.2022,2.16,https://www.transfermarkt.com/danilo-avelar/profil/spieler/140748
+146,5,Bruno Méndez,Centre-Back,20,Uruguay,1.84,right,2019-02-28,Montevideo Wanderers,31.12.2023,1.94,https://www.transfermarkt.com/bruno-mendez/profil/spieler/552912
+147,5,Pedro Henrique,Centre-Back,24,Brazil,1.88,right,-,-,31.12.2021,0.59,https://www.transfermarkt.com/pedro-henrique/profil/spieler/329720
+148,5,Yago,Centre-Back,27,Brazil,1.85,right,2013-05-01,Sport Club Corinthians Paulista B,30.06.2021,0.51,https://www.transfermarkt.com/yago/profil/spieler/184156
+149,5,João Victor,Centre-Back,21,Brazil,1.87,right,2019-01-01,Sport Club Corinthians Paulista B,31.07.2022,0.05,https://www.transfermarkt.com/joao-victor/profil/spieler/671145
+150,5,Sidcley,Left-Back,26,Brazil,1.76,left,2020-01-08,Dynamo Kyiv,31.12.2020,3.46,https://www.transfermarkt.com/sidcley/profil/spieler/330060
+151,5,Lucas Piton,Left-Back,19,Brazil,1.75,left,2019-07-01,Sport Club Corinthians Paulista U20,31.12.2022,0.97,https://www.transfermarkt.com/lucas-piton/profil/spieler/670201
+152,5,Carlos Augusto,Left-Back,21,Brazil,1.84,left,-,-,31.12.2021,0.86,https://www.transfermarkt.com/carlos-augusto/profil/spieler/585982
+153,5,Fágner,Right-Back,30,Brazil,1.68,right,2015-01-09,VfL Wolfsburg,31.12.2022,4.32,https://www.transfermarkt.com/fagner/profil/spieler/47592
+154,5,Míchel,Right-Back,30,Brazil,1.77,right,2019-01-01,Without Club,31.12.2021,1.19,https://www.transfermarkt.com/michel/profil/spieler/77262
+155,5,Gabriel,Defensive Midfield,27,Brazil,1.72,right,2017-01-13,Atlético Monte Azul (SP),31.12.2022,3.46,https://www.transfermarkt.com/gabriel/profil/spieler/213606
+156,5,Éderson,Defensive Midfield,20,Brazil,1.83,right,2020-02-21,Cruzeiro Esporte Clube,31.01.2025,2.48,https://www.transfermarkt.com/ederson/profil/spieler/607854
+157,5,Richard,Defensive Midfield,26,Brazil,1.91,right,2019-01-01,Fluminense Football Club,31.12.2022,1.3,https://www.transfermarkt.com/richard/profil/spieler/530737
+158,5,Víctor Cantillo,Central Midfield,26,Colombia,1.8,right,2020-01-09,Junior FC,31.12.2024,2.16,https://www.transfermarkt.com/victor-cantillo/profil/spieler/263032
+159,5,Guilherme Camacho,Central Midfield,30,Brazil,1.8,right,2016-05-25,Grêmio Osasco Audax (SP),31.12.2022,0.78,https://www.transfermarkt.com/guilherme-camacho/profil/spieler/97507
+160,5,Ramiro,Right Midfield,26,Brazil,1.69,right,2019-01-01,Grêmio Foot-Ball Porto Alegrense,31.12.2022,3.02,https://www.transfermarkt.com/ramiro/profil/spieler/258070
+161,5,Ángelo Araos,Attacking Midfield,23,Chile,1.74,right,2019-07-01,Club Universidad de Chile,31.07.2023,3.46,https://www.transfermarkt.com/angelo-araos/profil/spieler/403148
+162,5,Mateus Vital,Attacking Midfield,22,Brazil,1.75,right,2018-01-16,Club de Regatas Vasco da Gama,31.12.2023,3.46,https://www.transfermarkt.com/mateus-vital/profil/spieler/408958
+163,5,Everaldo,Left Winger,25,Brazil,1.72,right,2019-05-22,Associação Esportiva Velo Clube Rioclare,30.06.2023,0.97,https://www.transfermarkt.com/everaldo/profil/spieler/388397
+164,5,Pedrinho,Right Winger,22,Brazil,1.72,left,2017-01-01,Sport Club Corinthians Paulista B,31.12.2023,14.58,https://www.transfermarkt.com/pedrinho/profil/spieler/515208
+165,5,Janderson,Right Winger,21,Brazil,1.61,right,2019-07-01,Sport Club Corinthians Paulista U20,31.12.2023,2.92,https://www.transfermarkt.com/janderson/profil/spieler/670940
+166,5,Yony González,Right Winger,25,Colombia,1.84,right,2020-02-07,SL Benfica,31.12.2023,1.94,https://www.transfermarkt.com/yony-gonzalez/profil/spieler/262474
+167,5,Davó,Right Winger,20,Brazil,1.78,right,2020-01-13,Guarani Futebol Clube (SP),31.12.2023,0.73,https://www.transfermarkt.com/davo/profil/spieler/670522
+168,5,Luan,Second Striker,27,Brazil,1.8,right,2020-01-01,Grêmio Foot-Ball Porto Alegrense,31.12.2023,7.02,https://www.transfermarkt.com/luan/profil/spieler/313106
+169,5,Mauro Boselli,Centre-Forward,34,Argentina,1.85,right,2019-01-03,Club León FC,30.12.2020,1.3,https://www.transfermarkt.com/mauro-boselli/profil/spieler/40822
+170,5,Vágner Love,Centre-Forward,35,Brazil,1.72,both,2019-01-25,Besiktas JK,31.12.2020,1.08,https://www.transfermarkt.com/vagner-love/profil/spieler/18829
+171,5,Carlinhos,Centre-Forward,23,Brazil,1.95,right,-,-,31.12.2020,0.05,https://www.transfermarkt.com/carlinhos/profil/spieler/363173

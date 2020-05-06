@@ -1,0 +1,29 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+522,16,Tadeu,Goalkeeper,28,Brazil,1.84,right,2020-01-01,Associação Ferroviária de Esportes (SP),31.12.2023,0.86,https://www.transfermarkt.com/tadeu/profil/spieler/258367
+523,16,Marcelo Rangel,Goalkeeper,31,Brazil,1.86,right,2017-01-16,Londrina Esporte Clube (PR),31.12.2020,0.22,https://www.transfermarkt.com/marcelo-rangel/profil/spieler/412610
+524,16,Matheus Alves,Goalkeeper,25,Brazil,1.89,-,2015-01-01,Goiás Esporte Clube U19,-,0.05,https://www.transfermarkt.com/matheus-alves/profil/spieler/363772
+525,16,Luiz Gustavo,Centre-Back,26,Brazil,1.8,right,2020-01-21,Club de Regatas Vasco da Gama,31.12.2020,0.86,https://www.transfermarkt.com/luiz-gustavo/profil/spieler/225640
+526,16,David Duarte,Centre-Back,25,Brazil,1.92,right,2016-01-01,Goiás Esporte Clube U19,31.12.2021,0.78,https://www.transfermarkt.com/david-duarte/profil/spieler/373446
+527,16,Rafael Vaz,Centre-Back,31,Brazil,1.88,left,2019-01-01,Clube de Regatas do Flamengo,31.12.2020,0.7,https://www.transfermarkt.com/rafael-vaz/profil/spieler/255805
+528,16,Lucão,Centre-Back,24,Brazil,1.85,right,2019-09-25,Without Club,31.12.2020,0.65,https://www.transfermarkt.com/lucao/profil/spieler/270191
+529,16,Fábio Sanches,Centre-Back,29,Brazil,1.86,right,2017-01-16,Avaí Futebol Clube (SC),31.12.2021,0.57,https://www.transfermarkt.com/fabio-sanches/profil/spieler/267464
+530,16,Caju,Left-Back,24,Brazil,1.83,left,2020-01-20,SC Braga,31.12.2020,0.86,https://www.transfermarkt.com/caju/profil/spieler/342843
+531,16,Jefferson,Left-Back,23,Brazil,1.76,left,2016-01-01,Goiás Esporte Clube U19,31.12.2022,0.86,https://www.transfermarkt.com/jefferson/profil/spieler/435211
+532,16,Vidal,Right-Back,23,Brazil,1.74,right,2020-01-13,Esporte Clube Juventude,31.12.2021,0.51,https://www.transfermarkt.com/vidal/profil/spieler/527047
+533,16,Yago Rocha,Right-Back,25,Brazil,m,right,2019-05-06,Goiânia Esporte Clube (GO),31.12.2020,0.43,https://www.transfermarkt.com/yago-rocha/profil/spieler/663088
+534,16,Juan Pintado,Right-Back,22,Uruguay,1.73,right,2020-01-13,Juventud de Las Piedras,31.12.2020,0.32,https://www.transfermarkt.com/juan-pintado/profil/spieler/410456
+535,16,Sandro,Defensive Midfield,31,Brazil,1.87,right,2020-01-18,Genoa CFC,31.12.2020,0.86,https://www.transfermarkt.com/sandro/profil/spieler/74590
+536,16,Gilberto,Defensive Midfield,31,Brazil,1.89,right,2018-04-03,Associação Atlética Anapolina (GO),31.12.2020,0.51,https://www.transfermarkt.com/gilberto/profil/spieler/186526
+537,16,Daniel Bessa,Central Midfield,27,Italy,1.78,right,2020-01-21,Hellas Verona,31.12.2020,3.46,https://www.transfermarkt.com/daniel-bessa/profil/spieler/140757
+538,16,Léo Sena,Central Midfield,24,Brazil,1.75,right,2016-01-01,Goiás Esporte Clube U19,31.12.2020,1.08,https://www.transfermarkt.com/leo-sena/profil/spieler/435213
+539,16,Ratinho,Central Midfield,23,Brazil,1.75,right,2019-01-11,Itaberaí Esporte Clube (GO),-,0.35,https://www.transfermarkt.com/ratinho/profil/spieler/613190
+540,16,Thalles,Attacking Midfield,22,Brazil,1.76,left,2019-07-01,Goiás Esporte Clube B,31.12.2022,0.86,https://www.transfermarkt.com/thalles/profil/spieler/436580
+541,16,Ignacio Jara,Attacking Midfield,23,Chile,m,right,2020-01-15,Deportes Cobreloa,31.12.2020,0.03,https://www.transfermarkt.com/ignacio-jara/profil/spieler/438222
+542,16,Daniel Villalva,Left Winger,27,Argentina,1.58,right,2020-01-10,Tiburones Rojos de Veracruz,31.12.2020,1.3,https://www.transfermarkt.com/daniel-villalva/profil/spieler/85371
+543,16,Victor Andrade,Left Winger,24,Brazil,1.77,right,2020-01-23,Estoril Praia,-,0.35,https://www.transfermarkt.com/victor-andrade/profil/spieler/203323
+544,16,Kevin Quevedo,Right Winger,23,Peru,1.77,both,2020-02-09,Club Alianza Lima,31.12.2020,0.78,https://www.transfermarkt.com/kevin-quevedo/profil/spieler/439631
+545,16,Marcinho,Right Winger,24,Brazil,1.76,right,2019-01-03,São Bernardo Futebol Clube (SP),31.12.2021,0.7,https://www.transfermarkt.com/marcinho/profil/spieler/514500
+546,16,Mike,Right Winger,27,Brazil,1.74,left,2020-01-31,AC Goianiense (GO),31.12.2020,0.32,https://www.transfermarkt.com/mike/profil/spieler/227462
+547,16,Henrique Almeida,Centre-Forward,28,Brazil,1.77,right,2020-01-06,Grêmio Foot-Ball Porto Alegrense,-,0.65,https://www.transfermarkt.com/henrique-almeida/profil/spieler/103743
+548,16,Rafael Moura,Centre-Forward,36,Brazil,1.89,right,2019-07-11,Without Club,31.12.2020,0.43,https://www.transfermarkt.com/rafael-moura/profil/spieler/53256
+549,16,Lucão,Centre-Forward,28,Brazil,1.84,right,2020-01-08,Fluminense Football Club,-,0.32,https://www.transfermarkt.com/lucao/profil/spieler/177000

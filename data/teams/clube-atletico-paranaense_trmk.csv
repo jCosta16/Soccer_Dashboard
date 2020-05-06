@@ -1,0 +1,36 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+360,11,Santos,Goalkeeper,30,Brazil,1.88,right,2010-01-01,Clube Atlético Paranaense B,31.12.2022,1.73,https://www.transfermarkt.com/santos/profil/spieler/140811
+361,11,Jandrei,Goalkeeper,27,Brazil,1.86,right,2020-02-14,Genoa CFC,30.06.2021,1.51,https://www.transfermarkt.com/jandrei/profil/spieler/512344
+362,11,Anderson Paixão,Goalkeeper,22,Brazil,m,-,-,-,31.12.2022,0.27,https://www.transfermarkt.com/anderson-paixao/profil/spieler/598974
+363,11,Caio,Goalkeeper,23,Brazil,1.94,right,-,-,-,0.05,https://www.transfermarkt.com/caio/profil/spieler/582690
+364,11,Léo Vieira,Goalkeeper,29,Brazil,1.93,right,2017-07-18,São Paulo Futebol Clube,18.07.2020,0.05,https://www.transfermarkt.com/leo-vieira/profil/spieler/67144
+365,11,Lucas Halter,Centre-Back,20,Brazil,1.87,right,2019-01-01,Club Athletico Paranaense U19,31.07.2024,2.92,https://www.transfermarkt.com/lucas-halter/profil/spieler/468302
+366,11,Felipe Aguilar,Centre-Back,27,Colombia,1.9,right,2020-03-19,Santos FC,31.12.2023,1.73,https://www.transfermarkt.com/felipe-aguilar/profil/spieler/260377
+367,11,Thiago Heleno,Centre-Back,31,Brazil,1.87,right,2017-01-20,Club Deportivo Maldonado,31.12.2022,1.73,https://www.transfermarkt.com/thiago-heleno/profil/spieler/45431
+368,11,Robson Bambu,Centre-Back,22,Brazil,1.85,right,2019-01-01,Santos FC,20.11.2022,0.86,https://www.transfermarkt.com/robson-bambu/profil/spieler/458715
+369,11,Zé Ivaldo,Centre-Back,23,Brazil,1.85,right,2017-01-01,Clube Atlético Paranaense B,31.12.2020,0.78,https://www.transfermarkt.com/ze-ivaldo/profil/spieler/484848
+370,11,Pedrão,Centre-Back,23,Brazil,1.94,-,2020-02-20,Sociedade Esportiva Palmeiras,31.12.2020,0.05,https://www.transfermarkt.com/pedrao/profil/spieler/585264
+371,11,Abner,Left-Back,19,Brazil,1.81,left,2019-07-19,Associação Atlética Ponte Preta,16.07.2024,0.97,https://www.transfermarkt.com/abner/profil/spieler/646402
+372,11,Márcio Azevedo,Left-Back,34,Brazil,1.73,left,2018-07-24,Shakhtar Donetsk,31.12.2020,0.7,https://www.transfermarkt.com/marcio-azevedo/profil/spieler/55484
+373,11,Adriano,Left-Back,35,Brazil,1.72,both,2019-07-23,Besiktas JK,31.12.2020,0.65,https://www.transfermarkt.com/adriano/profil/spieler/34495
+374,11,Jáderson,Left-Back,19,Brazil,m,left,-,-,17.04.2023,0.05,https://www.transfermarkt.com/jaderson/profil/spieler/653349
+375,11,Khellven,Right-Back,19,Brazil,m,right,2019-05-01,Club Athletico Paranaense B,27.02.2024,3.89,https://www.transfermarkt.com/khellven/profil/spieler/653348
+376,11,Jonathan,Right-Back,34,Brazil,1.7,right,2017-01-01,Fluminense Football Club,31.12.2020,0.78,https://www.transfermarkt.com/jonathan/profil/spieler/54149
+377,11,Wellington,Defensive Midfield,29,Brazil,1.73,right,2018-07-26,São Paulo Futebol Clube,31.12.2020,1.19,https://www.transfermarkt.com/wellington/profil/spieler/74789
+378,11,Léo Cittadini,Central Midfield,26,Brazil,1.78,left,2019-01-14,Santos FC,31.12.2021,0.81,https://www.transfermarkt.com/leo-cittadini/profil/spieler/187210
+379,11,Erick,Central Midfield,22,Brazil,1.76,right,2019-01-01,Paraná Soccer Technical Center (PR),13.01.2025,0.78,https://www.transfermarkt.com/erick/profil/spieler/633212
+380,11,Lucho González,Central Midfield,39,Argentina,1.86,right,2016-09-16,Without Club,31.12.2020,0.43,https://www.transfermarkt.com/lucho-gonzalez/profil/spieler/26244
+381,11,Christian,Central Midfield,19,Brazil,1.78,right,2019-09-01,Club Athletico Paranaense U19,31.12.2024,0.27,https://www.transfermarkt.com/christian/profil/spieler/658678
+382,11,Matheus Anjos,Central Midfield,21,Brazil,m,right,-,-,10.12.2020,0.11,https://www.transfermarkt.com/matheus-anjos/profil/spieler/520623
+383,11,Léo Gomes,Central Midfield,23,Brazil,1.81,right,2019-06-27,Esporte Clube Vitória,12.12.2022,0.05,https://www.transfermarkt.com/leo-gomes/profil/spieler/578630
+384,11,Vitinho,Attacking Midfield,21,Brazil,m,-,2019-01-01,Club Athletico Paranaense U19,31.07.2022,1.94,https://www.transfermarkt.com/vitinho/profil/spieler/670965
+385,11,Nikão,Attacking Midfield,27,Brazil,1.74,left,2015-01-14,Clube Atlético Mineiro,31.12.2021,1.51,https://www.transfermarkt.com/nikao/profil/spieler/149572
+386,11,Fernando Canesin,Attacking Midfield,28,Brazil,1.74,right,2020-01-14,KV Oostende,31.12.2021,1.19,https://www.transfermarkt.com/fernando-canesin/profil/spieler/153065
+387,11,João Pedro,Attacking Midfield,23,Brazil,1.8,left,2016-01-05,Clube Atlético Paranaense B,31.12.2022,0.43,https://www.transfermarkt.com/joao-pedro/profil/spieler/376157
+388,11,Juan Manuel Boselli,Attacking Midfield,20,Uruguay,1.74,left,2019-08-13,Defensor Sporting Club,31.12.2020,0.32,https://www.transfermarkt.com/juan-manuel-boselli/profil/spieler/487421
+389,11,Marquinhos Gabriel,Left Winger,29,Brazil,1.74,left,2020-01-14,Cruzeiro Esporte Clube,31.12.2020,1.4,https://www.transfermarkt.com/marquinhos-gabriel/profil/spieler/100091
+390,11,Pedrinho,Left Winger,20,Brazil,1.76,right,-,-,31.07.2021,0.86,https://www.transfermarkt.com/pedrinho/profil/spieler/538978
+391,11,Jajá,Left Winger,19,Brazil,m,left,2020-02-27,Grêmio Novorizontino (SP) U20,19.02.2024,0.0,https://www.transfermarkt.com/jaja/profil/spieler/739477
+392,11,Carlos Eduardo,Right Winger,23,Brazil,1.73,right,2020-01-14,Sociedade Esportiva Palmeiras,31.12.2022,3.02,https://www.transfermarkt.com/carlos-eduardo/profil/spieler/363794
+393,11,Yago César,Right Winger,22,Brazil,1.7,right,2018-04-01,Clube Atlético Paranaense B,31.12.2022,0.32,https://www.transfermarkt.com/yago-cesar/profil/spieler/448308
+394,11,Guilherme Bissoli,Centre-Forward,22,Brazil,1.75,-,2020-01-16,Club Fernando de la Mora,31.12.2020,0.05,https://www.transfermarkt.com/guilherme-bissoli/profil/spieler/553458

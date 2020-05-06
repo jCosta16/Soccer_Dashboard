@@ -1,0 +1,26 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1382,44,David Bingham,Goalkeeper,30,United States,1.88,-,2017-12-18,San Jose Earthquakes,31.12.2020,0.51,https://www.transfermarkt.com/david-bingham/profil/spieler/176157
+1383,44,Justin vom Steeg,Goalkeeper,23,United States,1.93,-,2018-03-01,Los Angeles Galaxy II,31.12.2020,0.27,https://www.transfermarkt.com/justin-vom-steeg/profil/spieler/455856
+1384,44,Eric López,Goalkeeper,21,United States,1.9,-,2020-01-15,Los Angeles Galaxy II,-,0.14,https://www.transfermarkt.com/eric-lopez/profil/spieler/332707
+1385,44,Daniel Steres,Centre-Back,29,United States,1.83,right,2015-12-17,Los Angeles Galaxy II,31.12.2020,0.86,https://www.transfermarkt.com/daniel-steres/profil/spieler/227909
+1386,44,Giancarlo González,Centre-Back,32,Costa Rica,1.86,right,2019-04-11,Bologna FC 1909,31.12.2021,0.78,https://www.transfermarkt.com/giancarlo-gonzalez/profil/spieler/111893
+1387,44,Nick DePuy,Centre-Back,25,United States,1.93,-,2020-02-05,Los Angeles Galaxy II,31.12.2020,0.16,https://www.transfermarkt.com/nick-depuy/profil/spieler/482622
+1388,44,Emiliano Insúa,Left-Back,31,Argentina,1.81,left,2020-01-02,VfB Stuttgart,31.12.2020,0.86,https://www.transfermarkt.com/emiliano-insua/profil/spieler/45599
+1389,44,Danilo Acosta,Left-Back,22,Honduras,1.8,-,2020-01-08,Real Salt Lake City,31.12.2020,0.27,https://www.transfermarkt.com/danilo-acosta/profil/spieler/375074
+1390,44,Diédié Traoré,Left-Back,21,France,1.83,left,2019-03-06,Los Angeles Galaxy II,-,0.22,https://www.transfermarkt.com/diedie-traore/profil/spieler/494934
+1391,44,Rolf Feltscher,Right-Back,29,Venezuela,1.84,right,2018-01-01,Cardiff City,31.12.2020,0.59,https://www.transfermarkt.com/rolf-feltscher/profil/spieler/52590
+1392,44,Julian Araujo,Right-Back,18,United States,m,-,2019-03-01,Los Angeles Galaxy Academy,-,0.43,https://www.transfermarkt.com/julian-araujo/profil/spieler/513970
+1393,44,Perry Kitchen,Defensive Midfield,28,United States,1.83,right,2018-01-09,Randers FC,-,0.51,https://www.transfermarkt.com/perry-kitchen/profil/spieler/131183
+1394,44,Jonathan dos Santos,Central Midfield,30,Mexico,1.72,right,2017-07-28,Villarreal CF,-,1.73,https://www.transfermarkt.com/jonathan-dos-santos/profil/spieler/60445
+1395,44,Sebastian Lletget,Central Midfield,27,United States,1.78,-,2015-05-08,West Ham United U21,-,1.03,https://www.transfermarkt.com/sebastian-lletget/profil/spieler/175996
+1396,44,Joe Corona,Central Midfield,29,United States,1.76,right,2019-03-06,Club Tijuana,-,0.86,https://www.transfermarkt.com/joe-corona/profil/spieler/162940
+1397,44,Efraín Álvarez,Attacking Midfield,17,Mexico,1.73,left,2018-03-04,Los Angeles Galaxy II,-,0.97,https://www.transfermarkt.com/efrain-alvarez/profil/spieler/504113
+1398,44,Sacha Kljestan,Attacking Midfield,34,United States,1.85,both,2019-12-11,Orlando City SC,31.12.2020,0.59,https://www.transfermarkt.com/sacha-kljestan/profil/spieler/39475
+1399,44,Emil Cuello,Attacking Midfield,23,Argentina,1.8,-,2019-01-11,SMU Mustangs (Southern Methodist University),31.12.2020,0.32,https://www.transfermarkt.com/emil-cuello/profil/spieler/636466
+1400,44,Aleksandar Katai,Left Winger,29,Serbia,1.82,right,2019-12-31,Chicago Fire FC,-,1.73,https://www.transfermarkt.com/aleksandar-katai/profil/spieler/139915
+1401,44,Jonathan Pérez,Left Winger,17,Mexico,1.68,left,2020-02-21,Los Angeles Galaxy Academy,31.12.2020,0.05,https://www.transfermarkt.com/jonathan-perez/profil/spieler/694158
+1402,44,Cristian Pavón,Right Winger,24,Argentina,1.74,right,2019-08-08,Club Atlético Boca Juniors,31.12.2020,10.8,https://www.transfermarkt.com/cristian-pavon/profil/spieler/373170
+1403,44,Gordon Wild,Right Winger,24,Germany,1.79,left,2020-02-25,D.C. United,31.12.2020,0.19,https://www.transfermarkt.com/gordon-wild/profil/spieler/215765
+1404,44,Cameron Dunbar,Right Winger,17,United States,m,both,2020-02-20,Los Angeles Galaxy Academy,-,0.05,https://www.transfermarkt.com/cameron-dunbar/profil/spieler/692091
+1405,44,Chicharito,Centre-Forward,31,Mexico,1.75,right,2020-01-21,Sevilla FC,-,7.34,https://www.transfermarkt.com/chicharito/profil/spieler/50935
+1406,44,Ethan Zubak,Centre-Forward,22,United States,1.88,-,2019-03-08,Los Angeles Galaxy II,-,0.43,https://www.transfermarkt.com/ethan-zubak/profil/spieler/375617

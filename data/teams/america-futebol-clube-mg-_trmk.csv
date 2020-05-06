@@ -1,0 +1,31 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+960,30,Jory,Goalkeeper,24,Brazil,1.9,-,-,-,30.06.2023,0.32,https://www.transfermarkt.com/jory/profil/spieler/429799
+961,30,Airton,Goalkeeper,25,Brazil,1.88,right,2019-04-16,EC Pelotas (RS),-,0.27,https://www.transfermarkt.com/airton/profil/spieler/377799
+962,30,Victor Hugo,Goalkeeper,22,Brazil,m,-,2020-02-05,Without Club,-,0.05,https://www.transfermarkt.com/victor-hugo/profil/spieler/566842
+963,30,Léo Lang,Goalkeeper,20,Brazil,m,right,2019-10-04,Unknown,31.12.2021,0.0,https://www.transfermarkt.com/leo-lang/profil/spieler/570584
+964,30,Eduardo Bauermann,Centre-Back,24,Brazil,1.87,right,2020-01-13,Paraná Clube,-,0.27,https://www.transfermarkt.com/eduardo-bauermann/profil/spieler/294804
+965,30,Lucas Kal,Centre-Back,24,Brazil,1.86,right,2019-09-17,São Paulo Futebol Clube,-,0.05,https://www.transfermarkt.com/lucas-kal/profil/spieler/435489
+966,30,Lucas Luan,Centre-Back,20,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/lucas-luan/profil/spieler/638014
+967,30,João Paulo,Left-Back,33,Brazil,1.73,left,2019-01-01,Figueirense Futebol Clube,-,0.51,https://www.transfermarkt.com/joao-paulo/profil/spieler/167471
+968,30,Savio,Left-Back,24,Brazil,m,left,2020-01-21,Associação Ferroviária de Esportes (SP),-,0.0,https://www.transfermarkt.com/savio/profil/spieler/607093
+969,30,Leandro Silva,Right-Back,31,Brazil,1.81,right,2018-12-19,Avaí Futebol Clube (SC),-,0.7,https://www.transfermarkt.com/leandro-silva/profil/spieler/192462
+970,30,Diego Ferreira,Right-Back,24,Brazil,1.75,right,2019-05-30,Tombense Futebol Clube (MG),-,0.22,https://www.transfermarkt.com/diego-ferreira/profil/spieler/382170
+971,30,Ynaiã,Right-Back,20,Brazil,1.77,right,-,-,-,0.0,https://www.transfermarkt.com/ynaia/profil/spieler/688661
+972,30,Juninho,Defensive Midfield,32,Brazil,1.73,right,2017-02-06,Atlético Paranaense,-,0.7,https://www.transfermarkt.com/juninho/profil/spieler/271187
+973,30,Zé Ricardo,Defensive Midfield,24,Brazil,1.76,right,-,-,31.12.2022,0.32,https://www.transfermarkt.com/ze-ricardo/profil/spieler/476336
+974,30,Rickson,Defensive Midfield,21,Brazil,1.8,right,2020-01-14,Botafogo Rio de Janeiro,30.11.2020,0.05,https://www.transfermarkt.com/rickson/profil/spieler/529609
+975,30,Alê,Defensive Midfield,29,Brazil,1.84,right,2019-12-25,Cuiabá Esporte Clube (MT),-,0.0,https://www.transfermarkt.com/aletm/profil/spieler/543614
+976,30,Joseph,Defensive Midfield,25,Brazil,m,-,2020-01-23,Capivariano Futebol Clube (SP),30.11.2020,0.0,https://www.transfermarkt.com/joseph/profil/spieler/663523
+977,30,Luisão,Defensive Midfield,21,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/luisao/profil/spieler/636505
+978,30,João Gabriel,Central Midfield,20,Brazil,m,left,-,-,-,0.0,https://www.transfermarkt.com/joao-gabriel/profil/spieler/700956
+979,30,Flávio,Central Midfield,19,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/flavio/profil/spieler/672618
+980,30,Matheusinho,Attacking Midfield,22,Brazil,1.64,right,2016-01-01,América Futebol Clube (MG) U20,31.12.2021,0.86,https://www.transfermarkt.com/matheusinho/profil/spieler/401533
+981,30,Geovane,Attacking Midfield,21,Brazil,1.7,-,2020-01-13,FC São Paulo B,31.12.2021,0.22,https://www.transfermarkt.com/geovane/profil/spieler/401532
+982,30,Léo Passos,Attacking Midfield,21,Brazil,1.83,right,2020-01-10,SE Palmeiras B,-,0.0,https://www.transfermarkt.com/leo-passos/profil/spieler/528004
+983,30,Felipe Azevedo,Right Winger,33,Brazil,1.74,left,2019-01-01,Ceará Sporting Club,31.12.2020,0.59,https://www.transfermarkt.com/felipe-azevedo/profil/spieler/75111
+984,30,Felipe Augusto,Right Winger,28,Brazil,1.82,right,2020-01-03,Mirassol Futebol Clube (SP),-,0.22,https://www.transfermarkt.com/felipe-augusto/profil/spieler/410443
+985,30,Ademir,Right Winger,25,Brazil,1.72,right,2018-04-03,CA Patrocinense (MG),31.12.2020,0.05,https://www.transfermarkt.com/ademir/profil/spieler/544259
+986,30,Marcelo Toscano,Centre-Forward,34,Brazil,1.84,right,2019-01-01,Omiya Ardija,31.12.2020,0.57,https://www.transfermarkt.com/marcelo-toscano/profil/spieler/84486
+987,30,Rodolfo,Centre-Forward,27,Brazil,1.75,right,2020-01-13,Capivariano Futebol Clube (SP),-,0.43,https://www.transfermarkt.com/rodolfo/profil/spieler/374097
+988,30,Neto Berola,Centre-Forward,32,Brazil,1.72,right,2019-01-01,Centro Sportivo Alagoano (AL),-,0.43,https://www.transfermarkt.com/neto-berola/profil/spieler/109652
+989,30,Vitão,Centre-Forward,20,Brazil,1.8,right,-,-,-,0.0,https://www.transfermarkt.com/vitao/profil/spieler/705488

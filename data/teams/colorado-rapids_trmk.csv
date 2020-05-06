@@ -1,0 +1,28 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1808,60,William Yarbrough,Goalkeeper,31,United States,1.88,right,2020-03-06,Club León FC,31.12.2020,0.86,https://www.transfermarkt.com/william-yarbrough/profil/spieler/215473
+1809,60,Clint Irwin,Goalkeeper,31,United States,1.91,-,2018-12-14,Toronto FC,-,0.43,https://www.transfermarkt.com/clint-irwin/profil/spieler/222110
+1810,60,Andre Rawls,Goalkeeper,28,United States,1.88,-,2018-12-14,New York City FC,31.12.2020,0.24,https://www.transfermarkt.com/andre-rawls/profil/spieler/354887
+1811,60,Abraham Rodriguez,Goalkeeper,17,United States,1.75,-,2020-02-20,Colorado Springs Switchbacks FC,30.11.2020,0.19,https://www.transfermarkt.com/abraham-rodriguez/profil/spieler/659765
+1812,60,Auston Trusty,Centre-Back,21,United States,1.9,left,2019-11-20,Philadelphia Union,-,1.19,https://www.transfermarkt.com/auston-trusty/profil/spieler/389253
+1813,60,Lalas Abubakar,Centre-Back,25,Ghana,1.85,-,2019-11-20,Columbus Crew SC,-,0.7,https://www.transfermarkt.com/lalas-abubakar/profil/spieler/482611
+1814,60,Danny Wilson,Centre-Back,28,Scotland,1.87,left,2018-01-29,Rangers FC,31.12.2020,0.51,https://www.transfermarkt.com/danny-wilson/profil/spieler/103819
+1815,60,Kortne Ford,Centre-Back,24,United States,1.88,-,2017-01-06,Denver Pioneers (University of Denver),-,0.27,https://www.transfermarkt.com/kortne-ford/profil/spieler/480719
+1816,60,Drew Moor,Centre-Back,36,United States,1.83,right,2019-11-27,Toronto FC,31.12.2020,0.22,https://www.transfermarkt.com/drew-moor/profil/spieler/39503
+1817,60,Abdul Rwatubyaye,Centre-Back,23,Rwanda,1.85,right,2019-05-08,Sporting Kansas City,30.11.2020,0.16,https://www.transfermarkt.com/abdul-rwatubyaye/profil/spieler/368580
+1818,60,Sam Vines,Left-Back,20,United States,1.78,left,2018-02-23,Colorado Rapids Academy,31.12.2020,0.73,https://www.transfermarkt.com/sam-vines/profil/spieler/535282
+1819,60,Deklan Wynne,Left-Back,25,New Zealand,1.78,left,2017-12-22,Vancouver Whitecaps FC,31.12.2020,0.57,https://www.transfermarkt.com/deklan-wynne/profil/spieler/298228
+1820,60,Keegan Rosenberry,Right-Back,26,United States,1.73,-,2018-12-19,Philadelphia Union,31.12.2021,0.86,https://www.transfermarkt.com/keegan-rosenberry/profil/spieler/268302
+1821,60,Sebastian Anderson,Right-Back,17,United States,1.75,-,2019-04-03,Colorado Rapids Academy,30.11.2020,0.35,https://www.transfermarkt.com/sebastian-anderson/profil/spieler/504146
+1822,60,Jeremy Kelly,Midfielder,22,United States,1.75,-,2020-01-10,Montreal Impact,31.12.2020,0.05,https://www.transfermarkt.com/jeremy-kelly/profil/spieler/430863
+1823,60,Kellyn Acosta,Defensive Midfield,24,United States,1.77,right,2018-07-23,FC Dallas,31.12.2021,2.59,https://www.transfermarkt.com/kellyn-acosta/profil/spieler/189895
+1824,60,Cole Bassett,Central Midfield,18,United States,1.8,both,2018-08-10,Colorado Rapids Academy,-,1.19,https://www.transfermarkt.com/cole-bassett/profil/spieler/605144
+1825,60,Jack Price,Central Midfield,27,England,1.71,right,2018-01-12,Wolverhampton Wanderers,-,0.86,https://www.transfermarkt.com/jack-price/profil/spieler/129062
+1826,60,Younes Namli,Attacking Midfield,25,Denmark,1.8,left,2020-01-15,FK Krasnodar,31.12.2021,2.16,https://www.transfermarkt.com/younes-namli/profil/spieler/227039
+1827,60,Nicolás Mezquida,Attacking Midfield,28,Uruguay,1.71,right,2018-12-09,Vancouver Whitecaps FC,31.12.2020,0.51,https://www.transfermarkt.com/nicolas-mezquida/profil/spieler/99993
+1828,60,Andre Shinyashiki,Left Winger,22,Brazil,1.75,right,2019-01-11,Denver Pioneers (University of Denver),31.12.2020,1.08,https://www.transfermarkt.com/andre-shinyashiki/profil/spieler/636331
+1829,60,Jonathan Lewis,Left Winger,22,United States,1.7,-,2019-05-08,New York City FC,31.12.2020,0.86,https://www.transfermarkt.com/jonathan-lewis/profil/spieler/479610
+1830,60,Nicolas Benezet,Left Winger,29,France,1.7,right,2020-01-14,EA Guingamp,31.12.2021,0.86,https://www.transfermarkt.com/nicolas-benezet/profil/spieler/164230
+1831,60,Sam Nicholson,Left Winger,25,Scotland,1.75,left,2018-05-01,Minnesota United FC,31.12.2020,0.59,https://www.transfermarkt.com/sam-nicholson/profil/spieler/169573
+1832,60,Diego Rubio,Centre-Forward,26,Chile,1.79,right,2018-12-18,Sporting Kansas City,31.12.2021,0.86,https://www.transfermarkt.com/diego-rubio/profil/spieler/179308
+1833,60,Kei Kamara,Centre-Forward,35,Sierra Leone,1.88,right,2018-12-12,FC Cincinnati,31.12.2020,0.51,https://www.transfermarkt.com/kei-kamara/profil/spieler/39049
+1834,60,Niki Jackson,Centre-Forward,24,United States,1.86,-,2017-02-19,Grand Canyon Antelopes (Grand Canyon University),30.11.2020,0.22,https://www.transfermarkt.com/niki-jackson/profil/spieler/544390

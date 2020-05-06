@@ -1,0 +1,36 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1181,37,Glauco,Goalkeeper,25,Brazil,m,right,2019-04-29,América Futebol Clube (MG),24.04.2021,0.05,https://www.transfermarkt.com/glauco/profil/spieler/265768
+1182,37,Caíque França,Goalkeeper,24,Brazil,1.86,right,2020-01-13,Sport Club Corinthians Paulista,30.11.2020,0.05,https://www.transfermarkt.com/caique-franca/profil/spieler/408850
+1183,37,Felipe Lacerda,Goalkeeper,27,Brazil,m,-,2020-01-16,Nacional Atlético Clube (SP),30.11.2020,0.0,https://www.transfermarkt.com/felipe-lacerda/profil/spieler/713256
+1184,37,Alexandre Joabe,Goalkeeper,19,Brazil,m,-,-,-,11.09.2021,0.0,https://www.transfermarkt.com/alexandre-joabe/profil/spieler/740291
+1185,37,Renan Fonseca,Centre-Back,29,Brazil,1.9,right,2020-01-15,Associação Atlética Ponte Preta,26.12.2020,0.59,https://www.transfermarkt.com/renan-fonseca/profil/spieler/124183
+1186,37,André Vinicius,Centre-Back,28,Brazil,1.88,right,2020-01-15,Without Club,30.11.2020,0.27,https://www.transfermarkt.com/andre-vinicius/profil/spieler/152922
+1187,37,Sidimar,Centre-Back,27,Brazil,1.85,right,2020-01-08,Esporte Clube Juventude,16.12.2020,0.16,https://www.transfermarkt.com/sidimar/profil/spieler/129119
+1188,37,Bruno Bispo,Centre-Back,23,Brazil,1.86,left,2020-01-15,Esporte Clube Vitória,31.12.2021,0.05,https://www.transfermarkt.com/bruno-bispo/profil/spieler/485554
+1189,37,Thiago Nunes,Centre-Back,21,Brazil,1.91,right,-,-,17.03.2022,0.0,https://www.transfermarkt.com/thiago-nunes/profil/spieler/644142
+1190,37,Salomão,Left-Back,23,Brazil,m,left,2019-09-27,Ituano Futebol Clube (SP),30.11.2021,0.32,https://www.transfermarkt.com/salomao/profil/spieler/519885
+1191,37,Éder Sciola,Right-Back,34,Brazil,1.83,right,2020-01-22,Paraná Clube,10.11.2021,0.27,https://www.transfermarkt.com/eder-sciola/profil/spieler/69441
+1192,37,Biel,Right-Back,20,Brazil,m,-,-,-,05.02.2021,0.0,https://www.transfermarkt.com/biel/profil/spieler/748530
+1193,37,Betinho,Defensive Midfield,32,Brazil,1.75,left,2015-04-30,Associação Portuguesa de Desportos (SP) ,10.05.2021,0.35,https://www.transfermarkt.com/betinho/profil/spieler/271476
+1194,37,Lidio,Defensive Midfield,33,Brazil,1.86,-,2017-01-02,Barretos Esporte Clube (SP),10.05.2021,0.32,https://www.transfermarkt.com/lidio/profil/spieler/520652
+1195,37,Diogo,Defensive Midfield,17,Brazil,m,-,-,-,26.06.2021,0.0,https://www.transfermarkt.com/diogo/profil/spieler/688077
+1196,37,Guilherme Mantuan,Central Midfield,22,Brazil,1.78,right,2020-01-13,Sport Club Corinthians Paulista,31.12.2020,0.43,https://www.transfermarkt.com/guilherme-mantuan/profil/spieler/477461
+1197,37,Bonilha,Central Midfield,24,Brazil,1.88,right,2018-06-05,Fluminense Football Club U20,30.11.2020,0.05,https://www.transfermarkt.com/bonilha/profil/spieler/419374
+1198,37,De Paula,Central Midfield,21,Brazil,m,-,-,-,13.01.2023,0.0,https://www.transfermarkt.com/de-paula/profil/spieler/739260
+1199,37,Matheus Oliveira,Right Midfield,22,Brazil,1.73,left,2019-06-28,Associação Atlética Ponte Preta,31.12.2020,0.05,https://www.transfermarkt.com/matheus-oliveira/profil/spieler/484874
+1200,37,Jussa,Left Midfield,24,Brazil,1.83,left,2019-07-22,São Bernardo Futebol Clube (SP),14.01.2022,0.0,https://www.transfermarkt.com/jussa/profil/spieler/347909
+1201,37,Fabrício Oya,Attacking Midfield,20,Brazil,1.74,right,2020-01-08,Sport Club Corinthians Paulista B,31.12.2020,0.0,https://www.transfermarkt.com/fabricio-oya/profil/spieler/490408
+1202,37,Marlon,Attacking Midfield,22,Brazil,m,-,2020-01-08,Clube Atlético do Porto (PE),31.12.2020,0.0,https://www.transfermarkt.com/marlon/profil/spieler/635807
+1203,37,Mazinho,Left Winger,32,Brazil,1.65,left,2017-07-31,Sociedade Esportiva Palmeiras,30.11.2020,0.7,https://www.transfermarkt.com/mazinho/profil/spieler/148661
+1204,37,Erivan,Left Winger,19,Brazil,m,-,-,-,08.01.2021,0.0,https://www.transfermarkt.com/erivan/profil/spieler/692781
+1205,37,Jô,Right Winger,21,Brazil,m,-,2019-07-22,Avaí Futebol Clube (SC) B,31.05.2020,0.05,https://www.transfermarkt.com/jotm/profil/spieler/665989
+1206,37,Welliton,Right Winger,19,Brazil,m,-,-,-,01.07.2021,0.0,https://www.transfermarkt.com/welliton/profil/spieler/697848
+1207,37,Kauã Jesus,Right Winger,16,Brazil,1.65,left,-,-,02.09.2022,0.0,https://www.transfermarkt.com/kaua-jesus/profil/spieler/704585
+1208,37,Roberto,Centre-Forward,34,Brazil,1.8,right,2019-01-01,Associação Atlética Ponte Preta,30.11.2020,0.43,https://www.transfermarkt.com/roberto/profil/spieler/119131
+1209,37,João Paulo,Centre-Forward,23,Brazil,1.79,left,2020-01-10,Without Club,30.11.2020,0.35,https://www.transfermarkt.com/joao-paulo/profil/spieler/375016
+1210,37,Bruno Lopes,Centre-Forward,24,Brazil,1.75,right,2020-03-06,Clube de Regatas Brasil (AL),30.11.2020,0.22,https://www.transfermarkt.com/bruno-lopes/profil/spieler/283167
+1211,37,Matheus Matias,Centre-Forward,21,Brazil,1.87,right,2020-01-13,Sport Club Corinthians Paulista,30.11.2020,0.22,https://www.transfermarkt.com/matheus-matias/profil/spieler/541048
+1212,37,Bruno Paraíba,Centre-Forward,25,Brazil,m,-,2019-03-15,Unknown,27.04.2021,0.0,https://www.transfermarkt.com/bruno-paraiba/profil/spieler/669870
+1213,37,Bruno Gonçalves,Centre-Forward,27,Brazil,m,-,-,-,14.04.2021,0.0,https://www.transfermarkt.com/bruno-goncalves/profil/spieler/673346
+1214,37,Tite,Centre-Forward,18,Brazil,1.8,right,-,-,18.09.2021,0.0,https://www.transfermarkt.com/tite/profil/spieler/688076
+1215,37,Leandro Jabá,Centre-Forward,18,Brazil,m,-,2019-07-23,Fluminense Football Club U17,19.07.2022,0.0,https://www.transfermarkt.com/leandro-jaba/profil/spieler/688079

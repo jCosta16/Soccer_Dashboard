@@ -1,0 +1,28 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1648,54,David Jensen,Goalkeeper,28,Denmark,1.95,right,2020-01-29,FC Utrecht,31.12.2022,0.86,https://www.transfermarkt.com/david-jensen/profil/spieler/78819
+1649,54,Kendall McIntosh,Goalkeeper,26,United States,1.8,-,2019-11-26,Portland Timbers,-,0.27,https://www.transfermarkt.com/kendall-mcintosh/profil/spieler/189890
+1650,54,Ryan Meara,Goalkeeper,29,Ireland,1.92,-,2012-01-12,Fordham Rams (Fordham University),31.12.2020,0.19,https://www.transfermarkt.com/ryan-meara/profil/spieler/213051
+1651,54,Aaron Long,Centre-Back,27,United States,1.86,right,2017-02-22,New York Red Bulls II,31.12.2021,3.02,https://www.transfermarkt.com/aaron-long/profil/spieler/271072
+1652,54,Tim Parker,Centre-Back,27,United States,1.88,-,2018-03-02,Vancouver Whitecaps FC,-,1.51,https://www.transfermarkt.com/tim-parker/profil/spieler/354737
+1653,54,Amro Tarek,Centre-Back,27,Egypt,1.89,left,2018-12-11,Orlando City SC,31.12.2020,0.59,https://www.transfermarkt.com/amro-tarek/profil/spieler/158997
+1654,54,Sean Nealis,Centre-Back,23,United States,1.93,-,2019-01-11,Hofstra Pride (Hofstra University),31.12.2020,0.35,https://www.transfermarkt.com/sean-nealis/profil/spieler/644798
+1655,54,Jason Pendant,Left-Back,23,France,1.77,left,2020-03-10,FC Sochaux-Montbéliard,-,0.78,https://www.transfermarkt.com/jason-pendant/profil/spieler/272639
+1656,54,John Tolkin,Left-Back,17,United States,1.7,left,2020-01-14,New York Red Bulls Academy,31.12.2020,0.11,https://www.transfermarkt.com/john-tolkin/profil/spieler/683812
+1657,54,Patrick Seagrist,Left-Back,22,United States,1.83,left,2020-01-09,Marquette Golden Eagles (Marquette Uni.),-,0.05,https://www.transfermarkt.com/patrick-seagrist/profil/spieler/735116
+1658,54,Kyle Duncan,Right-Back,22,United States,1.77,-,2018-03-09,FC Valenciennes U19,31.12.2020,0.38,https://www.transfermarkt.com/kyle-duncan/profil/spieler/349699
+1659,54,Mandela Egbo,Right-Back,22,England,1.8,right,2020-01-30,SV Darmstadt 98,-,0.32,https://www.transfermarkt.com/mandela-egbo/profil/spieler/258917
+1660,54,Chris Lema,Defensive Midfield,23,United States,1.78,-,2020-01-07,New York Red Bulls II,31.12.2020,0.22,https://www.transfermarkt.com/chris-lema/profil/spieler/375563
+1661,54,Sean Davis,Central Midfield,27,United States,1.83,right,2015-01-01,Duke Blue Devils (Duke University),-,0.76,https://www.transfermarkt.com/sean-davis/profil/spieler/271184
+1662,54,Cristhian Cásseres Jr.,Central Midfield,20,Venezuela,1.74,right,2018-02-02,Deportivo La Guaira,31.12.2020,0.73,https://www.transfermarkt.com/cristhian-casseres-jr-/profil/spieler/467632
+1663,54,Marc Rzatkowski,Central Midfield,30,Germany,1.72,left,2019-01-24,Red Bull Salzburg,-,0.73,https://www.transfermarkt.com/marc-rzatkowski/profil/spieler/53681
+1664,54,Alejandro Romero Gamarra,Attacking Midfield,25,Paraguay,1.71,left,2018-02-16,Club Atlético Huracán,-,3.46,https://www.transfermarkt.com/alejandro-romero-gamarra/profil/spieler/355817
+1665,54,Jared Stroud,Attacking Midfield,23,United States,1.78,-,2020-01-07,New York Red Bulls II,31.12.2020,0.32,https://www.transfermarkt.com/jared-stroud/profil/spieler/573442
+1666,54,Daniel Royer,Left Winger,29,Austria,1.77,both,2016-08-03,FC Midtjylland,-,2.16,https://www.transfermarkt.com/daniel-royer/profil/spieler/74762
+1667,54,Josh Sims,Right Winger,23,England,1.74,left,2019-08-07,Southampton FC,30.06.2020,1.73,https://www.transfermarkt.com/josh-sims/profil/spieler/286919
+1668,54,Alex Muyl,Right Winger,24,United States,1.8,right,2015-12-22,Georgetown Hoyas (Georgetown University),-,0.73,https://www.transfermarkt.com/alex-muyl/profil/spieler/413690
+1669,54,Florian Valot,Right Winger,27,France,1.8,both,2017-12-20,New York Red Bulls II,31.12.2020,0.35,https://www.transfermarkt.com/florian-valot/profil/spieler/170465
+1670,54,Omir Fernandez,Right Winger,21,United States,1.75,-,2019-01-26,Demon Deacons (Wake Forest University),31.12.2020,0.32,https://www.transfermarkt.com/omir-fernandez/profil/spieler/467271
+1671,54,Ben Mines,Right Winger,19,United States,1.75,both,2018-01-08,New York Red Bulls Academy,-,0.22,https://www.transfermarkt.com/ben-mines/profil/spieler/455564
+1672,54,Mathias Jörgensen,Centre-Forward,19,Denmark,1.85,right,2019-02-12,Odense Boldklub,-,0.97,https://www.transfermarkt.com/mathias-jorgensen/profil/spieler/542796
+1673,54,Brian White,Centre-Forward,24,United States,1.8,-,2018-08-04,New York Red Bulls II,31.12.2020,0.7,https://www.transfermarkt.com/brian-white/profil/spieler/562555
+1674,54,Tom Barlow,Centre-Forward,24,United States,1.88,-,2019-05-08,New York Red Bulls II,31.12.2020,0.38,https://www.transfermarkt.com/tom-barlow/profil/spieler/509916

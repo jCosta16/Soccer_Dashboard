@@ -1,0 +1,26 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1623,53,Bill Hamid,Goalkeeper,29,United States,1.91,right,2020-01-01,FC Midtjylland,31.12.2022,0.73,https://www.transfermarkt.com/bill-hamid/profil/spieler/77714
+1624,53,Chris Seitz,Goalkeeper,33,United States,1.93,-,2019-01-11,Houston Dynamo,31.12.2020,0.22,https://www.transfermarkt.com/chris-seitz/profil/spieler/51424
+1625,53,Earl Edwards Jr.,Goalkeeper,28,United States,1.91,-,2018-12-19,Orlando City SC,31.12.2020,0.22,https://www.transfermarkt.com/earl-edwards-jr-/profil/spieler/354886
+1626,53,Steve Birnbaum,Centre-Back,29,United States,1.88,right,2014-01-16,California Golden Bears,31.12.2020,1.3,https://www.transfermarkt.com/steve-birnbaum/profil/spieler/307728
+1627,53,Frédéric Brillant,Centre-Back,34,France,1.9,right,2017-12-10,New York City FC,31.12.2021,0.35,https://www.transfermarkt.com/frederic-brillant/profil/spieler/75062
+1628,53,Donovan Pines,Centre-Back,22,United States,1.96,-,2019-01-22,Maryland Terrapins (University of Maryland),31.12.2020,0.22,https://www.transfermarkt.com/donovan-pines/profil/spieler/638692
+1629,53,Joseph Mora,Left-Back,27,Costa Rica,1.76,-,2018-03-07,Deportivo Saprissa,31.12.2020,0.7,https://www.transfermarkt.com/joseph-mora/profil/spieler/131255
+1630,53,Oniel Fisher,Right-Back,28,Jamaica,1.75,right,2018-02-07,Seattle Sounders FC,-,0.19,https://www.transfermarkt.com/oniel-fisher/profil/spieler/357278
+1631,53,Chris Odoi-Atsem,Right-Back,24,United States,1.78,-,2017-01-13,Maryland Terrapins (University of Maryland),31.12.2020,0.14,https://www.transfermarkt.com/chris-odoi-atsem/profil/spieler/482616
+1632,53,Júnior Moreno,Defensive Midfield,26,Venezuela,1.75,right,2018-01-02,Zulia FC,31.12.2020,0.86,https://www.transfermarkt.com/junior-moreno/profil/spieler/265152
+1633,53,Mohammed Abu,Defensive Midfield,28,Ghana,1.7,left,2020-03-02,Vålerenga Fotball,31.12.2020,0.43,https://www.transfermarkt.com/mohammed-abu/profil/spieler/164478
+1634,53,Moses Nyeman,Defensive Midfield,16,United States,1.65,-,2019-10-03,D.C. United Academy,-,0.14,https://www.transfermarkt.com/moses-nyeman/profil/spieler/677834
+1635,53,Russell Canouse,Central Midfield,24,United States,1.77,right,2017-08-09,TSG 1899 Hoffenheim,-,0.73,https://www.transfermarkt.com/russell-canouse/profil/spieler/184133
+1636,53,Felipe Martins,Central Midfield,29,Brazil,1.73,right,2019-08-06,Vancouver Whitecaps FC,31.12.2020,0.7,https://www.transfermarkt.com/felipe-martins/profil/spieler/85012
+1637,53,Julian Gressel,Right Midfield,26,Germany,1.85,right,2020-01-21,Atlanta United FC,31.12.2023,3.78,https://www.transfermarkt.com/julian-gressel/profil/spieler/229640
+1638,53,Paul Arriola,Right Midfield,25,United States,1.67,right,2017-08-09,Club Tijuana,-,3.02,https://www.transfermarkt.com/paul-arriola/profil/spieler/189876
+1639,53,Kevin Paredes,Right Midfield,16,United States,1.68,left,2020-01-17,D.C. United Academy,-,0.05,https://www.transfermarkt.com/kevin-paredes/profil/spieler/711517
+1640,53,Emmanuel Boateng,Left Midfield,26,Ghana,1.67,right,2019-08-07,Los Angeles Galaxy,31.12.2020,0.59,https://www.transfermarkt.com/emmanuel-boateng/profil/spieler/279681
+1641,53,Ulises Segura,Attacking Midfield,26,Costa Rica,1.83,right,2018-01-01,Deportivo Saprissa,31.12.2020,0.65,https://www.transfermarkt.com/ulises-segura/profil/spieler/306431
+1642,53,Federico Higuaín,Attacking Midfield,35,Argentina,1.72,right,2020-03-02,Without Club,-,0.43,https://www.transfermarkt.com/federico-higuain/profil/spieler/45612
+1643,53,Edison Flores,Left Winger,25,Peru,1.7,left,2020-01-14,Monarcas Morelia,31.12.2024,3.46,https://www.transfermarkt.com/edison-flores/profil/spieler/194998
+1644,53,Yamil Asad,Left Winger,25,Argentina,1.77,right,2020-01-01,Without Club,-,1.3,https://www.transfermarkt.com/yamil-asad/profil/spieler/266600
+1645,53,Griffin Yow,Left Winger,17,United States,1.7,-,2019-03-16,D.C. United Academy,-,0.16,https://www.transfermarkt.com/griffin-yow/profil/spieler/627205
+1646,53,Ola Kamara,Centre-Forward,30,Norway,1.84,left,2019-08-07,Shenzhen FC,-,1.73,https://www.transfermarkt.com/ola-kamara/profil/spieler/62067
+1647,53,Erik Sorga,Centre-Forward,20,Estonia,1.76,right,2020-02-29,Loudoun United FC,31.12.2022,0.49,https://www.transfermarkt.com/erik-sorga/profil/spieler/322690

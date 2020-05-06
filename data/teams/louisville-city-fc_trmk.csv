@@ -1,0 +1,25 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2112,71,Ben Lundt,Goalkeeper,24,Germany,1.98,right,2020-01-21,FC Cincinnati,30.11.2020,0.19,https://www.transfermarkt.com/ben-lundt/profil/spieler/236792
+2113,71,Chris Hubbard,Goalkeeper,25,United States,1.9,-,2018-01-11,Notre Dame Fighting Irish (Uni. of Notre Dame),30.11.2020,0.14,https://www.transfermarkt.com/chris-hubbard/profil/spieler/564323
+2114,71,Muamer Ugarak,Goalkeeper,18,Bosnia-Herzegovina,1.88,right,2020-02-05,Unknown,30.11.2020,0.03,https://www.transfermarkt.com/muamer-ugarak/profil/spieler/554897
+2115,71,Sean Totsch,Centre-Back,28,United States,1.88,-,2017-01-10,Rochester Rhinos,30.11.2020,0.27,https://www.transfermarkt.com/sean-totsch/profil/spieler/367420
+2116,71,Jimmy Ockford,Centre-Back,27,United States,1.86,right,2020-01-01,San Jose Earthquakes,30.11.2020,0.22,https://www.transfermarkt.com/jimmy-ockford/profil/spieler/271724
+2117,71,Wesley Charpie,Centre-Back,27,United States,1.83,-,2020-02-25,Memphis 901 FC,30.11.2020,0.22,https://www.transfermarkt.com/wesley-charpie/profil/spieler/268287
+2118,71,Alexis Souahy,Centre-Back,25,France,1.85,-,2018-01-15,Bowling Green Falcons (Bowling Green State Uni.),30.11.2020,0.16,https://www.transfermarkt.com/alexis-souahy/profil/spieler/291428
+2119,71,Oscar Jiménez,Left-Back,30,United States,1.72,left,2017-02-15,Mississippi Brilla FC,30.11.2020,0.3,https://www.transfermarkt.com/oscar-jimenez/profil/spieler/359198
+2120,71,Jonathan Gómez,Left-Back,16,United States,1.75,left,2020-03-05,Without Club,30.11.2020,0.11,https://www.transfermarkt.com/jonathan-gomez/profil/spieler/674501
+2121,71,Pat McMahon,Right-Back,33,United States,1.8,right,2017-12-05,FC Cincinnati,30.11.2020,0.14,https://www.transfermarkt.com/pat-mcmahon/profil/spieler/283220
+2122,71,Akil Watts,Right-Back,20,United States,1.83,-,2019-08-06,RCD Mallorca U19,30.11.2020,0.05,https://www.transfermarkt.com/akil-watts/profil/spieler/532098
+2123,71,Paolo Del Piccolo,Central Midfield,28,United States,1.84,left,2016-02-02,Charlotte Independence,30.11.2020,0.3,https://www.transfermarkt.com/paolo-del-piccolo/profil/spieler/234049
+2124,71,Devon Williams,Central Midfield,28,Jamaica,1.7,right,2017-01-01,New York Red Bulls II,30.11.2020,0.27,https://www.transfermarkt.com/devon-williams/profil/spieler/392490
+2125,71,Magnus Rasmussen,Central Midfield,27,Denmark,1.85,-,2018-01-04,BK Frem,30.11.2020,0.24,https://www.transfermarkt.com/magnus-rasmussen/profil/spieler/289749
+2126,71,Corben Bone,Central Midfield,31,United States,1.75,right,2020-01-01,FC Cincinnati,30.11.2020,0.19,https://www.transfermarkt.com/corben-bone/profil/spieler/141216
+2127,71,Napo Matsoso,Central Midfield,25,Lesotho,1.67,-,2018-09-14,Mississippi Brilla FC,30.11.2020,0.16,https://www.transfermarkt.com/napo-matsoso/profil/spieler/482651
+2128,71,Brian Ownby,Attacking Midfield,29,United States,1.8,-,2017-01-18,Richmond Kickers,30.11.2020,0.19,https://www.transfermarkt.com/brian-ownby/profil/spieler/125697
+2129,71,Niall McCabe,Attacking Midfield,29,Ireland,1.8,-,2015-02-12,Young Harris College,30.11.2020,0.19,https://www.transfermarkt.com/niall-mccabe/profil/spieler/364643
+2130,71,George Davis IV,Attacking Midfield,32,United States,1.73,-,2016-01-15,Richmond Kickers,30.11.2020,0.16,https://www.transfermarkt.com/george-davis-iv/profil/spieler/152510
+2131,71,Elijah Wynder,Forward,17,United States,m,-,2020-02-05,Unknown,30.11.2020,0.05,https://www.transfermarkt.com/elijah-wynder/profil/spieler/667157
+2132,71,Cameron Lancaster,Centre-Forward,27,England,1.83,-,2020-02-06,Nashville SC,30.11.2020,0.35,https://www.transfermarkt.com/cameron-lancaster/profil/spieler/182660
+2133,71,Antoine Hoppenot,Centre-Forward,29,United States,1.73,-,2019-06-27,Tampa Bay Rowdies,30.11.2020,0.32,https://www.transfermarkt.com/antoine-hoppenot/profil/spieler/216602
+2134,71,Luke Spencer,Centre-Forward,29,United States,1.88,-,2017-02-09,FC Cincinnati,30.11.2020,0.16,https://www.transfermarkt.com/luke-spencer/profil/spieler/429278
+2135,71,Abdou Mbacke Thiam,Centre-Forward,28,Senegal,1.83,-,2019-01-15,Connecticut Huskies (University of Connecticut),30.11.2020,0.14,https://www.transfermarkt.com/abdou-mbacke-thiam/profil/spieler/645709

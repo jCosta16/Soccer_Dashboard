@@ -1,0 +1,36 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2053,69,Stefan Cleveland,Goalkeeper,25,United States,1.88,-,2020-03-06,Seattle Sounders FC,30.11.2020,0.22,https://www.transfermarkt.com/stefan-cleveland/profil/spieler/482647
+2054,69,Trey Muse,Goalkeeper,20,United States,1.93,-,2020-03-06,Seattle Sounders FC,30.11.2020,0.14,https://www.transfermarkt.com/trey-muse/profil/spieler/497575
+2055,69,Conrad Lee,Goalkeeper,17,United States,1.93,-,2020-03-06,Sounders FC Academy,-,0.03,https://www.transfermarkt.com/conrad-lee/profil/spieler/583662
+2056,69,Jamie Lowell,Goalkeeper,18,United States,1.96,-,2020-03-06,Sounders FC Academy,-,0.0,https://www.transfermarkt.com/jamie-lowell/profil/spieler/698125
+2057,69,Leo Burney,Defender,18,United States,1.88,-,2020-03-06,Sounders FC Academy,-,0.0,https://www.transfermarkt.com/leo-burney/profil/spieler/612121
+2058,69,Abdoulaye Cissoko,Defender,20,France,1.91,-,2019-09-09,San Diego Zest FC,30.11.2020,0.0,https://www.transfermarkt.com/abdoulaye-cissoko/profil/spieler/705864
+2059,69,Taylor Mueller,Centre-Back,31,United States,1.88,-,2019-12-18,Charleston Battery,30.11.2020,0.32,https://www.transfermarkt.com/taylor-mueller/profil/spieler/218156
+2060,69,Samuel Rogers,Centre-Back,20,United States,1.91,-,2017-06-13,Sounders FC Academy,30.11.2020,0.19,https://www.transfermarkt.com/samuel-rogers/profil/spieler/497574
+2061,69,Antino Lopez,Centre-Back,17,United States,m,-,2020-03-06,Sounders FC Academy,-,0.0,https://www.transfermarkt.com/antino-lopez/profil/spieler/627212
+2062,69,Eric Kinzner,Centre-Back,17,United States,1.85,left,2020-03-06,Sounders FC Academy,30.11.2020,0.0,https://www.transfermarkt.com/eric-kinzner/profil/spieler/749769
+2063,69,Nick Hinds,Left-Back,22,United States,1.73,-,2018-01-22,Akron Zips (University of Akron),30.11.2020,0.16,https://www.transfermarkt.com/nick-hinds/profil/spieler/429257
+2064,69,Danny Reynolds,Left-Back,22,England,1.75,left,2020-02-07,Seattle Sounders FC,30.11.2020,0.0,https://www.transfermarkt.com/danny-reynolds/profil/spieler/351501
+2065,69,Antonee Burke-Gilroy,Right-Back,22,Australia,1.78,-,2018-05-01,Newcastle United Jets U21,30.11.2020,0.16,https://www.transfermarkt.com/antonee-burke-gilroy/profil/spieler/583641
+2066,69,Bryson Hankins,Right-Back,17,United States,1.75,-,2020-03-06,Sounders FC Academy,-,0.0,https://www.transfermarkt.com/bryson-hankins/profil/spieler/719326
+2067,69,Alex Villanueva,Midfielder,17,United States,1.7,-,2020-03-06,Sounders FC Academy,-,0.08,https://www.transfermarkt.com/alex-villanueva/profil/spieler/705870
+2068,69,Danny Leyva,Defensive Midfield,17,United States,1.78,-,2020-03-10,Seattle Sounders FC,30.11.2020,0.43,https://www.transfermarkt.com/danny-leyva/profil/spieler/623444
+2069,69,Danny Robles,Defensive Midfield,18,United States,1.65,-,2018-12-01,Sounders FC Academy,30.11.2020,0.19,https://www.transfermarkt.com/danny-robles/profil/spieler/615555
+2070,69,Josh Atencio,Defensive Midfield,18,United States,1.86,right,2019-01-22,Sounders FC Academy,30.11.2020,0.19,https://www.transfermarkt.com/josh-atencio/profil/spieler/504205
+2071,69,Chris Hegardt,Defensive Midfield,18,United States,1.75,-,2020-03-06,Sounders FC Academy,-,0.08,https://www.transfermarkt.com/chris-hegardt/profil/spieler/693378
+2072,69,Peter Kingston,Defensive Midfield,18,United States,1.75,-,2020-03-06,Sounders FC Academy,-,0.03,https://www.transfermarkt.com/peter-kingston/profil/spieler/609381
+2073,69,Jesse Daley,Central Midfield,22,Australia,1.75,-,2018-05-01,Queensland Lions FC,30.11.2020,0.19,https://www.transfermarkt.com/jesse-daley/profil/spieler/544489
+2074,69,Collin Fernandez,Central Midfield,23,Peru,1.72,right,2020-01-14,Saint Louis FC,30.11.2020,0.19,https://www.transfermarkt.com/collin-fernandez/profil/spieler/345626
+2075,69,Jesús Pérez,Central Midfield,22,United States,1.78,left,2020-02-20,New York City FC,30.11.2020,0.0,https://www.transfermarkt.com/jesus-perez/profil/spieler/509915
+2076,69,Ray Serrano,Right Midfield,17,United States,1.7,-,2018-02-14,Sounders FC Academy,30.11.2020,0.08,https://www.transfermarkt.com/ray-serrano/profil/spieler/567406
+2077,69,Sota Kitahara,Right Midfield,17,United States,1.75,right,2020-03-06,Sounders FC Academy,-,0.0,https://www.transfermarkt.com/sota-kitahara/profil/spieler/709180
+2078,69,Handwalla Bwana,Left Winger,22,Kenya,1.78,-,2020-03-10,Seattle Sounders FC,30.11.2020,0.38,https://www.transfermarkt.com/handwalla-bwana/profil/spieler/425824
+2079,69,Azriel González,Left Winger,18,United States,1.75,-,2017-07-18,Sounders FC Academy,30.11.2020,0.16,https://www.transfermarkt.com/azriel-gonzalez/profil/spieler/469857
+2080,69,Alex Roldán,Right Winger,23,United States,1.78,-,2020-03-06,Seattle Sounders FC,30.11.2020,0.38,https://www.transfermarkt.com/alex-roldan/profil/spieler/562560
+2081,69,Shandon Hopeau,Right Winger,21,United States,1.78,-,2017-03-22,Sounders FC Academy,30.11.2020,0.22,https://www.transfermarkt.com/shandon-hopeau/profil/spieler/463777
+2082,69,Will Bruin,Centre-Forward,30,United States,1.85,right,2020-03-10,Seattle Sounders FC,30.11.2020,0.65,https://www.transfermarkt.com/will-bruin/profil/spieler/173486
+2083,69,Justin Dhillon,Centre-Forward,24,United States,1.93,-,2020-03-06,Seattle Sounders FC,30.11.2020,0.22,https://www.transfermarkt.com/justin-dhillon/profil/spieler/242320
+2084,69,Alfonso Ocampo-Chávez,Centre-Forward,18,United States,1.75,-,2020-03-06,Seattle Sounders FC,30.11.2020,0.19,https://www.transfermarkt.com/alfonso-ocampo-chavez/profil/spieler/504214
+2085,69,Marlon Vargas,Centre-Forward,19,United States,1.63,-,2018-05-11,Sounders FC Academy,30.11.2020,0.19,https://www.transfermarkt.com/marlon-vargas/profil/spieler/584584
+2086,69,Alec Díaz,Centre-Forward,18,Puerto Rico,1.75,-,2019-01-01,Sounders FC Academy,30.11.2020,0.14,https://www.transfermarkt.com/alec-diaz/profil/spieler/615556
+2087,69,Austin Brummett,Centre-Forward,16,United States,m,-,2020-03-06,Sounders FC Academy,-,0.0,https://www.transfermarkt.com/austin-brummett/profil/spieler/657924

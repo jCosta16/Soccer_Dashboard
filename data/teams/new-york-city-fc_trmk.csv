@@ -1,0 +1,27 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1436,46,Sean Johnson,Goalkeeper,30,United States,1.9,right,2016-12-12,Atlanta United FC,-,1.51,https://www.transfermarkt.com/sean-johnson/profil/spieler/126630
+1437,46,Brad Stuver,Goalkeeper,29,United States,1.91,-,2017-12-14,Columbus Crew SC,31.12.2020,0.22,https://www.transfermarkt.com/brad-stuver/profil/spieler/300600
+1438,46,Luis Barraza,Goalkeeper,23,United States,1.88,-,2019-01-11,Marquette Golden Eagles (Marquette Uni.),31.12.2020,0.05,https://www.transfermarkt.com/luis-barraza/profil/spieler/644782
+1439,46,Alexander Callens,Centre-Back,28,Peru,1.86,left,2017-01-25,CD Numancia,-,1.03,https://www.transfermarkt.com/alexander-callens/profil/spieler/147462
+1440,46,Maxime Chanot,Centre-Back,30,Luxembourg,1.86,right,2016-07-16,KV Kortrijk,-,0.86,https://www.transfermarkt.com/maxime-chanot/profil/spieler/89030
+1441,46,Sebastien Ibeagha,Centre-Back,28,United States,1.89,-,2018-02-27,San Antonio FC,31.12.2020,0.51,https://www.transfermarkt.com/sebastien-ibeagha/profil/spieler/170854
+1442,46,Tayvon Gray,Centre-Back,17,United States,1.73,-,2019-11-26,New York City FC Academy,-,0.05,https://www.transfermarkt.com/tayvon-gray/profil/spieler/627200
+1443,46,Ronald Matarrita,Left-Back,25,Costa Rica,1.75,left,2016-01-16,LD Alajuelense,31.12.2020,0.86,https://www.transfermarkt.com/ronald-matarrita/profil/spieler/268273
+1444,46,Anton Tinnerholm,Right-Back,29,Sweden,1.76,right,2018-01-01,Malmö FF,-,1.73,https://www.transfermarkt.com/anton-tinnerholm/profil/spieler/109196
+1445,46,Joe Scally,Right-Back,17,United States,1.79,right,2018-03-21,New York City FC Academy,-,0.97,https://www.transfermarkt.com/joe-scally/profil/spieler/504153
+1446,46,Nicolás Acevedo,Defensive Midfield,21,Uruguay,1.73,right,2020-03-02,Liverpool FC Montevideo,-,1.73,https://www.transfermarkt.com/nicolas-acevedo/profil/spieler/625569
+1447,46,Keaton Parks,Defensive Midfield,22,United States,1.93,right,2020-01-08,SL Benfica B,-,1.51,https://www.transfermarkt.com/keaton-parks/profil/spieler/451860
+1448,46,James Sands,Defensive Midfield,19,United States,1.8,-,2017-07-01,New York City FC Academy,-,1.08,https://www.transfermarkt.com/james-sands/profil/spieler/393321
+1449,46,Justin Haak,Defensive Midfield,18,United States,1.84,-,2019-01-24,New York City FC Academy,-,0.22,https://www.transfermarkt.com/justin-haak/profil/spieler/610628
+1450,46,Juan Torres,Defensive Midfield,20,United States,1.62,-,2019-01-26,KSC Lokeren,-,0.16,https://www.transfermarkt.com/juan-torres/profil/spieler/368898
+1451,46,Alexander Ring,Central Midfield,29,Finland,1.78,right,2017-02-01,1.FC Kaiserslautern,31.12.2021,1.73,https://www.transfermarkt.com/alexander-ring/profil/spieler/82113
+1452,46,Gudmundur Thórarinsson,Central Midfield,28,Iceland,1.83,left,2020-01-28,IFK Norrköping,-,0.86,https://www.transfermarkt.com/gudmundur-thorarinsson/profil/spieler/114113
+1453,46,Tony Rocha,Central Midfield,26,Belize,1.75,-,2018-12-12,Orlando City SC,-,0.49,https://www.transfermarkt.com/tony-rocha/profil/spieler/261736
+1454,46,Gedion Zelalem,Central Midfield,23,United States,1.8,right,2020-01-11,Sporting Kansas City,-,0.22,https://www.transfermarkt.com/gedion-zelalem/profil/spieler/228370
+1455,46,Gary Mackay-Steven,Left Midfield,29,Scotland,1.75,left,2019-07-09,Aberdeen FC,-,0.73,https://www.transfermarkt.com/gary-mackay-steven/profil/spieler/78961
+1456,46,Maxi Moralez,Attacking Midfield,33,Argentina,1.59,right,2017-02-15,Club León FC,31.12.2021,2.38,https://www.transfermarkt.com/maxi-moralez/profil/spieler/30687
+1457,46,Alexandru Mitrita,Left Winger,25,Romania,1.67,right,2019-02-04,CS Universitatea Craiova,-,5.18,https://www.transfermarkt.com/alexandru-mitrita/profil/spieler/209649
+1458,46,Jesús Medina,Left Winger,23,Paraguay,1.77,left,2018-01-01,Club Libertad Asunción,-,0.73,https://www.transfermarkt.com/jesus-medina/profil/spieler/353037
+1459,46,Ismael Tajouri-Shradi,Right Winger,26,Libya,1.7,left,2018-01-12,Austria Vienna,-,1.03,https://www.transfermarkt.com/ismael-tajouri-shradi/profil/spieler/158120
+1460,46,Héber,Centre-Forward,28,Brazil,1.82,right,2019-03-21,HNK Rijeka,-,3.02,https://www.transfermarkt.com/heber/profil/spieler/150601
+1461,46,Valentín Castellanos,Centre-Forward,21,Argentina,1.79,right,2019-01-01,Club Atlético Torque,-,0.97,https://www.transfermarkt.com/valentin-castellanos/profil/spieler/522784

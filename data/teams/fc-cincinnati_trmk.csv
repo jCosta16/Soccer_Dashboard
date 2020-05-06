@@ -1,0 +1,29 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1564,51,Spencer Richey,Goalkeeper,27,United States,1.85,right,2018-12-09,Vancouver Whitecaps FC,31.12.2020,0.7,https://www.transfermarkt.com/spencer-richey/profil/spieler/131190
+1565,51,Przemyslaw Tyton,Goalkeeper,33,Poland,1.95,right,2019-01-01,Without Club,31.12.2020,0.51,https://www.transfermarkt.com/przemyslaw-tyton/profil/spieler/33210
+1566,51,Bobby Edwards,Goalkeeper,24,United States,1.98,right,2020-01-20,Portadown FC,-,0.11,https://www.transfermarkt.com/bobby-edwards/profil/spieler/713500
+1567,51,Kendall Waston,Centre-Back,32,Costa Rica,1.96,right,2018-12-11,Vancouver Whitecaps FC,31.12.2020,0.65,https://www.transfermarkt.com/kendall-waston/profil/spieler/195540
+1568,51,Maikel van der Werff,Centre-Back,31,Netherlands,1.86,right,2019-07-09,Vitesse Arnhem,31.12.2020,0.65,https://www.transfermarkt.com/maikel-van-der-werff/profil/spieler/81778
+1569,51,Tom Pettersson,Centre-Back,30,Sweden,1.9,left,2020-01-01,Östersunds FK,-,0.59,https://www.transfermarkt.com/tom-pettersson/profil/spieler/95377
+1570,51,Nick Hagglund,Centre-Back,27,United States,1.86,right,2019-01-23,Toronto FC,31.12.2020,0.59,https://www.transfermarkt.com/nick-hagglund/profil/spieler/307890
+1571,51,Greg Garza,Left-Back,28,United States,1.72,left,2018-12-11,Atlanta United FC,31.12.2020,0.59,https://www.transfermarkt.com/greg-garza/profil/spieler/118318
+1572,51,Andrew Gutman,Left-Back,23,United States,1.8,-,2019-08-03,Celtic FC,31.12.2020,0.32,https://www.transfermarkt.com/andrew-gutman/profil/spieler/638408
+1573,51,Mathieu Deplagne,Right-Back,28,France,1.83,right,2019-01-01,ES Troyes AC,31.12.2022,0.7,https://www.transfermarkt.com/mathieu-deplagne/profil/spieler/127128
+1574,51,Saad Abdul-Salaam,Right-Back,28,United States,1.92,right,2019-12-03,Seattle Sounders FC,-,0.35,https://www.transfermarkt.com/saad-abdul-salaam/profil/spieler/270532
+1575,51,Zico Bailey,Right-Back,19,United States,1.7,right,2020-01-01,FC Helsingör,-,0.11,https://www.transfermarkt.com/zico-bailey/profil/spieler/370980
+1576,51,Caleb Stanko,Defensive Midfield,26,United States,1.8,right,2019-01-23,SC Freiburg,31.12.2020,0.51,https://www.transfermarkt.com/caleb-stanko/profil/spieler/190269
+1577,51,Fatai Alashe,Defensive Midfield,26,United States,1.83,-,2019-01-01,San Jose Earthquakes,31.12.2020,0.35,https://www.transfermarkt.com/fatai-alashe/profil/spieler/268280
+1578,51,Tommy McCabe,Defensive Midfield,22,United States,1.78,-,2019-01-11,Notre Dame Fighting Irish (Uni. of Notre Dame),31.12.2020,0.19,https://www.transfermarkt.com/tommy-mccabe/profil/spieler/315772
+1579,51,Allan Cruz,Central Midfield,24,Costa Rica,1.65,-,2019-01-18,CS Herediano,31.12.2020,0.7,https://www.transfermarkt.com/allan-cruz/profil/spieler/313234
+1580,51,Haris Medunjanin,Central Midfield,35,Bosnia-Herzegovina,1.88,left,2019-11-25,Philadelphia Union,-,0.65,https://www.transfermarkt.com/haris-medunjanin/profil/spieler/30666
+1581,51,Jimmy McLaughlin,Central Midfield,27,United States,1.73,-,2016-01-21,Philadelphia Union,31.12.2020,0.11,https://www.transfermarkt.com/jimmy-mclaughlin/profil/spieler/210368
+1582,51,Adrien Regattin,Right Midfield,28,Morocco,1.68,right,2020-02-05,Without Club,-,0.51,https://www.transfermarkt.com/adrien-regattin/profil/spieler/126796
+1583,51,Siem de Jong,Attacking Midfield,31,Netherlands,1.85,right,2020-02-20,Ajax Amsterdam,-,1.73,https://www.transfermarkt.com/siem-de-jong/profil/spieler/45509
+1584,51,Frankie Amaya,Attacking Midfield,19,United States,1.63,-,2019-01-11,UCLA Bruins (Univ. of California Los Angeles),31.12.2020,0.57,https://www.transfermarkt.com/frankie-amaya/profil/spieler/575368
+1585,51,Kekuta Manneh,Left Winger,25,United States,1.75,-,2019-02-13,FC St. Gallen 1879,31.12.2020,0.7,https://www.transfermarkt.com/kekuta-manneh/profil/spieler/253053
+1586,51,Joseph-Claude Gyau,Left Winger,27,United States,1.75,both,2019-08-08,MSV Duisburg,31.12.2020,0.35,https://www.transfermarkt.com/joseph-claude-gyau/profil/spieler/160670
+1587,51,Jürgen Locadia,Centre-Forward,26,Netherlands,1.85,right,2020-02-03,Brighton & Hove Albion,05.07.2020,8.64,https://www.transfermarkt.com/jurgen-locadia/profil/spieler/166240
+1588,51,Yuya Kubo,Centre-Forward,26,Japan,1.78,right,2020-01-09,KAA Gent,-,1.73,https://www.transfermarkt.com/yuya-kubo/profil/spieler/186260
+1589,51,Darren Mattocks,Centre-Forward,29,Jamaica,1.83,-,2018-12-11,D.C. United,31.12.2020,0.7,https://www.transfermarkt.com/darren-mattocks/profil/spieler/206793
+1590,51,Brandon Vázquez,Centre-Forward,21,United States,1.88,-,2019-11-20,Nashville SC,-,0.49,https://www.transfermarkt.com/brandon-vazquez/profil/spieler/389255
+1591,51,Rashawn Dally,Centre-Forward,23,Jamaica,1.88,-,2019-01-14,Quinnipiac Bobcats (Quinnipiac University),31.12.2020,0.32,https://www.transfermarkt.com/rashawn-dally/profil/spieler/652007

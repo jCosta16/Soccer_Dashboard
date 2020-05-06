@@ -1,0 +1,28 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1702,56,Pedro Gallese,Goalkeeper,30,Peru,1.89,left,2020-01-17,Tiburones Rojos de Veracruz,-,1.73,https://www.transfermarkt.com/pedro-gallese/profil/spieler/95172
+1703,56,Brian Rowe,Goalkeeper,31,United States,1.85,-,2019-02-22,Vancouver Whitecaps FC,-,0.38,https://www.transfermarkt.com/brian-rowe/profil/spieler/213545
+1704,56,Mason Stajduhar,Goalkeeper,22,United States,1.88,-,2015-11-09,Orlando City Soccer Club U23,31.12.2020,0.14,https://www.transfermarkt.com/mason-stajduhar/profil/spieler/401361
+1705,56,Antônio Carlos,Centre-Back,27,Brazil,1.91,right,2020-01-01,Sociedade Esportiva Palmeiras,30.06.2023,1.4,https://www.transfermarkt.com/antonio-carlos/profil/spieler/207446
+1706,56,Robin Jansson,Centre-Back,28,Sweden,1.87,-,2019-03-12,AIK,-,0.65,https://www.transfermarkt.com/robin-jansson/profil/spieler/151678
+1707,56,Kamal Miller,Centre-Back,22,Canada,1.83,-,2019-01-11,Syracuse Orange (Syracuse University),31.12.2020,0.43,https://www.transfermarkt.com/kamal-miller/profil/spieler/487504
+1708,56,Alex De John,Centre-Back,28,United States,1.83,-,2019-01-10,Dalkurd FF,31.12.2020,0.22,https://www.transfermarkt.com/alex-de-john/profil/spieler/318222
+1709,56,Rodrigo Schlegel,Centre-Back,23,Argentina,1.87,right,2020-01-01,Racing Club,30.06.2021,0.16,https://www.transfermarkt.com/rodrigo-schlegel/profil/spieler/504258
+1710,56,João Moutinho,Left-Back,22,Portugal,1.83,left,2018-12-11,Los Angeles FC,-,0.49,https://www.transfermarkt.com/joao-moutinho/profil/spieler/461906
+1711,56,Ruan,Right-Back,24,Brazil,1.74,right,2019-01-16,Barra da Tijuca Futebol Clube (RJ),31.12.2021,0.65,https://www.transfermarkt.com/ruan/profil/spieler/520491
+1712,56,Kyle Smith,Right-Back,28,United States,1.84,-,2018-12-19,Louisville City FC,31.12.2020,0.35,https://www.transfermarkt.com/kyle-smith/profil/spieler/429271
+1713,56,Joey DeZart,Midfielder,21,Jamaica,1.85,-,2020-01-09,Demon Deacons (Wake Forest University),-,0.05,https://www.transfermarkt.com/joey-dezart/profil/spieler/637450
+1714,56,Andrés Perea,Defensive Midfield,19,Colombia,1.84,right,2020-01-01,Atlético Nacional,31.12.2020,0.78,https://www.transfermarkt.com/andres-perea/profil/spieler/491536
+1715,56,Sebastián Méndez,Defensive Midfield,23,Ecuador,1.71,right,2019-01-01,Independiente del Valle,-,0.7,https://www.transfermarkt.com/sebastian-mendez/profil/spieler/330682
+1716,56,Oriol Rosell,Defensive Midfield,27,Spain,1.82,right,2018-01-30,Sporting CP,31.12.2021,0.57,https://www.transfermarkt.com/oriol-rosell/profil/spieler/166628
+1717,56,Júnior Urso,Central Midfield,31,Brazil,1.83,right,2020-01-13,Sport Club Corinthians Paulista,-,1.62,https://www.transfermarkt.com/junior-urso/profil/spieler/144789
+1718,56,Jordan Bender,Right Midfield,18,United States,1.75,-,2019-12-12,Orlando City B,-,0.11,https://www.transfermarkt.com/jordan-bender/profil/spieler/633780
+1719,56,Mauricio Pereyra,Attacking Midfield,30,Uruguay,1.7,right,2019-07-30,FK Krasnodar,31.12.2020,4.32,https://www.transfermarkt.com/mauricio-pereyra/profil/spieler/102452
+1720,56,Nani,Left Winger,33,Portugal,1.77,both,2019-02-18,Sporting CP,31.12.2021,2.59,https://www.transfermarkt.com/nani/profil/spieler/33706
+1721,56,Chris Mueller,Right Winger,23,United States,1.75,-,2018-01-19,Wisconsin Badgers (University of Wisconsin),31.12.2020,0.7,https://www.transfermarkt.com/chris-mueller/profil/spieler/562387
+1722,56,Robinho,Right Winger,25,Brazil,1.66,right,2019-07-11,Columbus Crew SC,-,0.51,https://www.transfermarkt.com/robinho/profil/spieler/347184
+1723,56,Dom Dwyer,Centre-Forward,29,United States,1.76,left,2017-07-25,Sporting Kansas City,31.12.2020,1.51,https://www.transfermarkt.com/dom-dwyer/profil/spieler/105185
+1724,56,Tesho Akindele,Centre-Forward,28,Canada,1.86,right,2018-12-09,FC Dallas,31.12.2020,0.51,https://www.transfermarkt.com/tesho-akindele/profil/spieler/307720
+1725,56,Benji Michel,Centre-Forward,22,United States,1.78,-,2019-01-01,Portland Pilots (University of Portland),-,0.38,https://www.transfermarkt.com/benji-michel/profil/spieler/627183
+1726,56,Santiago Patiño,Centre-Forward,23,United States,1.85,-,2019-01-11,FIU Panthers (Florida International University),31.12.2020,0.22,https://www.transfermarkt.com/santiago-patino/profil/spieler/644780
+1727,56,David Loera,Centre-Forward,21,United States,1.65,-,2019-12-09,North Carolina State Wolfpack (NC State Univ.),-,0.08,https://www.transfermarkt.com/david-loera/profil/spieler/402304
+1728,56,Daryl Dike,Centre-Forward,19,United States,1.87,-,2020-01-09,Virginia Cavaliers (University of Virginia),-,0.05,https://www.transfermarkt.com/daryl-dike/profil/spieler/638741

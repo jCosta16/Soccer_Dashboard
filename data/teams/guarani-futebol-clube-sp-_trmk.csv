@@ -1,0 +1,21 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1022,32,Matheus Cavichioli,Goalkeeper,33,Brazil,1.94,right,2020-01-10,Oeste Futebol Clube (SP),30.11.2020,0.22,https://www.transfermarkt.com/matheus-cavichioli/profil/spieler/54274
+1023,32,Carlão,Goalkeeper,22,Brazil,m,-,2019-01-03,Guarani Futebol Clube (SP) U20,31.12.2020,0.0,https://www.transfermarkt.com/carlao/profil/spieler/643171
+1024,32,Leandro Almeida,Centre-Back,33,Brazil,1.88,right,2020-01-10,Paraná Clube,30.11.2020,0.7,https://www.transfermarkt.com/leandro-almeida/profil/spieler/52960
+1025,32,Vitor Mendes,Centre-Back,21,Brazil,1.86,right,2020-03-04,Unknown,06.05.2020,0.05,https://www.transfermarkt.com/vitor-mendes/profil/spieler/686333
+1026,32,Romércio,Centre-Back,23,Brazil,1.85,-,2020-01-13,Coritiba Foot Ball Club,30.11.2020,0.0,https://www.transfermarkt.com/romercio/profil/spieler/524602
+1027,32,Bidu,Left-Back,21,Brazil,m,left,-,-,28.03.2022,0.0,https://www.transfermarkt.com/bidu/profil/spieler/670021
+1028,32,Deivid,Defensive Midfield,31,Brazil,1.74,right,2019-02-01,Sport Club do Recife,30.11.2020,1.3,https://www.transfermarkt.com/deivid/profil/spieler/124546
+1029,32,Ricardinho,Defensive Midfield,31,Brazil,1.74,right,2018-01-01,Criciúma Esporte Clube,30.12.2020,0.49,https://www.transfermarkt.com/ricardinho/profil/spieler/72438
+1030,32,Marcelo Santos,Defensive Midfield,25,Brazil,1.81,right,2019-08-29,Maccabi Tel Aviv,30.11.2020,0.35,https://www.transfermarkt.com/marcelo-santos/profil/spieler/292160
+1031,32,Dirceu Lucas,Defensive Midfield,32,Brazil,1.82,right,2020-01-13,Clube de Regatas Brasil (AL),30.11.2020,0.32,https://www.transfermarkt.com/dirceu-lucas/profil/spieler/175237
+1032,32,Igor Henrique,Central Midfield,28,Brazil,1.82,-,2019-05-16,Tombense Futebol Clube (MG),30.11.2020,0.7,https://www.transfermarkt.com/igor-henrique/profil/spieler/521074
+1033,32,Eduardo Person,Central Midfield,23,Brazil,1.75,right,2020-01-16,Joinville Esporte Clube (SC),30.11.2020,0.0,https://www.transfermarkt.com/eduardo-person/profil/spieler/554298
+1034,32,Lucas Crispim,Left Winger,26,Brazil,1.78,right,2019-01-01,Esporte Clube São Bento (SP),30.11.2020,0.27,https://www.transfermarkt.com/lucas-crispim/profil/spieler/344626
+1035,32,Giovanny,Left Winger,22,Brazil,1.75,right,2020-01-16,Tombense Futebol Clube (MG),30.11.2020,0.27,https://www.transfermarkt.com/giovanny/profil/spieler/379369
+1036,32,Renanzinho,Left Winger,18,Brazil,m,-,-,-,31.12.2022,0.0,https://www.transfermarkt.com/renanzinho/profil/spieler/670020
+1037,32,Pablo,Right Winger,27,Brazil,1.75,right,2020-01-14,CD Santa Clara,30.06.2020,0.22,https://www.transfermarkt.com/pablo/profil/spieler/170366
+1038,32,Mateusinho,Right Winger,21,Brazil,1.76,left,-,-,28.03.2022,0.0,https://www.transfermarkt.com/mateusinho/profil/spieler/633960
+1039,32,Juninho,Second Striker,21,Brazil,1.79,both,2020-02-19,Sport Club do Recife,30.11.2020,0.11,https://www.transfermarkt.com/juninho/profil/spieler/432938
+1040,32,Rafael Costa,Centre-Forward,32,Brazil,1.8,right,2020-01-10,Botafogo Futebol Clube (SP),30.11.2020,0.7,https://www.transfermarkt.com/rafael-costa/profil/spieler/75151
+1041,32,Bruno Sávio,Centre-Forward,25,Brazil,1.84,-,2020-01-15,Louletano DC,30.11.2020,0.32,https://www.transfermarkt.com/bruno-savio/profil/spieler/352042

@@ -1,0 +1,23 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2031,68,Eric Dick,Goalkeeper,25,United States,1.96,-,2020-02-04,Sporting Kansas City,30.11.2020,0.19,https://www.transfermarkt.com/eric-dick/profil/spieler/520238
+2032,68,Zac Lubin,Goalkeeper,30,United States,1.96,-,2018-02-06,Ljungskile SK,30.11.2020,0.19,https://www.transfermarkt.com/zac-lubin/profil/spieler/214154
+2033,68,Landon Carter,Goalkeeper,16,United States,m,-,2020-03-03,Phoenix Rising FC Academy,30.11.2020,0.0,https://www.transfermarkt.com/landon-carter/profil/spieler/749555
+2034,68,AJ Cochran,Centre-Back,27,United States,1.9,left,2018-12-25,Atlanta United 2,30.11.2020,0.27,https://www.transfermarkt.com/aj-cochran/profil/spieler/306391
+2035,68,Joseph Farrell,Centre-Back,26,United States,1.88,-,2017-12-18,Rochester Rhinos,30.11.2020,0.27,https://www.transfermarkt.com/joseph-farrell/profil/spieler/430373
+2036,68,Owusu-Ansah Kontor,Left-Back,26,Ghana,1.8,left,2019-12-05,Orange County SC,30.11.2020,0.19,https://www.transfermarkt.com/owusu-ansah-kontor/profil/spieler/199859
+2037,68,Kyle Bjornethun,Left-Back,25,United States,1.8,-,2019-12-01,FC Tucson,30.11.2020,0.16,https://www.transfermarkt.com/kyle-bjornethun/profil/spieler/495898
+2038,68,Darnell King,Right-Back,29,United States,1.73,-,2019-12-18,Nashville SC,30.11.2020,0.3,https://www.transfermarkt.com/darnell-king/profil/spieler/221947
+2039,68,Austin Ledbetter,Right-Back,24,United States,1.8,-,2019-12-01,FC Tucson,30.11.2020,0.14,https://www.transfermarkt.com/austin-ledbetter/profil/spieler/489378
+2040,68,Corey Whelan,Right-Back,22,Ireland,1.8,right,2019-07-15,Liverpool FC U23,30.11.2020,0.11,https://www.transfermarkt.com/corey-whelan/profil/spieler/308615
+2041,68,Sam Stanton,Central Midfield,26,Scotland,m,left,2020-01-23,Dundee United FC,30.11.2020,0.32,https://www.transfermarkt.com/sam-stanton/profil/spieler/192505
+2042,68,Jordan Schweitzer,Central Midfield,26,Canada,1.83,right,2019-12-24,Colorado Springs Switchbacks FC,30.11.2020,0.27,https://www.transfermarkt.com/jordan-schweitzer/profil/spieler/424844
+2043,68,Kevon Lambert,Central Midfield,23,Jamaica,1.9,-,2017-08-10,Montego Bay United FC,30.11.2020,0.24,https://www.transfermarkt.com/kevon-lambert/profil/spieler/482667
+2044,68,Jack Barmby,Left Midfield,25,England,1.78,left,2019-12-10,San Antonio FC,30.11.2020,0.27,https://www.transfermarkt.com/jack-barmby/profil/spieler/218086
+2045,68,José Aguinaga,Attacking Midfield,24,Spain,1.75,-,2018-12-20,New York Red Bulls II,30.11.2020,0.27,https://www.transfermarkt.com/jose-aguinaga/profil/spieler/573444
+2046,68,Jon Bakero,Attacking Midfield,23,Spain,1.89,right,2020-01-01,Toronto FC,30.11.2020,0.22,https://www.transfermarkt.com/jon-bakero/profil/spieler/562386
+2047,68,Junior Flemmings,Left Winger,24,Jamaica,1.78,right,2018-12-05,Tampa Bay Rowdies,30.11.2020,0.32,https://www.transfermarkt.com/junior-flemmings/profil/spieler/354664
+2048,68,Santi Moar,Left Winger,26,Spain,1.73,-,2019-12-03,New Mexico United,30.11.2020,0.24,https://www.transfermarkt.com/santi-moar/profil/spieler/485428
+2049,68,Joey Calistri,Left Winger,26,United States,1.77,-,2018-12-20,Saint Louis FC,30.11.2020,0.22,https://www.transfermarkt.com/joey-calistri/profil/spieler/413158
+2050,68,Solomon Asanté,Right Winger,29,Ghana,1.73,right,2018-01-01,TP Mazembe,30.11.2020,0.57,https://www.transfermarkt.com/solomon-asante/profil/spieler/179341
+2051,68,Lagos Kunga,Right Winger,21,United States,1.73,left,2020-01-21,Atlanta United FC,30.11.2020,0.19,https://www.transfermarkt.com/lagos-kunga/profil/spieler/471591
+2052,68,Rufat Dadashov,Centre-Forward,28,Azerbaijan,1.89,right,2020-01-13,Preußen Münster,30.11.2020,0.27,https://www.transfermarkt.com/rufat-dadashov/profil/spieler/157478

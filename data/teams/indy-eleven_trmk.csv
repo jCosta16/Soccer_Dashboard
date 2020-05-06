@@ -1,0 +1,25 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2088,70,Evan Newton,Goalkeeper,32,United States,1.88,right,2019-01-08,FC Cincinnati,30.11.2020,0.3,https://www.transfermarkt.com/evan-newton/profil/spieler/175618
+2089,70,Jordan Farr,Goalkeeper,25,United States,1.85,-,2018-02-02,Corban Warriors (Corban University),30.11.2020,0.08,https://www.transfermarkt.com/jordan-farr/profil/spieler/565014
+2090,70,Holden Brown,Goalkeeper,18,United States,m,-,2020-01-17,Indiana Fire Academy,-,0.03,https://www.transfermarkt.com/holden-brown/profil/spieler/689008
+2091,70,Neveal Hackshaw,Centre-Back,24,Trinidad and Tobago,1.83,-,2018-12-13,Charleston Battery,30.11.2020,0.3,https://www.transfermarkt.com/neveal-hackshaw/profil/spieler/354585
+2092,70,Karl Ouimette,Centre-Back,27,Canada,1.85,right,2018-02-02,San Francisco Deltas,30.11.2020,0.3,https://www.transfermarkt.com/karl-ouimette/profil/spieler/184249
+2093,70,Paddy Barrett,Centre-Back,26,Ireland,1.82,-,2018-12-05,FC Cincinnati,30.11.2020,0.22,https://www.transfermarkt.com/paddy-barrett/profil/spieler/122736
+2094,70,Mitchell Osmond,Centre-Back,26,Australia,1.9,-,2019-03-06,Rio Red Storm (University of Rio Grande),30.11.2020,0.14,https://www.transfermarkt.com/mitchell-osmond/profil/spieler/657738
+2095,70,Ayoze,Left-Back,34,Spain,1.72,left,2018-02-06,New York Cosmos,30.11.2020,0.22,https://www.transfermarkt.com/ayoze/profil/spieler/51518
+2096,70,Conner Antley,Right-Back,25,United States,1.85,-,2019-11-21,South Georgia Tormenta FC,30.11.2020,0.22,https://www.transfermarkt.com/conner-antley/profil/spieler/633785
+2097,70,Macauley King,Right-Back,24,England,1.8,right,2019-01-10,Young Harris College,30.11.2020,0.14,https://www.transfermarkt.com/macauley-king/profil/spieler/657774
+2098,70,Kyle Folds,Midfielder,18,United States,m,-,2020-01-17,Indiana Fire Academy,-,0.0,https://www.transfermarkt.com/kyle-folds/profil/spieler/737816
+2099,70,Kenney Walker,Defensive Midfield,31,United States,1.75,right,2018-12-05,FC Cincinnati,30.11.2020,0.3,https://www.transfermarkt.com/kenney-walker/profil/spieler/213025
+2100,70,Drew Conner,Defensive Midfield,26,United States,1.8,right,2019-08-13,1.SC Znojmo,30.11.2020,0.27,https://www.transfermarkt.com/drew-conner/profil/spieler/413159
+2101,70,Cam Lindley,Defensive Midfield,22,United States,1.79,-,2020-02-06,Orlando City SC,30.11.2020,0.22,https://www.transfermarkt.com/cam-lindley/profil/spieler/345622
+2102,70,Tyler Gibson,Central Midfield,28,United States,1.78,-,2018-12-05,FC Cincinnati,30.11.2020,0.22,https://www.transfermarkt.com/tyler-gibson/profil/spieler/343835
+2103,70,Matt Watson,Central Midfield,35,England,1.83,right,2018-02-08,Phoenix Rising FC,30.11.2020,0.14,https://www.transfermarkt.com/matt-watson/profil/spieler/72109
+2104,70,Emerson Nieto,Forward,18,United States,1.78,-,2020-01-17,Indiana Fire Academy,-,0.08,https://www.transfermarkt.com/emerson-nieto/profil/spieler/674314
+2105,70,Jeremy Rafanello,Forward,20,United States,1.83,-,2020-02-19,FC Helsingör,30.11.2020,0.0,https://www.transfermarkt.com/jeremy-rafanello/profil/spieler/587094
+2106,70,Andrew Carleton,Left Winger,19,United States,1.65,-,2020-01-24,Atlanta United FC,30.11.2020,0.43,https://www.transfermarkt.com/andrew-carleton/profil/spieler/370841
+2107,70,Carl Haworth,Right Winger,30,Canada,1.75,-,2019-12-06,Ottawa Fury FC,30.11.2020,0.27,https://www.transfermarkt.com/carl-haworth/profil/spieler/221044
+2108,70,Nick Moon,Right Winger,23,United States,1.85,-,2019-12-04,Lansing Ignite FC,30.11.2020,0.19,https://www.transfermarkt.com/nick-moon/profil/spieler/656439
+2109,70,Yeferson Contreras,Right Winger,20,Colombia,1.78,left,2020-02-19,CD América de Cali U20,30.11.2020,0.11,https://www.transfermarkt.com/yeferson-contreras/profil/spieler/585351
+2110,70,Ilija Ilic,Centre-Forward,29,Serbia,1.8,-,2018-12-03,Louisville City FC,30.11.2020,0.32,https://www.transfermarkt.com/ilija-ilic/profil/spieler/68975
+2111,70,Tyler Pasher,Centre-Forward,26,Canada,1.75,left,2018-02-07,Atlanta United FC,30.11.2020,0.22,https://www.transfermarkt.com/tyler-pasher/profil/spieler/189018

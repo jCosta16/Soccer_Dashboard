@@ -1,0 +1,25 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1305,41,Kenneth Vermeer,Goalkeeper,34,Netherlands,1.82,right,2020-01-15,Feyenoord Rotterdam,31.12.2022,1.73,https://www.transfermarkt.com/kenneth-vermeer/profil/spieler/30290
+1306,41,Pablo Sisniega,Goalkeeper,24,Mexico,1.93,right,2019-02-18,Real Sociedad B,-,0.43,https://www.transfermarkt.com/pablo-sisniega/profil/spieler/351477
+1307,41,Philip Ejimadu,Goalkeeper,20,United States,1.9,right,2019-02-21,Nacional Atlético Clube (SP),31.12.2020,0.14,https://www.transfermarkt.com/philip-ejimadu/profil/spieler/575370
+1308,41,Eddie Segura,Centre-Back,23,Colombia,1.78,right,2019-07-29,CD Atlético Huila,-,1.3,https://www.transfermarkt.com/eddie-segura/profil/spieler/459466
+1309,41,Danilo Silva,Centre-Back,33,Brazil,1.86,right,2019-01-16,Sport Club Internacional,31.12.2020,0.65,https://www.transfermarkt.com/danilo-silva/profil/spieler/61952
+1310,41,Dejan Jakovic,Centre-Back,34,Canada,1.88,right,2018-01-31,New York Cosmos,31.12.2020,0.22,https://www.transfermarkt.com/dejan-jakovic/profil/spieler/77360
+1311,41,Diego Palacios,Left-Back,20,Ecuador,1.69,left,2019-08-07,SD Aucas,-,1.4,https://www.transfermarkt.com/diego-palacios/profil/spieler/425567
+1312,41,Mohamed El-Munir,Left-Back,28,Libya,1.77,left,2018-12-11,Orlando City SC,31.12.2020,0.59,https://www.transfermarkt.com/mohamed-el-munir/profil/spieler/202764
+1313,41,Jordan Harvey,Left-Back,36,United States,1.83,left,2017-12-22,Vancouver Whitecaps FC,31.12.2020,0.32,https://www.transfermarkt.com/jordan-harvey/profil/spieler/39354
+1314,41,Tristan Blackmon,Right-Back,23,United States,1.86,-,2018-01-19,Pacific Tigers (Univ. of the Pacific),31.12.2022,0.38,https://www.transfermarkt.com/tristan-blackmon/profil/spieler/562383
+1315,41,Eduard Atuesta,Defensive Midfield,22,Colombia,1.8,right,2019-01-01,Independiente Medellín,31.12.2021,2.7,https://www.transfermarkt.com/eduard-atuesta/profil/spieler/469135
+1316,41,Francisco Ginella,Defensive Midfield,21,Uruguay,1.82,right,2020-01-01,Montevideo Wanderers,31.12.2023,1.94,https://www.transfermarkt.com/francisco-ginella/profil/spieler/538091
+1317,41,José Cifuentes,Defensive Midfield,21,Ecuador,1.75,-,2020-01-13,CD Universidad Católica,31.12.2022,1.94,https://www.transfermarkt.com/jose-cifuentes/profil/spieler/450211
+1318,41,Alejandro Guido,Defensive Midfield,26,United States,1.85,right,2019-02-27,Club Tijuana,-,0.32,https://www.transfermarkt.com/alejandro-guido/profil/spieler/189883
+1319,41,Mark-Anthony Kaye,Central Midfield,25,Canada,1.85,-,2018-02-05,Louisville City FC,31.12.2021,2.59,https://www.transfermarkt.com/mark-anthony-kaye/profil/spieler/343553
+1320,41,Bryce Duke,Central Midfield,19,United States,1.7,-,2020-01-25,Barca Academy (Casa Grande),-,0.05,https://www.transfermarkt.com/bryce-duke/profil/spieler/739675
+1321,41,Latif Blessing,Attacking Midfield,23,Ghana,1.65,right,2017-12-12,Sporting Kansas City,31.12.2022,2.7,https://www.transfermarkt.com/latif-blessing/profil/spieler/398238
+1322,41,Diego Rossi,Left Winger,22,Uruguay,1.7,right,2018-01-01,CA Peñarol,-,11.88,https://www.transfermarkt.com/diego-rossi/profil/spieler/317454
+1323,41,Brian Rodríguez,Left Winger,19,Uruguay,1.73,right,2019-08-07,CA Peñarol,-,5.83,https://www.transfermarkt.com/brian-rodriguez/profil/spieler/465818
+1324,41,Carlos Vela,Right Winger,31,Mexico,1.77,left,2018-01-01,Real Sociedad,-,12.96,https://www.transfermarkt.com/carlos-vela/profil/spieler/35773
+1325,41,Adama Diomande,Centre-Forward,30,Norway,1.8,right,2018-05-01,Hull City,31.12.2020,1.84,https://www.transfermarkt.com/adama-diomande/profil/spieler/93145
+1326,41,Bradley Wright-Phillips,Centre-Forward,35,England,1.73,right,2020-02-14,New York Red Bulls,-,0.7,https://www.transfermarkt.com/bradley-wright-phillips/profil/spieler/28813
+1327,41,Adrien Perez,Centre-Forward,24,United States,1.84,-,2019-02-21,Ontario Fury (indoor),31.12.2020,0.32,https://www.transfermarkt.com/adrien-perez/profil/spieler/589774
+1328,41,Danny Musovski,Centre-Forward,24,United States,1.83,right,2019-12-10,Reno 1868 FC,31.12.2020,0.19,https://www.transfermarkt.com/danny-musovski/profil/spieler/562494

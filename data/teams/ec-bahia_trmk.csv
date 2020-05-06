@@ -1,0 +1,32 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+395,12,Douglas Friedrich,Goalkeeper,31,Brazil,1.94,right,2018-01-05,Sport Club Corinthians Paulista,31.12.2020,1.08,https://www.transfermarkt.com/douglas-friedrich/profil/spieler/374094
+396,12,Anderson,Goalkeeper,36,Brazil,1.9,right,2016-08-26,Without Club,31.12.2020,0.11,https://www.transfermarkt.com/anderson/profil/spieler/101504
+397,12,Ernando,Centre-Back,32,Brazil,1.84,right,2019-01-08,Sport Club Internacional,31.12.2020,0.86,https://www.transfermarkt.com/ernando/profil/spieler/53755
+398,12,Juninho,Centre-Back,25,Brazil,1.87,left,2020-01-01,Sociedade Esportiva Palmeiras,31.12.2021,0.86,https://www.transfermarkt.com/juninho/profil/spieler/383638
+399,12,Lucas Fonseca,Centre-Back,34,Brazil,1.91,right,2016-03-04,Tianjin Teda,31.12.2020,0.78,https://www.transfermarkt.com/lucas-fonseca/profil/spieler/203060
+400,12,Wanderson,Centre-Back,29,Brazil,1.86,right,2019-07-10,Club Athletico Paranaense,31.12.2021,0.43,https://www.transfermarkt.com/wanderson/profil/spieler/316067
+401,12,Ignácio,Centre-Back,23,Brazil,1.84,right,2019-01-08,Centro Esportivo Força e Luz (RN),31.12.2022,0.05,https://www.transfermarkt.com/ignacio/profil/spieler/624291
+402,12,Juninho Capixaba,Left-Back,22,Brazil,1.76,left,2020-01-15,Grêmio Foot-Ball Porto Alegrense,31.12.2020,0.78,https://www.transfermarkt.com/juninho-capixaba/profil/spieler/406676
+403,12,Giovanni,Left-Back,30,Brazil,1.82,left,2019-07-08,Associação Atlética Ponte Preta,31.05.2020,0.51,https://www.transfermarkt.com/giovanni/profil/spieler/270650
+404,12,Zeca,Right-Back,25,Brazil,1.69,right,2020-01-15,Sport Club Internacional,31.12.2020,1.51,https://www.transfermarkt.com/zeca/profil/spieler/325196
+405,12,João Pedro,Right-Back,23,Brazil,1.79,right,2019-07-30,FC Porto B,31.12.2020,0.97,https://www.transfermarkt.com/joao-pedro/profil/spieler/342024
+406,12,Nino Paraíba,Right-Back,34,Brazil,1.68,right,2018-01-01,Associação Atlética Ponte Preta,31.12.2020,0.78,https://www.transfermarkt.com/nino-paraiba/profil/spieler/72451
+407,12,Douglas Borel,Right-Back,18,Brazil,m,right,-,-,30.04.2021,0.05,https://www.transfermarkt.com/douglas-borel/profil/spieler/647540
+408,12,Gregore,Defensive Midfield,26,Brazil,1.81,right,2019-01-01,São Carlos Futebol Clube (SP),31.12.2021,0.86,https://www.transfermarkt.com/gregore/profil/spieler/546036
+409,12,Elton,Defensive Midfield,30,Brazil,1.8,right,2018-01-01,Associação Atlética Ponte Preta,31.12.2020,0.78,https://www.transfermarkt.com/elton/profil/spieler/128823
+410,12,Flávio,Defensive Midfield,24,Brazil,1.77,both,2018-03-22,Esporte Clube Santo André (SP),31.12.2022,0.78,https://www.transfermarkt.com/flavio/profil/spieler/373191
+411,12,Ronaldo,Defensive Midfield,23,Brazil,1.75,right,2019-07-19,Clube de Regatas do Flamengo,31.12.2020,0.43,https://www.transfermarkt.com/ronaldo/profil/spieler/405768
+412,12,Yuri,Defensive Midfield,26,Brazil,1.73,right,2016-02-05,Olaria Atlético Clube (RJ),29.12.2020,0.35,https://www.transfermarkt.com/yuri/profil/spieler/373193
+413,12,Edson,Defensive Midfield,22,Brazil,m,right,-,-,15.05.2020,0.05,https://www.transfermarkt.com/edson/profil/spieler/686332
+414,12,Jádson,Central Midfield,26,Brazil,1.71,right,2020-01-14,Cruzeiro Esporte Clube,31.12.2020,1.03,https://www.transfermarkt.com/jadson/profil/spieler/205179
+415,12,Rodriguinho,Attacking Midfield,32,Brazil,1.77,right,2020-02-17,Cruzeiro Esporte Clube,31.12.2021,3.78,https://www.transfermarkt.com/rodriguinho/profil/spieler/77059
+416,12,Danielzinho,Attacking Midfield,24,Brazil,1.73,right,2020-01-15,Fluminense Football Club,31.12.2021,1.73,https://www.transfermarkt.com/danielzinho/profil/spieler/418530
+417,12,Marco Antônio,Attacking Midfield,22,Brazil,1.72,right,2018-04-20,Sociedade Desportiva Paraense (PA),19.04.2021,0.51,https://www.transfermarkt.com/marco-antonio/profil/spieler/578413
+418,12,Alesson,Attacking Midfield,21,Brazil,1.73,left,2020-01-06,Paraná Clube,31.12.2021,0.38,https://www.transfermarkt.com/alesson/profil/spieler/480225
+419,12,Clayson,Left Winger,25,Brazil,1.66,right,2020-01-06,Sport Club Corinthians Paulista,31.12.2022,3.46,https://www.transfermarkt.com/clayson/profil/spieler/392809
+420,12,Arthur Caíke,Left Winger,27,Brazil,1.74,right,2019-02-06,Al-Shabab Riyadh,30.06.2020,1.4,https://www.transfermarkt.com/arthur-caike/profil/spieler/224481
+421,12,Élber,Left Winger,27,Brazil,1.7,right,2018-01-03,Cruzeiro Esporte Clube,31.12.2020,0.81,https://www.transfermarkt.com/elber/profil/spieler/201792
+422,12,Rossi,Right Winger,27,Brazil,1.7,right,2020-01-14,Shenzhen FC,31.12.2021,0.78,https://www.transfermarkt.com/rossi/profil/spieler/212114
+423,12,Gilberto,Centre-Forward,30,Brazil,1.78,right,2018-07-01,Yeni Malatyaspor,31.12.2021,0.97,https://www.transfermarkt.com/gilberto/profil/spieler/164013
+424,12,Fernandão,Centre-Forward,33,Brazil,1.92,right,2019-01-23,Al-Wahda Mekka,31.12.2020,0.7,https://www.transfermarkt.com/fernandao/profil/spieler/83886
+425,12,Saldanha,Centre-Forward,20,Brazil,m,right,-,-,11.06.2022,0.35,https://www.transfermarkt.com/saldanha/profil/spieler/740059

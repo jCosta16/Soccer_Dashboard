@@ -1,0 +1,41 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+320,10,Fernando Miguel,Goalkeeper,35,Brazil,1.91,left,2018-05-08,Esporte Clube Vitória,31.12.2020,0.78,https://www.transfermarkt.com/fernando-miguel/profil/spieler/291963
+321,10,Jordi,Goalkeeper,26,Brazil,1.91,right,2013-01-01,Club de Regatas Vasco da Gama U20,30.06.2021,0.51,https://www.transfermarkt.com/jordi/profil/spieler/255928
+322,10,Lucão,Goalkeeper,19,Brazil,1.9,-,-,-,31.12.2023,0.27,https://www.transfermarkt.com/lucao/profil/spieler/412372
+323,10,Alexander,Goalkeeper,20,Brazil,1.9,right,2019-04-21,Club de Regatas Vasco da Gama U20,12.09.2020,0.11,https://www.transfermarkt.com/alexander/profil/spieler/668799
+324,10,Leandro Castán,Centre-Back,33,Brazil,1.86,left,2018-08-03,AS Roma,31.12.2022,1.4,https://www.transfermarkt.com/leandro-castan/profil/spieler/54929
+325,10,Ricardo Graça,Centre-Back,23,Brazil,1.83,left,2017-01-01,Club de Regatas Vasco da Gama U20,03.01.2021,0.7,https://www.transfermarkt.com/ricardo-graca/profil/spieler/524607
+326,10,Werley,Centre-Back,31,Brazil,1.84,right,2018-01-25,Coritiba Foot Ball Club,31.12.2022,0.51,https://www.transfermarkt.com/werley/profil/spieler/75437
+327,10,Miranda,Centre-Back,20,Brazil,1.81,right,-,-,31.12.2021,0.35,https://www.transfermarkt.com/miranda/profil/spieler/412376
+328,10,Breno,Centre-Back,30,Brazil,1.91,both,2018-01-01,São Paulo Futebol Clube,31.12.2020,0.27,https://www.transfermarkt.com/breno/profil/spieler/52947
+329,10,Ulisses,Centre-Back,20,Brazil,m,-,2020-01-21,CA Diadema,05.08.2021,0.27,https://www.transfermarkt.com/ulisses/profil/spieler/678991
+330,10,Henrique,Left-Back,26,Brazil,1.73,left,2013-07-01,Club de Regatas Vasco da Gama U20,03.08.2020,0.81,https://www.transfermarkt.com/henrique/profil/spieler/204072
+331,10,Ramon Motta,Left-Back,31,Brazil,1.73,left,2017-07-01,Antalyaspor,31.12.2020,0.7,https://www.transfermarkt.com/ramon-motta/profil/spieler/55270
+332,10,Alexandre,Left-Back,21,Brazil,1.8,left,2019-11-06,Club de Regatas Vasco da Gama U20,31.12.2020,0.16,https://www.transfermarkt.com/alexandre/profil/spieler/702290
+333,10,Rodrigo Coutinho,Left-Back,21,Brazil,m,left,-,-,31.08.2020,0.05,https://www.transfermarkt.com/rodrigo-coutinho/profil/spieler/739111
+334,10,Yago Pikachu,Right-Back,27,Brazil,1.68,right,2016-01-01,Paysandu Sport Club,31.12.2021,1.84,https://www.transfermarkt.com/yago-pikachu/profil/spieler/265660
+335,10,Rafael Galhardo,Right-Back,28,Brazil,1.76,right,2018-01-12,Cruzeiro Esporte Clube,09.01.2021,0.78,https://www.transfermarkt.com/rafael-galhardo/profil/spieler/124701
+336,10,Cláudio Winck,Right-Back,26,Brazil,1.84,right,2019-01-01,Sport Club Internacional,31.12.2020,0.78,https://www.transfermarkt.com/claudio-winck/profil/spieler/181783
+337,10,Cayo Tenório,Right-Back,21,Brazil,m,right,-,-,31.12.2021,0.11,https://www.transfermarkt.com/cayo-tenorio/profil/spieler/739112
+338,10,Bruno Gomes,Defensive Midfield,19,Brazil,1.75,right,2019-10-16,Club de Regatas Vasco da Gama U20,31.07.2021,1.94,https://www.transfermarkt.com/bruno-gomes/profil/spieler/703322
+339,10,Raul,Defensive Midfield,23,Brazil,1.8,right,2018-06-01,Ceará Sporting Club,31.12.2021,1.08,https://www.transfermarkt.com/raul/profil/spieler/479587
+340,10,Willian Maranhão,Defensive Midfield,24,Brazil,1.79,left,2019-01-01,Boavista Sport Club (RJ),31.12.2022,0.86,https://www.transfermarkt.com/willian-maranhao/profil/spieler/538107
+341,10,Marcos Júnior,Defensive Midfield,24,Brazil,1.75,right,2019-04-16,Bangu Atlético Clube (RJ),31.12.2021,0.43,https://www.transfermarkt.com/marcos-junior/profil/spieler/614324
+342,10,Fredy Guarín,Central Midfield,33,Colombia,1.83,right,2019-09-27,Shanghai Greenland Shenhua,31.12.2021,1.73,https://www.transfermarkt.com/fredy-guarin/profil/spieler/39090
+343,10,Andrey,Central Midfield,22,Brazil,1.76,right,2017-01-01,Club de Regatas Vasco da Gama U17,31.12.2021,1.4,https://www.transfermarkt.com/andrey/profil/spieler/351895
+344,10,Fellipe Bastos,Central Midfield,30,Brazil,1.78,right,2020-02-10,Sport Club Corinthians Paulista,31.12.2020,0.51,https://www.transfermarkt.com/fellipe-bastos/profil/spieler/31127
+345,10,Linnick,Central Midfield,20,Brazil,1.73,right,-,-,17.07.2020,0.05,https://www.transfermarkt.com/linnick/profil/spieler/739115
+346,10,Guilherme Costa,Right Midfield,26,Brazil,1.76,left,2013-01-01,Club de Regatas Vasco da Gama U20,31.12.2021,0.32,https://www.transfermarkt.com/guilherme-costa/profil/spieler/181782
+347,10,Bruno César,Left Midfield,31,Brazil,1.78,left,2019-01-01,Sporting CP,31.12.2020,1.3,https://www.transfermarkt.com/bruno-cesar/profil/spieler/110074
+348,10,Marrony,Left Winger,21,Brazil,1.84,right,2018-01-24,Club de Regatas Vasco da Gama U20,31.12.2023,3.89,https://www.transfermarkt.com/marrony/profil/spieler/599879
+349,10,Lucas Santos,Left Winger,21,Brazil,1.64,right,2018-01-01,Club de Regatas Vasco da Gama U20,31.12.2022,0.73,https://www.transfermarkt.com/lucas-santos/profil/spieler/588627
+350,10,Martín Benítez,Right Winger,25,Argentina,1.73,right,2020-02-27,Club Atlético Independiente,31.12.2020,3.78,https://www.transfermarkt.com/martin-benitez/profil/spieler/189418
+351,10,Caio Monteiro,Right Winger,23,Brazil,1.77,right,2016-05-01,Club de Regatas Vasco da Gama U17,31.12.2021,0.78,https://www.transfermarkt.com/caio-monteiro/profil/spieler/438432
+352,10,Gabriel Pec,Right Winger,19,Brazil,m,left,2019-09-05,Club de Regatas Vasco da Gama U20,31.08.2024,0.57,https://www.transfermarkt.com/gabriel-pec/profil/spieler/703321
+353,10,Talles Magno,Centre-Forward,17,Brazil,1.86,left,2019-07-01,Club de Regatas Vasco da Gama U20,30.06.2021,4.86,https://www.transfermarkt.com/talles-magno/profil/spieler/677512
+354,10,Germán Cano,Centre-Forward,32,Argentina,1.77,right,2020-01-01,Independiente Medellín,31.12.2021,2.81,https://www.transfermarkt.com/german-cano/profil/spieler/54590
+355,10,Ribamar,Centre-Forward,22,Brazil,1.84,left,2019-01-01,Pyramids FC,31.12.2020,0.86,https://www.transfermarkt.com/ribamar/profil/spieler/423839
+356,10,Vinícius,Centre-Forward,19,Brazil,m,-,2020-01-01,Club de Regatas Vasco da Gama U20,17.08.2020,0.73,https://www.transfermarkt.com/vinicius/profil/spieler/689561
+357,10,Tiago Reis,Centre-Forward,20,Brazil,1.83,right,2019-03-20,Club de Regatas Vasco da Gama U20,31.12.2022,0.38,https://www.transfermarkt.com/tiago-reis/profil/spieler/539949
+358,10,Lucas Figueiredo,Centre-Forward,18,Brazil,m,-,-,-,21.01.2024,0.05,https://www.transfermarkt.com/lucas-figueiredo/profil/spieler/703324
+359,10,Kaio Magno,Centre-Forward,20,Brazil,m,-,-,-,31.12.2022,0.05,https://www.transfermarkt.com/kaio-magno/profil/spieler/703323

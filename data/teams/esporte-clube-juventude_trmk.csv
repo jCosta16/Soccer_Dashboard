@@ -1,0 +1,36 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+895,28,Luis Carlos,Goalkeeper,32,Brazil,1.9,right,2020-01-10,Oeste Futebol Clube (SP),-,0.11,https://www.transfermarkt.com/luis-carlos/profil/spieler/54338
+896,28,Raul,Goalkeeper,22,Brazil,1.9,-,2017-01-01,Esporte Clube Juventude U20,-,0.08,https://www.transfermarkt.com/raul/profil/spieler/520093
+897,28,Marcelo Carné,Goalkeeper,30,Brazil,1.88,right,2019-01-01,Bonsucesso Futebol Clube (RJ),-,0.05,https://www.transfermarkt.com/marcelo-carne/profil/spieler/14881
+898,28,Willian,Goalkeeper,22,Brazil,1.93,-,-,-,-,0.0,https://www.transfermarkt.com/willian/profil/spieler/638060
+899,28,Edcarlos,Centre-Back,34,Brazil,1.85,right,2020-01-09,Without Club,-,0.43,https://www.transfermarkt.com/edcarlos/profil/spieler/13813
+900,28,Genílson,Centre-Back,29,Brazil,1.82,right,2019-01-11,Santa Cruz Futebol Clube (RN),-,0.22,https://www.transfermarkt.com/genilson/profil/spieler/175395
+901,28,Victor Salinas,Centre-Back,28,Brazil,1.89,left,2018-12-06,Without Club,-,0.0,https://www.transfermarkt.com/victor-salinas/profil/spieler/546544
+902,28,Odivan,Centre-Back,21,Brazil,m,-,2020-01-01,Esporte Clube Juventude U20,-,0.0,https://www.transfermarkt.com/odivan/profil/spieler/722674
+903,28,Eltinho,Left-Back,32,Brazil,1.71,left,2019-01-03,Criciúma Esporte Clube,-,0.35,https://www.transfermarkt.com/eltinho/profil/spieler/80927
+904,28,Reynaldo,Left-Back,23,Brazil,1.86,left,2019-12-13,Associação Atlética Ponte Preta,-,0.05,https://www.transfermarkt.com/reynaldo/profil/spieler/514297
+905,28,Felippe Borges,Left-Back,20,Brazil,m,left,-,-,-,0.0,https://www.transfermarkt.com/felippe-borges/profil/spieler/664549
+906,28,Samuel Santos,Right-Back,30,Brazil,1.77,right,2020-01-04,Albirex Niigata,-,0.14,https://www.transfermarkt.com/samuel-santos/profil/spieler/131890
+907,28,Jonh Lennon,Right-Back,28,Brazil,1.78,right,2019-03-25,EC Pelotas (RS),-,0.11,https://www.transfermarkt.com/jonh-lennon/profil/spieler/156252
+908,28,Igor,Right-Back,22,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/igor/profil/spieler/733578
+909,28,João Paulo,Defensive Midfield,35,Brazil,1.77,both,2019-04-06,Esporte Clube São Bento (SP),-,0.7,https://www.transfermarkt.com/joao-paulo/profil/spieler/112239
+910,28,Pedro Ken,Defensive Midfield,33,Brazil,1.82,right,2020-01-10,Ceará Sporting Club,-,0.43,https://www.transfermarkt.com/pedro-ken/profil/spieler/52514
+911,28,Moisés,Defensive Midfield,25,Brazil,1.81,right,2019-01-17,Grêmio Foot-Ball Porto Alegrense,-,0.11,https://www.transfermarkt.com/moises/profil/spieler/376867
+912,28,Sananduva,Defensive Midfield,24,Brazil,1.8,-,2016-01-01,Esporte Clube Juventude U20,-,0.05,https://www.transfermarkt.com/sananduva/profil/spieler/531064
+913,28,Rodrigo Ancheta,Defensive Midfield,23,Uruguay,1.85,-,2020-01-10,Grêmio Foot-Ball Porto Alegrense B,-,0.0,https://www.transfermarkt.com/rodrigo-ancheta/profil/spieler/643282
+914,28,Marciel,Central Midfield,25,Brazil,1.86,left,2020-01-10,Sport Club Corinthians Paulista,31.12.2020,0.27,https://www.transfermarkt.com/marciel/profil/spieler/363175
+915,28,Renato Cajá,Attacking Midfield,35,Brazil,1.73,left,2019-06-28,Without Club,-,1.08,https://www.transfermarkt.com/renato-caja/profil/spieler/55489
+916,28,Fábio,Attacking Midfield,24,Brazil,1.75,right,2020-01-14,Esporte Clube Jacuipense (BA),-,0.32,https://www.transfermarkt.com/fabio/profil/spieler/411291
+917,28,Breno,Attacking Midfield,24,Brazil,1.78,both,2019-01-03,Joinville Esporte Clube (SC),-,0.32,https://www.transfermarkt.com/breno/profil/spieler/542598
+918,28,Valdivia,Attacking Midfield,27,Brazil,1.8,both,2019-01-02,Cruzeiro Esporte Clube B,-,0.27,https://www.transfermarkt.com/valdivia/profil/spieler/179048
+919,28,Bruno Xavier,Attacking Midfield,23,Brazil,1.78,left,2020-02-27,Desportivo Aves,-,0.11,https://www.transfermarkt.com/bruno-xavier/profil/spieler/537386
+920,28,Bruno Camilo,Attacking Midfield,22,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/bruno-camilo/profil/spieler/593938
+921,28,Iago Dias,Left Winger,27,Brazil,1.75,left,2020-02-21,Coritiba Foot Ball Club,-,0.43,https://www.transfermarkt.com/iago-dias/profil/spieler/443239
+922,28,Bruno Alves,Left Winger,27,Brazil,1.78,right,2020-01-01,Club Athletico Paranaense,-,0.22,https://www.transfermarkt.com/bruno-alves/profil/spieler/349318
+923,28,Clayton,Left Winger,21,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/clayton/profil/spieler/733579
+924,28,Lucas Ontivero,Right Winger,25,Argentina,1.7,left,2020-03-02,Orlando City B,-,0.32,https://www.transfermarkt.com/lucas-ontivero/profil/spieler/265916
+925,28,Dalberto,Right Winger,25,Brazil,1.79,right,2018-12-06,Mirassol Futebol Clube (SP),-,0.22,https://www.transfermarkt.com/dalberto/profil/spieler/519891
+926,28,Carlos Henrique,Centre-Forward,25,Brazil,1.82,both,2019-07-25,Londrina Esporte Clube (PR),-,0.43,https://www.transfermarkt.com/carlos-henrique/profil/spieler/365376
+927,28,Bruno Nunes,Centre-Forward,29,Brazil,1.88,right,2020-02-20,Nacional Atlético Clube (SP),-,0.35,https://www.transfermarkt.com/bruno-nunes/profil/spieler/186459
+928,28,Jonatas Belusso,Centre-Forward,31,Brazil,1.76,right,2020-01-09,América Futebol Clube (MG),-,0.22,https://www.transfermarkt.com/jonatas-belusso/profil/spieler/178389
+929,28,Wallace,Centre-Forward,24,Brazil,1.78,right,2019-08-08,Clube Esportivo Lajeadense (RS),-,0.0,https://www.transfermarkt.com/wallace/profil/spieler/669301

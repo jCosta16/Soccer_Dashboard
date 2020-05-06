@@ -1,0 +1,22 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2389,83,Logan Ketterer,Goalkeeper,26,United States,1.9,-,2019-01-18,Columbus Crew SC,30.11.2020,0.19,https://www.transfermarkt.com/logan-ketterer/profil/spieler/493563
+2390,83,Jermaine Fordah,Goalkeeper,27,England,1.86,right,2019-02-12,New York Cosmos B,30.11.2020,0.08,https://www.transfermarkt.com/jermaine-fordah/profil/spieler/588147
+2391,83,Mechack Jérôme,Centre-Back,30,Haiti,1.78,right,2019-01-21,Jacksonville Armada FC,30.11.2020,0.19,https://www.transfermarkt.com/mechack-jerome/profil/spieler/154746
+2392,83,Drew Beckie,Centre-Back,29,Canada,1.86,right,2019-05-21,Oklahoma City Energy FC,30.11.2020,0.16,https://www.transfermarkt.com/drew-beckie/profil/spieler/218450
+2393,83,Chiró N'Toko,Centre-Back,32,Belgium,1.9,right,2018-12-01,FK Senica,30.11.2020,0.16,https://www.transfermarkt.com/chiro-ntoko/profil/spieler/56418
+2394,83,Andrew Fox,Left-Back,27,England,1.8,left,2019-02-04,Grimsby Town,30.11.2020,0.19,https://www.transfermarkt.com/andrew-fox/profil/spieler/382778
+2395,83,Moses Makinde,Left-Back,27,England,1.87,left,2019-07-03,FC Tulsa,30.11.2020,0.11,https://www.transfermarkt.com/moses-makinde/profil/spieler/331222
+2396,83,Bryam Rebellón,Right-Back,28,Colombia,1.79,right,2019-01-11,Swope Park Rangers,30.11.2020,0.16,https://www.transfermarkt.com/bryam-rebellon/profil/spieler/211705
+2397,83,Memo Diaz,Midfielder,24,United States,1.73,-,2019-02-21,Laredo Heat SC,30.11.2020,0.08,https://www.transfermarkt.com/memo-diaz/profil/spieler/654282
+2398,83,Richie Ryan,Defensive Midfield,35,Ireland,1.78,both,2019-01-17,FC Cincinnati,30.11.2020,0.16,https://www.transfermarkt.com/richie-ryan/profil/spieler/4133
+2399,83,Chapa Herrera,Defensive Midfield,24,United States,1.7,-,2019-01-08,Without Club,30.11.2020,0.14,https://www.transfermarkt.com/chapa-herrera/profil/spieler/644270
+2400,83,Distel Zola,Defensive Midfield,31,DR Congo,1.89,right,2019-12-12,Without Club,30.11.2020,0.11,https://www.transfermarkt.com/distel-zola/profil/spieler/60613
+2401,83,Fabrice Fokobo,Defensive Midfield,26,Cameroon,1.82,right,2020-01-07,Sporting CP,30.11.2020,0.11,https://www.transfermarkt.com/fabrice-fokobo/profil/spieler/234449
+2402,83,Nick Ross,Central Midfield,28,Scotland,1.8,right,2018-12-01,Brora Rangers FC,30.11.2020,0.16,https://www.transfermarkt.com/nick-ross/profil/spieler/95949
+2403,83,Yuma,Central Midfield,34,Spain,1.77,right,2018-12-11,Jacksonville Armada FC,30.11.2020,0.14,https://www.transfermarkt.com/yuma/profil/spieler/72212
+2404,83,Saeed Robinson,Left Midfield,29,Jamaica,1.74,-,2020-01-22,Colorado Springs Switchbacks FC,30.11.2020,0.19,https://www.transfermarkt.com/saeed-robinson/profil/spieler/271682
+2405,83,Dylan Mares,Attacking Midfield,27,United States,1.75,-,2020-03-02,Without Club,30.11.2020,0.32,https://www.transfermarkt.com/dylan-mares/profil/spieler/254054
+2406,83,Omar Salgado,Right Winger,26,United States,1.93,left,2018-06-13,Tigres UANL Premier,30.11.2020,0.22,https://www.transfermarkt.com/omar-salgado/profil/spieler/170559
+2407,83,Alexy Bosetti,Centre-Forward,27,France,1.7,right,2019-08-15,Oklahoma City Energy FC,30.11.2020,0.35,https://www.transfermarkt.com/alexy-bosetti/profil/spieler/212937
+2408,83,Josué Gómez,Centre-Forward,25,Mexico,1.75,-,2020-02-26,FC Juárez,30.11.2020,0.22,https://www.transfermarkt.com/josue-gomez/profil/spieler/477318
+2409,83,Marios Lomis,Centre-Forward,25,Netherlands,1.88,-,2020-01-02,North Carolina FC,30.11.2020,0.19,https://www.transfermarkt.com/marios-lomis/profil/spieler/323917

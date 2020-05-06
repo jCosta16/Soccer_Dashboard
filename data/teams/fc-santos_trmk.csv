@@ -1,0 +1,36 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+211,7,Éverson,Goalkeeper,29,Brazil,1.92,right,2019-01-22,Ceará Sporting Club,31.12.2022,1.3,https://www.transfermarkt.com/everson/profil/spieler/106032
+212,7,Vladimir,Goalkeeper,30,Brazil,1.91,right,2009-01-01,Santos FC B,31.12.2020,0.7,https://www.transfermarkt.com/vladimir/profil/spieler/98930
+213,7,John,Goalkeeper,24,Brazil,1.96,-,-,-,31.12.2023,0.05,https://www.transfermarkt.com/john/profil/spieler/432914
+214,7,João Paulo,Goalkeeper,24,Brazil,1.88,right,2014-07-01,Santos FC B,29.09.2021,0.05,https://www.transfermarkt.com/joao-paulo/profil/spieler/275412
+215,7,Lucas Veríssimo,Centre-Back,24,Brazil,1.88,right,2016-01-01,Santos FC B,30.06.2022,3.78,https://www.transfermarkt.com/lucas-verissimo/profil/spieler/411662
+216,7,Luan Peres,Centre-Back,25,Brazil,1.9,left,2019-08-03,Club Brugge KV,31.12.2020,0.59,https://www.transfermarkt.com/luan-peres/profil/spieler/347913
+217,7,Luiz Felipe,Centre-Back,26,Brazil,1.87,right,2016-02-19,Paraná Clube,31.12.2024,0.43,https://www.transfermarkt.com/luiz-felipe/profil/spieler/373150
+218,7,Wagner Leonardo,Centre-Back,20,Brazil,1.86,left,-,-,30.06.2021,0.05,https://www.transfermarkt.com/wagner-leonardo/profil/spieler/671572
+219,7,Felipe Jonatan,Left-Back,22,Brazil,1.76,left,2019-03-01,Ceará Sporting Club,27.02.2024,1.4,https://www.transfermarkt.com/felipe-jonatan/profil/spieler/587786
+220,7,Romário,Left-Back,28,Brazil,1.72,left,2018-01-04,Ceará Sporting Club,31.12.2022,0.7,https://www.transfermarkt.com/romario/profil/spieler/241354
+221,7,Madson,Right-Back,28,Brazil,1.82,right,2020-01-01,Grêmio Foot-Ball Porto Alegrense,31.12.2022,0.97,https://www.transfermarkt.com/madson/profil/spieler/177845
+222,7,Pará,Right-Back,34,Brazil,1.73,right,2019-08-04,Clube de Regatas do Flamengo,31.12.2020,0.7,https://www.transfermarkt.com/para/profil/spieler/76100
+223,7,Daniel Guedes,Right-Back,26,Brazil,1.8,right,2015-01-01,Santos FC U20,30.06.2022,0.59,https://www.transfermarkt.com/daniel-guedes/profil/spieler/330035
+224,7,Cadu,Right-Back,18,Brazil,m,right,-,-,30.09.2021,0.05,https://www.transfermarkt.com/cadu/profil/spieler/687678
+225,7,Diego Pituca,Defensive Midfield,27,Brazil,1.75,left,2018-06-01,Santos FC B,30.04.2023,1.94,https://www.transfermarkt.com/diego-pituca/profil/spieler/546000
+226,7,Alison,Defensive Midfield,27,Brazil,1.82,right,2013-08-01,Santos FC U20,04.12.2022,1.62,https://www.transfermarkt.com/alison/profil/spieler/167825
+227,7,Jobson,Defensive Midfield,24,Brazil,1.85,right,2019-04-16,Red Bull Brasil (SP),15.04.2024,0.43,https://www.transfermarkt.com/jobson/profil/spieler/519875
+228,7,Jean Mota,Central Midfield,26,Brazil,1.72,left,2016-06-09,Fortaleza Esporte Clube,30.06.2022,1.73,https://www.transfermarkt.com/jean-mota/profil/spieler/215212
+229,7,Sandry,Central Midfield,17,Brazil,1.7,right,2019-07-01,Santos FC U20,31.07.2022,0.97,https://www.transfermarkt.com/sandry/profil/spieler/574768
+230,7,Ivonei,Central Midfield,18,Brazil,m,-,-,-,30.09.2021,0.05,https://www.transfermarkt.com/ivonei/profil/spieler/627232
+231,7,Carlos Sánchez,Attacking Midfield,35,Uruguay,1.7,right,2018-07-24,CF Monterrey,22.07.2021,2.16,https://www.transfermarkt.com/carlos-sanchez/profil/spieler/74373
+232,7,Evandro,Attacking Midfield,33,Brazil,1.79,right,2019-07-01,Hull City,30.06.2020,1.08,https://www.transfermarkt.com/evandro/profil/spieler/53359
+233,7,Bryan Ruíz,Attacking Midfield,34,Costa Rica,1.88,left,2018-07-11,Sporting CP,31.12.2020,0.86,https://www.transfermarkt.com/bryan-ruiz/profil/spieler/39642
+234,7,Tailson,Attacking Midfield,21,Brazil,1.77,both,2019-04-01,Santos FC U20,31.07.2024,0.73,https://www.transfermarkt.com/tailson/profil/spieler/646434
+235,7,Alexandre Tam,Attacking Midfield,21,Brazil,1.76,left,2019-01-01,Santos FC B,30.04.2022,0.05,https://www.transfermarkt.com/alexandre-tam/profil/spieler/677273
+236,7,Yeferson Soteldo,Left Winger,22,Venezuela,1.6,both,2019-01-12,Huachipato FC,31.12.2022,8.64,https://www.transfermarkt.com/yeferson-soteldo/profil/spieler/312294
+237,7,Arthur Gomes,Left Winger,21,Brazil,1.74,right,2017-01-01,Santos FC U20,31.12.2021,1.4,https://www.transfermarkt.com/arthur-gomes/profil/spieler/401534
+238,7,Allanzinho,Left Winger,20,Brazil,m,-,-,-,31.03.2021,0.05,https://www.transfermarkt.com/allanzinho/profil/spieler/685768
+239,7,Eduardo Sasha,Right Winger,28,Brazil,1.73,right,2018-04-19,Sport Club Internacional,31.12.2022,4.86,https://www.transfermarkt.com/eduardo-sasha/profil/spieler/162883
+240,7,Marinho,Right Winger,29,Brazil,1.69,left,2019-05-25,Grêmio Foot-Ball Porto Alegrense,31.12.2022,1.4,https://www.transfermarkt.com/marinho/profil/spieler/74758
+241,7,Lucas Venuto,Right Winger,25,Brazil,1.64,-,2019-08-01,Vancouver Whitecaps FC,31.12.2022,0.51,https://www.transfermarkt.com/lucas-venuto/profil/spieler/327912
+242,7,Kaio Jorge,Centre-Forward,18,Brazil,1.76,-,2019-01-01,Santos FC U20,31.12.2021,7.78,https://www.transfermarkt.com/kaio-jorge/profil/spieler/620477
+243,7,Yuri Alberto,Centre-Forward,19,Brazil,1.83,right,2017-11-01,Santos FC U20,31.07.2020,2.48,https://www.transfermarkt.com/yuri-alberto/profil/spieler/489893
+244,7,Raniel,Centre-Forward,23,Brazil,1.81,right,2019-12-16,São Paulo Futebol Clube,31.12.2023,2.16,https://www.transfermarkt.com/raniel/profil/spieler/349583
+245,7,Fernando Uribe,Centre-Forward,32,Colombia,1.82,left,2019-05-30,Clube de Regatas do Flamengo,30.06.2022,1.73,https://www.transfermarkt.com/fernando-uribe/profil/spieler/119030

@@ -1,0 +1,24 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2647,95,Ben Willis,Goalkeeper,24,United States,1.88,-,2019-03-07,Gonzaga Bulldogs,30.11.2020,0.05,https://www.transfermarkt.com/ben-willis/profil/spieler/657900
+2648,95,Paul Blanchette,Goalkeeper,26,United States,1.94,-,2020-03-07,Without Club,30.11.2020,0.0,https://www.transfermarkt.com/paul-blanchette/profil/spieler/483971
+2649,95,Diego Rocha,Defender,19,United States,m,-,2020-03-08,RGV FC Toros Academy,30.11.2020,0.0,https://www.transfermarkt.com/diego-rocha/profil/spieler/749914
+2650,95,Robert Castellanos,Centre-Back,21,United States,1.88,-,2018-03-16,Without Club,30.11.2020,0.16,https://www.transfermarkt.com/robert-castellanos/profil/spieler/488127
+2651,95,Émile Legault,Centre-Back,20,Canada,1.8,-,2020-03-07,Without Club,30.11.2020,0.14,https://www.transfermarkt.com/emile-legault/profil/spieler/589007
+2652,95,Robert Coronado,Left-Back,23,United States,1.78,-,2019-03-07,Cal State Fullerton Titans (Cal State Fullerton),30.11.2020,0.14,https://www.transfermarkt.com/robert-coronado/profil/spieler/657901
+2653,95,Andrew Samuels,Right-Back,22,United States,1.75,-,2019-03-07,Without Club,30.11.2020,0.16,https://www.transfermarkt.com/andrew-samuels/profil/spieler/638700
+2654,95,Kyle Edwards,Midfielder,23,St. Vincent & Grenadinen,1.81,-,2020-01-07,Texas–Rio Grande Valley Vaqueros,30.11.2020,0.0,https://www.transfermarkt.com/kyle-edwards/profil/spieler/344481
+2655,95,Timo Mehlich,Defensive Midfield,22,Germany,1.84,-,2020-01-11,Seattle Sounders FC,30.11.2020,0.0,https://www.transfermarkt.com/timo-mehlich/profil/spieler/276581
+2656,95,Juan Castilla,Central Midfield,15,United States,m,-,2020-03-07,Houston Dynamo Academy,30.11.2020,0.0,https://www.transfermarkt.com/juan-castilla/profil/spieler/749970
+2657,95,Kevin Rodríguez,Right Midfield,23,United States,1.73,-,2019-03-07,Without Club,30.11.2020,0.11,https://www.transfermarkt.com/kevin-rodriguez/profil/spieler/657902
+2658,95,Nico Lemoine,Right Midfield,20,United States,1.73,-,2019-03-07,San Jose Earthquakes,30.11.2020,0.11,https://www.transfermarkt.com/nico-lemoine/profil/spieler/393324
+2659,95,Deshane Beckford,Left Midfield,22,Jamaica,1.7,-,2020-01-11,Montego Bay United FC,30.11.2020,0.11,https://www.transfermarkt.com/deshane-beckford/profil/spieler/610089
+2660,95,Isidro Martínez,Attacking Midfield,23,United States,1.73,-,2019-03-08,Texas–Rio Grande Valley Vaqueros,30.11.2020,0.19,https://www.transfermarkt.com/isidro-martinez/profil/spieler/585732
+2661,95,Luka Prpa,Attacking Midfield,22,United States,1.78,-,2020-02-27,Houston Dynamo,30.11.2020,0.05,https://www.transfermarkt.com/luka-prpa/profil/spieler/354903
+2662,95,Danny Rios,Attacking Midfield,17,United States,m,-,2020-03-07,Houston Dynamo Academy,30.11.2020,0.0,https://www.transfermarkt.com/danny-rios/profil/spieler/749935
+2663,95,Kembo Kibato,Attacking Midfield,19,Canada,m,-,2020-03-07,Without Club,30.11.2020,0.0,https://www.transfermarkt.com/kembo-kibato/profil/spieler/687129
+2664,95,Garrett McLaughlin,Forward,22,United States,1.83,-,2020-02-27,Houston Dynamo,30.11.2020,0.05,https://www.transfermarkt.com/garrett-mclaughlin/profil/spieler/636464
+2665,95,Juan Carlos Obregón Jr.,Forward,22,Honduras,1.7,right,2019-09-28,Club Necaxa U20,30.11.2020,0.05,https://www.transfermarkt.com/juan-carlos-obregon-jr-/profil/spieler/358597
+2666,95,Josh Hallenberger,Forward,18,United States,m,-,2020-03-07,Houston Dynamo Academy,31.07.2020,0.0,https://www.transfermarkt.com/josh-hallenberger/profil/spieler/749927
+2667,95,Víctor Garza,Left Winger,28,United States,1.78,-,2019-03-07,Without Club,30.11.2020,0.11,https://www.transfermarkt.com/victor-garza/profil/spieler/214835
+2668,95,Taiberson,Right Winger,26,Brazil,1.72,left,2020-01-07,S.E.R. Caxias do Sul (RS),30.11.2020,0.35,https://www.transfermarkt.com/taiberson/profil/spieler/218116
+2669,95,Christian Lucatero,Right Winger,22,United States,1.7,left,2020-03-07,Club Necaxa U20,30.11.2020,0.16,https://www.transfermarkt.com/christian-lucatero/profil/spieler/381188

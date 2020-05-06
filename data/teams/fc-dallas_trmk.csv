@@ -1,0 +1,27 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1729,57,Jesse González,Goalkeeper,25,United States,1.93,-,2015-01-01,FC Dallas Academy,31.12.2020,1.3,https://www.transfermarkt.com/jesse-gonzalez/profil/spieler/263770
+1730,57,Jimmy Maurer,Goalkeeper,31,United States,1.88,-,2017-12-18,New York Cosmos,31.12.2020,0.27,https://www.transfermarkt.com/jimmy-maurer/profil/spieler/183337
+1731,57,Kyle Zobeck,Goalkeeper,30,United States,1.87,-,2018-02-21,New York Cosmos,31.12.2020,0.08,https://www.transfermarkt.com/kyle-zobeck/profil/spieler/261321
+1732,57,Nkosi Burgess,Defender,24,United States,m,-,2020-01-09,Seattle Redhawks (Seattle University),-,0.05,https://www.transfermarkt.com/nkosi-burgess/profil/spieler/501877
+1733,57,Matt Hedges,Centre-Back,30,United States,1.93,-,2012-01-01,North Carolina Tar Heels (University of NC),31.12.2020,1.51,https://www.transfermarkt.com/matt-hedges/profil/spieler/212984
+1734,57,Reto Ziegler,Centre-Back,34,Switzerland,1.83,left,2018-01-02,FC Luzern,-,0.59,https://www.transfermarkt.com/reto-ziegler/profil/spieler/9915
+1735,57,Bressan,Centre-Back,27,Brazil,1.85,right,2019-01-01,Grêmio Foot-Ball Porto Alegrense,-,0.51,https://www.transfermarkt.com/bressan/profil/spieler/256453
+1736,57,John Nelson,Left-Back,21,United States,1.77,left,2019-01-11,North Carolina Tar Heels (University of NC),31.12.2020,0.32,https://www.transfermarkt.com/john-nelson/profil/spieler/351504
+1737,57,Reggie Cannon,Right-Back,21,United States,1.8,right,2016-12-22,UCLA Bruins (Univ. of California Los Angeles),31.12.2023,2.92,https://www.transfermarkt.com/reggie-cannon/profil/spieler/478940
+1738,57,Ryan Hollingshead,Right-Back,29,United States,1.86,left,2013-12-09,Career break,-,0.86,https://www.transfermarkt.com/ryan-hollingshead/profil/spieler/256354
+1739,57,Bryan Reynolds,Right-Back,18,United States,1.85,-,2016-11-22,FC Dallas Academy,31.12.2020,0.27,https://www.transfermarkt.com/bryan-reynolds/profil/spieler/475208
+1740,57,Eddie Munjoma,Right-Back,21,United States,1.78,-,2020-01-13,SMU Mustangs (Southern Methodist University),31.12.2022,0.05,https://www.transfermarkt.com/eddie-munjoma/profil/spieler/636468
+1741,57,Thiago Santos,Defensive Midfield,30,Brazil,1.81,right,2020-01-01,Sociedade Esportiva Palmeiras,31.12.2022,0.86,https://www.transfermarkt.com/thiago-santos/profil/spieler/346922
+1742,57,Edwin Cerrillo,Defensive Midfield,19,United States,1.78,-,2019-02-14,FC Dallas Academy,-,0.38,https://www.transfermarkt.com/edwin-cerrillo/profil/spieler/652470
+1743,57,Bryan Acosta,Central Midfield,26,Honduras,1.75,right,2019-01-08,CD Tenerife,-,1.73,https://www.transfermarkt.com/bryan-acosta/profil/spieler/314853
+1744,57,Brandon Servania,Central Midfield,21,United States,1.78,-,2018-01-03,Demon Deacons (Wake Forest University),31.12.2020,0.38,https://www.transfermarkt.com/brandon-servania/profil/spieler/455979
+1745,57,Paxton Pomykal,Attacking Midfield,20,United States,1.72,-,2016-09-08,FC Dallas Academy,-,1.94,https://www.transfermarkt.com/paxton-pomykal/profil/spieler/455978
+1746,57,Thomas Roberts,Attacking Midfield,18,United States,1.8,-,2018-07-25,FC Dallas Academy,31.12.2020,0.19,https://www.transfermarkt.com/thomas-roberts/profil/spieler/513967
+1747,57,Tanner Tessmann,Attacking Midfield,18,United States,1.88,-,2020-02-25,FC Dallas Academy,31.12.2022,0.11,https://www.transfermarkt.com/tanner-tessmann/profil/spieler/670096
+1748,57,Fafà Picault,Left Winger,29,United States,1.73,-,2019-11-26,Philadelphia Union,-,0.65,https://www.transfermarkt.com/fafa-picault/profil/spieler/216683
+1749,57,Santiago Mosquera,Left Winger,25,Colombia,1.72,right,2018-02-12,Millonarios FC,-,0.65,https://www.transfermarkt.com/santiago-mosquera/profil/spieler/490621
+1750,57,Dante Sealy,Left Winger,17,United States,1.78,-,2019-02-26,FC Dallas Academy,-,0.22,https://www.transfermarkt.com/dante-sealy/profil/spieler/568179
+1751,57,Michael Barrios,Right Winger,29,Colombia,1.63,right,2015-02-20,Uniautónoma FC,31.12.2020,1.73,https://www.transfermarkt.com/michael-barrios/profil/spieler/313286
+1752,57,Jesús Ferreira,Centre-Forward,19,United States,1.73,-,2017-01-01,FC Dallas Academy,-,1.94,https://www.transfermarkt.com/jesus-ferreira/profil/spieler/474249
+1753,57,Zdenek Ondrasek,Centre-Forward,31,Czech Republic,1.86,right,2019-01-01,Wisla Kraków,-,0.51,https://www.transfermarkt.com/zdenek-ondrasek/profil/spieler/72947
+1754,57,Ricardo Pepi,Centre-Forward,17,United States,1.85,right,2019-06-21,North Texas Soccer Club,-,0.38,https://www.transfermarkt.com/ricardo-pepi/profil/spieler/627207

@@ -1,0 +1,16 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2915,109,Carlos Avilez,Goalkeeper,21,Mexico,1.83,-,2019-01-31,FC Dallas Academy,31.12.2020,0.11,https://www.transfermarkt.com/carlos-avilez/profil/spieler/354311
+2916,109,Luis Zamudio,Goalkeeper,21,United States,1.9,-,2020-02-07,CF América,30.11.2020,0.11,https://www.transfermarkt.com/luis-zamudio/profil/spieler/564971
+2917,109,Philip Ponder,Defender,23,United States,1.83,-,2020-01-15,SMU Mustangs (Southern Methodist University),30.11.2020,0.0,https://www.transfermarkt.com/philip-ponder/profil/spieler/636460
+2918,109,Lamar Batista,Centre-Back,22,United States,1.96,-,2020-03-06,Without Club,30.11.2020,0.19,https://www.transfermarkt.com/lamar-batista/profil/spieler/495882
+2919,109,Jorge Almaguer,Left-Back,19,United States,1.72,-,2019-08-07,FC Dallas Academy,30.11.2020,0.19,https://www.transfermarkt.com/jorge-almaguer/profil/spieler/663311
+2920,109,Juan Álvarez,Right-Back,23,Mexico,1.78,right,2020-01-01,CF Monterrey II,-,0.11,https://www.transfermarkt.com/juan-alvarez/profil/spieler/401943
+2921,109,Cuadrado,Right-Back,21,Brazil,1.78,-,2020-01-14,Club Guaraní U23,30.11.2020,0.0,https://www.transfermarkt.com/cuadrado/profil/spieler/743181
+2922,109,Derek Waldeck,Midfielder,22,United States,1.73,-,2020-02-14,FC Dallas,30.11.2020,0.0,https://www.transfermarkt.com/derek-waldeck/profil/spieler/635661
+2923,109,Alisson,Defensive Midfield,20,Brazil,m,-,2020-01-14,FC São Paulo B,30.11.2020,0.0,https://www.transfermarkt.com/alisson/profil/spieler/743182
+2924,109,Oscar Romero,Right Midfield,23,United States,1.78,-,2019-01-31,Without Club,30.11.2020,0.14,https://www.transfermarkt.com/oscar-romero/profil/spieler/650289
+2925,109,David Rodriguez,Attacking Midfield,18,United States,1.7,-,2019-02-20,FC Dallas Academy,30.11.2020,0.14,https://www.transfermarkt.com/david-rodriguez/profil/spieler/627211
+2926,109,Gibran Rayo,Forward,18,United States,m,-,2020-01-15,FC Dallas Academy,30.11.2021,0.11,https://www.transfermarkt.com/gibran-rayo/profil/spieler/666795
+2927,109,Anders Engebretsen,Forward,24,Norway,1.73,-,2020-02-14,FC Dallas,30.11.2020,0.0,https://www.transfermarkt.com/anders-engebretsen/profil/spieler/637564
+2928,109,Ronaldo Damus,Centre-Forward,20,Haiti,1.78,-,2019-01-03,Real Hope Football Academy,31.12.2020,0.38,https://www.transfermarkt.com/ronaldo-damus/profil/spieler/458345
+2929,109,Alex Bruce,Centre-Forward,21,England,1.85,-,2019-12-06,San Antonio FC,30.11.2020,0.14,https://www.transfermarkt.com/alex-bruce/profil/spieler/561040

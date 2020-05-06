@@ -1,0 +1,26 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2256,77,Bryan Byars,Goalkeeper,28,United States,1.88,-,2020-01-10,Oklahoma City Energy FC,30.11.2020,0.14,https://www.transfermarkt.com/bryan-byars/profil/spieler/364629
+2257,77,Sean Lewis,Goalkeeper,28,United States,1.85,-,2018-12-27,Penn FC,30.11.2020,0.11,https://www.transfermarkt.com/sean-lewis/profil/spieler/431278
+2258,77,Andrew MacRae,Goalkeeper,29,Canada,1.85,right,2019-01-31,Larne FC,30.11.2020,0.05,https://www.transfermarkt.com/andrew-macrae/profil/spieler/430743
+2259,77,Kevin Garcia,Centre-Back,29,United States,1.88,left,2020-03-03,Without Club,30.11.2020,0.35,https://www.transfermarkt.com/kevin-garcia/profil/spieler/271546
+2260,77,Cyprian Hedrick,Centre-Back,30,United States,1.83,-,2018-12-17,San Antonio FC,30.11.2020,0.22,https://www.transfermarkt.com/cyprian-hedrick/profil/spieler/213019
+2261,77,Bradley Bourgeois,Centre-Back,26,United States,1.8,-,2019-12-31,Nashville SC,30.11.2021,0.16,https://www.transfermarkt.com/bradley-bourgeois/profil/spieler/227330
+2262,77,Callum Chapman-Page,Centre-Back,24,England,1.85,-,2019-12-18,Miami FC,30.11.2020,0.0,https://www.transfermarkt.com/callum-chapman-page/profil/spieler/585725
+2263,77,Vangjel Zguro,Left-Back,27,Albania,1.84,left,2019-12-23,Chattanooga Red Wolves SC,30.11.2020,0.22,https://www.transfermarkt.com/vangjel-zguro/profil/spieler/402041
+2264,77,Maximiliano Schenfeld,Left-Back,27,Chile,1.75,left,2019-12-18,Miami FC,30.11.2020,0.0,https://www.transfermarkt.com/maximiliano-schenfeld/profil/spieler/589634
+2265,77,Solomon Kwambe,Right-Back,26,Nigeria,1.87,right,2020-01-13,Lobi Stars FC,30.11.2020,0.27,https://www.transfermarkt.com/solomon-kwambe/profil/spieler/221178
+2266,77,Matthew Sheldon,Right-Back,27,United States,1.85,-,2019-01-01,Waterside Karori AFC,30.11.2020,0.14,https://www.transfermarkt.com/matthew-sheldon/profil/spieler/423966
+2267,77,Maicon,Right-Back,27,Brazil,1.83,right,2020-01-16,Without Club,30.11.2020,0.11,https://www.transfermarkt.com/maicon/profil/spieler/184743
+2268,77,Ciaran Winters,Midfielder,18,United States,1.83,-,2019-12-27,Sporting Kansas City Academy,30.11.2020,0.0,https://www.transfermarkt.com/ciaran-winters/profil/spieler/732976
+2269,77,Brayan Reyes,Defensive Midfield,28,Honduras,1.75,right,2019-01-23,Platense FC,30.11.2020,0.11,https://www.transfermarkt.com/brayan-reyes/profil/spieler/192519
+2270,77,Lebo Moloto,Central Midfield,29,South Africa,1.8,-,2020-01-02,Nashville SC,30.11.2021,0.3,https://www.transfermarkt.com/lebo-moloto/profil/spieler/364683
+2271,77,Eric Bird,Central Midfield,27,United States,1.8,-,2020-01-01,Houston Dynamo,30.11.2020,0.19,https://www.transfermarkt.com/eric-bird/profil/spieler/357280
+2272,77,Raphael Ayagwa,Central Midfield,22,Nigeria,1.82,-,2020-01-11,Lobi Stars FC,30.11.2020,0.11,https://www.transfermarkt.com/raphael-ayagwa/profil/spieler/554062
+2273,77,Cristhian Altamirano,Left Midfield,30,Honduras,1.7,-,2019-01-01,Platense FC,30.11.2020,0.22,https://www.transfermarkt.com/cristhian-altamirano/profil/spieler/243535
+2274,77,Rodrigo da Costa,Attacking Midfield,26,Brazil,1.84,left,2019-03-01,Unknown,30.11.2021,0.22,https://www.transfermarkt.com/rodrigo-da-costa/profil/spieler/659094
+2275,77,Darío Suárez,Attacking Midfield,27,Cuba,1.7,-,2020-01-01,Miami FC,30.11.2020,0.0,https://www.transfermarkt.com/dario-suarez/profil/spieler/378200
+2276,77,Marlon,Left Winger,25,Brazil,1.73,left,2019-08-13,Madureira Esporte Clube (RJ),30.11.2020,0.19,https://www.transfermarkt.com/marlon/profil/spieler/552230
+2277,77,Ariel Martínez,Right Winger,33,Cuba,1.78,right,2020-01-01,Miami FC,30.11.2020,0.32,https://www.transfermarkt.com/ariel-martinez/profil/spieler/62818
+2278,77,Panin Boakye,Right Winger,25,Ghana,1.75,right,2019-07-19,FC Vizela,30.11.2020,0.08,https://www.transfermarkt.com/panin-boakye/profil/spieler/337365
+2279,77,Mfon Udoh,Centre-Forward,28,Nigeria,1.72,-,2020-01-13,Akwa United,30.11.2020,0.22,https://www.transfermarkt.com/mfon-udoh/profil/spieler/316077
+2280,77,Tobenna Uzo,Centre-Forward,25,United States,1.93,-,2019-01-04,Colorado Springs Switchbacks FC,30.11.2020,0.11,https://www.transfermarkt.com/tobenna-uzo/profil/spieler/533814

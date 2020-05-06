@@ -1,0 +1,21 @@
+team_ID,league_ID,club,squad,foreigners,avg_market_value_m,total_MV_m,Logo_img,link_page
+1,1,Clube de Regatas do Flamengo ,33,3,3.99,131.52,https://tmssl.akamaized.net/images/wappen/header/614.png,https://www.transfermarkt.com/flamengo-rio-de-janeiro/kader/verein/614/saison_id/2019/plus/1
+2,1,Sociedade Esportiva Palmeiras ,31,3,3.52,109.03,https://tmssl.akamaized.net/images/wappen/header/1023.png,https://www.transfermarkt.com/se-palmeiras-sao-paulo/kader/verein/1023/saison_id/2019/plus/1
+3,1,Grêmio Foot-Ball Porto Alegrense ,37,2,2.87,106.25,https://tmssl.akamaized.net/images/wappen/header/210.png,https://www.transfermarkt.com/gremio-foot-ball-porto-alegrense/kader/verein/210/saison_id/2019/plus/1
+4,1,São Paulo Futebol Clube ,37,5,2.21,81.95,https://tmssl.akamaized.net/images/wappen/header/585.png,https://www.transfermarkt.com/fc-sao-paulo/kader/verein/585/saison_id/2019/plus/1
+5,1,Sport Club Corinthians Paulista ,33,5,2.44,80.51,https://tmssl.akamaized.net/images/wappen/header/199.png,https://www.transfermarkt.com/corinthians-sao-paulo/kader/verein/199/saison_id/2019/plus/1
+6,1,Sport Club Internacional ,39,8,1.44,55.84,https://tmssl.akamaized.net/images/wappen/header/6600.png,https://www.transfermarkt.com/sc-internacional-porto-alegre/kader/verein/6600/saison_id/2019/plus/1
+7,1,Santos FC ,35,4,1.54,54.05,https://tmssl.akamaized.net/images/wappen/header/221.png,https://www.transfermarkt.com/fc-santos/kader/verein/221/saison_id/2019/plus/1
+8,1,Clube Atlético Mineiro ,32,7,1.44,46.04,https://tmssl.akamaized.net/images/wappen/header/330.png,https://www.transfermarkt.com/atletico-mineiro/kader/verein/330/saison_id/2019/plus/1
+9,1,Fluminense Football Club ,42,3,0.98,41.13,https://tmssl.akamaized.net/images/wappen/header/2462.png,https://www.transfermarkt.com/fluminense-football-club/kader/verein/2462/saison_id/2019/plus/1
+10,1,Club de Regatas Vasco da Gama ,40,3,0.99,39.56,https://tmssl.akamaized.net/images/wappen/header/978.png,https://www.transfermarkt.com/vasco-da-gama-rio-de-janeiro/kader/verein/978/saison_id/2019/plus/1
+11,1,Club Athletico Paranaense ,35,3,0.96,33.46,https://tmssl.akamaized.net/images/wappen/header/679.png,https://www.transfermarkt.com/clube-atletico-paranaense/kader/verein/679/saison_id/2019/plus/1
+12,1,Esporte Clube Bahia ,31,0,0.9,27.97,https://tmssl.akamaized.net/images/wappen/header/10010.png,https://www.transfermarkt.com/ec-bahia/kader/verein/10010/saison_id/2019/plus/1
+13,1,Botafogo Rio de Janeiro ,35,6,0.68,23.71,https://tmssl.akamaized.net/images/wappen/header/537.png,https://www.transfermarkt.com/botafogo-fr-rio-de-janeiro/kader/verein/537/saison_id/2019/plus/1
+14,1,Red Bull Bragantino ,26,1,0.89,23.14,https://tmssl.akamaized.net/images/wappen/header/8793.png,https://www.transfermarkt.com/clube-atletico-bragantino-sp-/kader/verein/8793/saison_id/2019/plus/1
+15,1,Coritiba Foot Ball Club  ,35,0,0.61,21.49,https://tmssl.akamaized.net/images/wappen/header/776.png,https://www.transfermarkt.com/coritiba-fc/kader/verein/776/saison_id/2019/plus/1
+16,1,Goiás Esporte Clube ,28,5,0.7,19.71,https://tmssl.akamaized.net/images/wappen/header/3197.png,https://www.transfermarkt.com/goias-esporte-clube/kader/verein/3197/saison_id/2019/plus/1
+17,1,Sport Club do Recife  ,35,3,0.51,17.93,https://tmssl.akamaized.net/images/wappen/header/8718.png,https://www.transfermarkt.com/sport-club-do-recife/kader/verein/8718/saison_id/2019/plus/1
+18,1,Ceará Sporting Club ,35,1,0.51,17.77,https://tmssl.akamaized.net/images/wappen/header/2029.png,https://www.transfermarkt.com/ceara-sporting-club-ce-/kader/verein/2029/saison_id/2019/plus/1
+19,1,Fortaleza Esporte Clube ,29,2,0.54,15.58,https://tmssl.akamaized.net/images/wappen/header/10870.png,https://www.transfermarkt.com/fortaleza-esporte-clube/kader/verein/10870/saison_id/2019/plus/1
+20,1,AC Goianiense (GO)  ,24,1,0.44,10.67,https://tmssl.akamaized.net/images/wappen/header/15172.png,https://www.transfermarkt.com/atletico-goianiense/kader/verein/15172/saison_id/2019/plus/1

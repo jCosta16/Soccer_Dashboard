@@ -1,0 +1,21 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2787,103,Dallas Jaye,Goalkeeper,26,Guam,1.83,-,2019-02-05,Phoenix Rising FC,30.11.2020,0.14,https://www.transfermarkt.com/dallas-jaye/profil/spieler/256547
+2788,103,Paul Christensen,Goalkeeper,24,United States,1.81,-,2020-02-04,Atlanta United 2,30.11.2020,0.11,https://www.transfermarkt.com/paul-christensen/profil/spieler/568200
+2789,103,Brandon Fricke,Centre-Back,28,United States,1.85,-,2019-12-03,Lansing Ignite FC,30.11.2020,0.22,https://www.transfermarkt.com/brandon-fricke/profil/spieler/226628
+2790,103,Evan Lee,Centre-Back,26,United States,1.94,-,2019-01-15,Richmond Kickers,30.11.2020,0.16,https://www.transfermarkt.com/evan-lee/profil/spieler/424196
+2791,103,Cesar Murillo,Centre-Back,24,United States,m,-,2020-02-26,North Texas Soccer Club,30.11.2020,0.14,https://www.transfermarkt.com/cesar-murillo/profil/spieler/666796
+2792,103,Tyler Polak,Left-Back,27,United States,1.73,left,2019-01-04,Saint Louis FC,30.11.2020,0.16,https://www.transfermarkt.com/tyler-polak/profil/spieler/131333
+2793,103,Abdi Mohamed,Left-Back,23,Somalia,1.8,-,2020-02-05,New York City FC,30.11.2020,0.16,https://www.transfermarkt.com/abdi-mohamed/profil/spieler/637318
+2794,103,Trevor Swartz,Left-Back,24,United States,m,-,2020-02-26,Toronto FC II,30.11.2020,0.05,https://www.transfermarkt.com/trevor-swartz/profil/spieler/638476
+2795,103,Max Hemmings,Right-Back,23,England,1.83,-,2019-04-26,Georgia State Panthers (Georgia State University),30.11.2020,0.11,https://www.transfermarkt.com/max-hemmings/profil/spieler/635736
+2796,103,Ryeong Choi,Midfielder,23,"Korea, South",1.78,left,2019-08-01,High Point Panthers (High Point University),-,0.0,https://www.transfermarkt.com/ryeong-choi/profil/spieler/637047
+2797,103,Noah Pilato,Defensive Midfield,23,United States,1.75,-,2020-03-03,Without Club,30.11.2020,0.11,https://www.transfermarkt.com/noah-pilato/profil/spieler/658825
+2798,103,Colin Stripling,Defensive Midfield,25,United States,1.88,-,2019-12-16,FC Tucson,30.11.2020,0.08,https://www.transfermarkt.com/colin-stripling/profil/spieler/652497
+2799,103,Aaron Walker,Central Midfield,29,United States,1.8,-,2019-02-05,Atlanta SC,30.11.2020,0.19,https://www.transfermarkt.com/aaron-walker/profil/spieler/373782
+2800,103,Paul Clowes,Central Midfield,26,England,1.78,right,2019-01-22,Egerton FC,30.11.2020,0.16,https://www.transfermarkt.com/paul-clowes/profil/spieler/186291
+2801,103,Omar Mohamed,Left Midfield,23,Somalia,1.81,-,2019-02-08,Des Moines Menace,30.11.2020,0.19,https://www.transfermarkt.com/omar-mohamed/profil/spieler/421923
+2802,103,Carlos Gomez,Attacking Midfield,26,Spain,m,-,2019-02-07,Young Harris College,30.11.2020,0.22,https://www.transfermarkt.com/carlos-gomez/profil/spieler/651931
+2803,103,Lachlan McLean,Forward,24,Australia,1.83,right,2020-02-26,SIUE Cougars (Southern Illinois Uni. Edwardsville),30.11.2020,0.0,https://www.transfermarkt.com/lachlan-mclean/profil/spieler/751149
+2804,103,Jake Keegan,Centre-Forward,29,United States,1.76,-,2019-01-11,St. Patricks Athletic,30.11.2020,0.19,https://www.transfermarkt.com/jake-keegan/profil/spieler/310391
+2805,103,Alex Morrell,Centre-Forward,25,United States,1.7,-,2020-01-14,South Georgia Tormenta FC,30.11.2020,0.14,https://www.transfermarkt.com/alex-morrell/profil/spieler/417393
+2806,103,Joshua Donnelly,Centre-Forward,23,England,1.86,-,2019-08-08,South Georgia Tormenta FC 2,30.11.2020,0.14,https://www.transfermarkt.com/joshua-donnelly/profil/spieler/635967

@@ -1,0 +1,29 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1354,43,Luis Robles,Goalkeeper,35,United States,1.85,right,2019-12-02,New York Red Bulls,31.12.2020,0.51,https://www.transfermarkt.com/luis-robles/profil/spieler/47289
+1355,43,John McCarthy,Goalkeeper,27,United States,1.9,-,2019-12-04,Tampa Bay Rowdies,31.12.2020,0.32,https://www.transfermarkt.com/john-mccarthy/profil/spieler/271718
+1356,43,Drake Callender,Goalkeeper,22,United States,1.91,-,2019-12-23,California Golden Bears (UC Berkeley),31.12.2020,0.05,https://www.transfermarkt.com/drake-callender/profil/spieler/723561
+1357,43,Jorge Figal,Centre-Back,26,Argentina,1.8,right,2020-01-30,Club Atlético Independiente,-,5.18,https://www.transfermarkt.com/jorge-figal/profil/spieler/334055
+1358,43,Andrés Reyes,Centre-Back,20,Colombia,1.86,right,2020-02-12,Atlético Nacional,31.12.2020,0.49,https://www.transfermarkt.com/andres-reyes/profil/spieler/582995
+1359,43,Christian Makoun,Centre-Back,20,Venezuela,1.81,left,2020-01-01,Zamora FC,-,0.49,https://www.transfermarkt.com/christian-makoun/profil/spieler/463667
+1360,43,Román Torres,Centre-Back,34,Panama,1.88,right,2019-12-29,Seattle Sounders FC,31.12.2020,0.32,https://www.transfermarkt.com/roman-torres/profil/spieler/74182
+1361,43,Grant Lillard,Centre-Back,24,United States,1.93,left,2019-11-14,Chicago Fire FC,-,0.19,https://www.transfermarkt.com/grant-lillard/profil/spieler/570559
+1362,43,Ben Sweat,Left-Back,28,United States,1.88,left,2019-11-19,New York City FC,-,0.81,https://www.transfermarkt.com/ben-sweat/profil/spieler/268310
+1363,43,Mikey Ambrose,Left-Back,26,United States,1.75,left,2019-11-26,Atlanta United FC,-,0.22,https://www.transfermarkt.com/mikey-ambrose/profil/spieler/255918
+1364,43,Alvas Powell,Right-Back,25,Jamaica,1.82,right,2019-11-19,FC Cincinnati,-,0.51,https://www.transfermarkt.com/alvas-powell/profil/spieler/189772
+1365,43,A. J. DeLaGarza,Right-Back,32,Guam,1.75,right,2019-12-02,Houston Dynamo,-,0.43,https://www.transfermarkt.com/a-j-delagarza/profil/spieler/105997
+1366,43,Denso Ulysse,Right-Back,21,Haiti,1.73,-,2019-12-23,Tacoma Defiance,31.12.2020,0.16,https://www.transfermarkt.com/denso-ulysse/profil/spieler/496851
+1367,43,Dylan Nealis,Right-Back,21,United States,1.81,-,2020-01-09,Georgetown Hoyas (Georgetown University),-,0.05,https://www.transfermarkt.com/dylan-nealis/profil/spieler/638385
+1368,43,Wil Trapp,Defensive Midfield,27,United States,1.73,-,2020-01-31,Columbus Crew SC,-,2.59,https://www.transfermarkt.com/wil-trapp/profil/spieler/199559
+1369,43,Víctor Ulloa,Defensive Midfield,28,Mexico,1.81,-,2019-11-11,FC Cincinnati,-,0.59,https://www.transfermarkt.com/victor-ulloa/profil/spieler/158123
+1370,43,Jay Chapman,Central Midfield,26,Canada,1.83,-,2019-11-13,Toronto FC,-,0.43,https://www.transfermarkt.com/jay-chapman/profil/spieler/189032
+1371,43,David Norman Jr.,Central Midfield,21,Canada,1.88,-,2019-09-03,Vancouver Whitecaps FC,-,0.22,https://www.transfermarkt.com/david-norman-jr-/profil/spieler/483310
+1372,43,Lewis Morgan,Left Midfield,23,Scotland,m,-,2020-01-31,Celtic FC,-,0.65,https://www.transfermarkt.com/lewis-morgan/profil/spieler/311351
+1373,43,Luis Argudo,Left Midfield,24,United States,1.75,-,2019-11-19,Columbus Crew SC,-,0.35,https://www.transfermarkt.com/luis-argudo/profil/spieler/570561
+1374,43,Rodolfo Pizarro,Attacking Midfield,26,Mexico,1.75,right,2020-02-17,CF Monterrey,-,8.64,https://www.transfermarkt.com/rodolfo-pizarro/profil/spieler/234918
+1375,43,Lee Nguyen,Attacking Midfield,33,United States,1.72,right,2019-11-19,Los Angeles FC,-,0.57,https://www.transfermarkt.com/lee-nguyen/profil/spieler/37604
+1376,43,George Acosta,Attacking Midfield,20,United States,1.7,right,2020-01-01,Austin Bold FC,-,0.16,https://www.transfermarkt.com/george-acosta/profil/spieler/370975
+1377,43,Matías Pellegrini,Left Winger,20,Argentina,1.76,right,2019-07-26,Club Estudiantes de La Plata,-,7.24,https://www.transfermarkt.com/matias-pellegrini/profil/spieler/606267
+1378,43,Julián Carranza,Centre-Forward,19,Argentina,1.82,right,2019-07-26,Club Atlético Banfield,-,5.83,https://www.transfermarkt.com/julian-carranza/profil/spieler/491707
+1379,43,Juan Agudelo,Centre-Forward,27,United States,1.85,both,2019-12-28,New England Revolution,-,0.65,https://www.transfermarkt.com/juan-agudelo/profil/spieler/131171
+1380,43,Jerome Kiesewetter,Centre-Forward,27,United States,1.83,right,2019-11-18,El Paso Locomotive FC,-,0.22,https://www.transfermarkt.com/jerome-kiesewetter/profil/spieler/94167
+1381,43,Robbie Robinson,Centre-Forward,21,United States,1.78,-,2020-01-09,Clemson Tigers (Clemson University),-,0.11,https://www.transfermarkt.com/robbie-robinson/profil/spieler/496613

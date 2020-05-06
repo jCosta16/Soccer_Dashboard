@@ -1,0 +1,31 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+865,27,Martín Rodríguez,Goalkeeper,30,Uruguay,1.91,right,2019-07-01,Racing Club de Montevideo,-,0.32,https://www.transfermarkt.com/martin-rodriguez/profil/spieler/127829
+866,27,César Reis,Goalkeeper,25,Brazil,1.9,right,2020-03-17,Londrina Esporte Clube (PR),-,0.11,https://www.transfermarkt.com/cesar-reis/profil/spieler/412685
+867,27,Ronaldo,Goalkeeper,23,Brazil,1.94,right,2018-01-10,Esporte Clube Vitória B,31.12.2020,0.05,https://www.transfermarkt.com/ronaldo/profil/spieler/387925
+868,27,Lucas,Goalkeeper,21,Brazil,m,-,-,-,-,0.0,https://www.transfermarkt.com/lucas/profil/spieler/645602
+869,27,Maurício Ramos,Centre-Back,35,Brazil,1.82,right,2020-01-01,Associação Chapecoense de Futebol,31.12.2021,0.32,https://www.transfermarkt.com/mauricio-ramos/profil/spieler/68803
+870,27,João Victor,Centre-Back,22,Brazil,1.88,right,2020-01-01,Santa Cruz Futebol Clube (PE),31.12.2024,0.0,https://www.transfermarkt.com/joao-victor/profil/spieler/626110
+871,27,Dedé,Centre-Back,24,Brazil,1.9,right,2019-05-02,Santos Futebol Clube (Macapá),-,0.0,https://www.transfermarkt.com/dede/profil/spieler/671065
+872,27,Thiago Carleto,Left-Back,31,Brazil,1.76,left,2019-10-03,Ceará Sporting Club,-,1.08,https://www.transfermarkt.com/thiago-carleto/profil/spieler/60982
+873,27,Rafael Carioca,Left-Back,27,Brazil,1.75,left,2020-01-22,Clube Atlético Linense (SP),-,0.7,https://www.transfermarkt.com/rafael-carioca/profil/spieler/376373
+874,27,Wellisson,Left-Back,21,Brazil,m,left,-,-,-,0.0,https://www.transfermarkt.com/wellisson/profil/spieler/666503
+875,27,Léo Morais,Right-Back,28,Brazil,1.73,right,2020-03-12,Avaí Futebol Clube (SC),-,0.59,https://www.transfermarkt.com/leo-morais/profil/spieler/150085
+876,27,Jonathan Bocão,Right-Back,27,Brazil,1.64,right,2019-10-03,Esporte Clube Água Santa (SP),-,0.57,https://www.transfermarkt.com/jonathan-bocao/profil/spieler/347091
+877,27,Van,Right-Back,29,Brazil,m,right,2020-01-16,AD Bahia de Feira (BA),-,0.0,https://www.transfermarkt.com/vantm/profil/spieler/671049
+878,27,Jean,Defensive Midfield,25,Brazil,1.83,right,2020-01-23,Sport Club Corinthians Paulista,31.12.2020,0.59,https://www.transfermarkt.com/jean/profil/spieler/349826
+879,27,Rodrigo Andrade,Defensive Midfield,22,Brazil,1.74,right,2018-02-09,Paysandu Sport Club,-,0.51,https://www.transfermarkt.com/rodrigo-andrade/profil/spieler/435239
+880,27,Romisson,Defensive Midfield,23,Brazil,1.78,right,2019-05-03,Capital Clube de Futebol (DF),-,0.05,https://www.transfermarkt.com/romisson/profil/spieler/539467
+881,27,Gabriel Bispo,Defensive Midfield,23,Brazil,m,-,2020-01-21,AD Bahia de Feira (BA),-,0.0,https://www.transfermarkt.com/gabriel-bispo/profil/spieler/671048
+882,27,Gabriel Furtado,Central Midfield,20,Brazil,1.82,right,2020-01-16,SE Palmeiras B,-,0.05,https://www.transfermarkt.com/gabriel-furtado/profil/spieler/520626
+883,27,Gerson Magrão,Left Midfield,34,Brazil,1.81,left,2019-12-13,Associação Atlética Ponte Preta,-,0.43,https://www.transfermarkt.com/gerson-magrao/profil/spieler/27303
+884,27,Alisson Farias,Left Midfield,24,Brazil,1.71,right,2020-01-01,Sport Club Internacional,31.12.2021,0.32,https://www.transfermarkt.com/alisson-farias/profil/spieler/366645
+885,27,Fernando Neto,Left Midfield,27,Brazil,1.79,left,2020-01-08,Fluminense Football Club,-,0.22,https://www.transfermarkt.com/fernando-neto/profil/spieler/225477
+886,27,Negueba,Left Winger,20,Brazil,m,-,2019-10-04,Globo Futebol Clube RN,31.12.2020,0.0,https://www.transfermarkt.com/negueba/profil/spieler/680681
+887,27,Felipe Garcia,Right Winger,29,Brazil,1.84,right,2019-02-27,Nagoya Grampus,06.12.2020,0.35,https://www.transfermarkt.com/felipe-garcia/profil/spieler/98511
+888,27,Vico,Right Winger,23,Brazil,1.74,left,2020-01-23,Grêmio Foot-Ball Porto Alegrense,31.12.2021,0.05,https://www.transfermarkt.com/vico/profil/spieler/553470
+889,27,Ruan Levine,Right Winger,21,Brazil,m,right,-,-,31.12.2021,0.0,https://www.transfermarkt.com/ruan-levine/profil/spieler/645601
+890,27,Léo Ceará,Second Striker,25,Brazil,1.78,right,2010-01-01,Sao Francisco Futebol Clube (PA),-,0.0,https://www.transfermarkt.com/leo-ceara/profil/spieler/422027
+891,27,Jordy Caicedo,Centre-Forward,22,Ecuador,1.85,-,2019-07-26,CD Universidad Católica,-,0.73,https://www.transfermarkt.com/jordy-caicedo/profil/spieler/360412
+892,27,Júnior Viçosa,Centre-Forward,30,Brazil,1.82,right,2020-01-03,América Futebol Clube (MG),-,0.7,https://www.transfermarkt.com/junior-vicosa/profil/spieler/147404
+893,27,Eron,Centre-Forward,21,Brazil,1.75,right,-,-,-,0.16,https://www.transfermarkt.com/eron/profil/spieler/323891
+894,27,Rodrigo Porto,Centre-Forward,20,Brazil,1.79,-,2020-01-21,Tombense Futebol Clube (MG),-,0.0,https://www.transfermarkt.com/rodrigo-porto/profil/spieler/628222

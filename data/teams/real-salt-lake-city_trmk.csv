@@ -1,0 +1,32 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1944,65,Zac MacMath,Goalkeeper,28,United States,1.85,-,2019-12-17,Vancouver Whitecaps FC,31.12.2020,0.32,https://www.transfermarkt.com/zac-macmath/profil/spieler/156300
+1945,65,David Ochoa,Goalkeeper,19,United States,1.88,-,2019-01-01,Zions Bank Real Academy,-,0.27,https://www.transfermarkt.com/david-ochoa/profil/spieler/580234
+1946,65,Andrew Putna,Goalkeeper,25,United States,1.88,-,2018-07-13,Real Monarchs SLC,31.12.2020,0.22,https://www.transfermarkt.com/andrew-putna/profil/spieler/494257
+1947,65,Justen Glad,Centre-Back,23,United States,1.83,-,2014-04-07,Zions Bank Real Academy,31.12.2020,0.7,https://www.transfermarkt.com/justen-glad/profil/spieler/334597
+1948,65,Nedum Onuoha,Centre-Back,33,England,1.83,right,2018-09-14,Without Club,-,0.57,https://www.transfermarkt.com/nedum-onuoha/profil/spieler/28810
+1949,65,Marcelo Silva,Centre-Back,31,Uruguay,1.85,right,2017-07-10,Real Zaragoza,31.12.2020,0.43,https://www.transfermarkt.com/marcelo-silva/profil/spieler/76743
+1950,65,Erik Holt,Centre-Back,23,United States,1.85,-,2019-01-03,UCLA Bruins (Univ. of California Los Angeles),31.12.2020,0.14,https://www.transfermarkt.com/erik-holt/profil/spieler/510344
+1951,65,Donny Toia,Left-Back,27,United States,1.73,left,2018-12-14,Orlando City SC,31.12.2020,0.51,https://www.transfermarkt.com/donny-toia/profil/spieler/181662
+1952,65,Ashtone Morgan,Left-Back,29,Canada,1.8,left,2020-01-21,Toronto FC,31.12.2020,0.32,https://www.transfermarkt.com/ashtone-morgan/profil/spieler/164559
+1953,65,Aaron Herrera,Right-Back,22,United States,1.8,right,2017-12-15,New Mexico Lobos (University of New Mexico),31.12.2023,0.81,https://www.transfermarkt.com/aaron-herrera/profil/spieler/401362
+1954,65,Alvin Jones,Right-Back,25,Trinidad and Tobago,1.83,right,2019-12-09,Oklahoma City Energy FC,-,0.19,https://www.transfermarkt.com/alvin-jones/profil/spieler/347597
+1955,65,Everton Luiz,Defensive Midfield,31,Brazil,1.73,right,2020-01-01,SPAL,31.12.2020,0.7,https://www.transfermarkt.com/everton-luiz/profil/spieler/75076
+1956,65,Kyle Beckerman,Defensive Midfield,38,United States,1.77,right,2007-07-16,Colorado Rapids,31.12.2020,0.32,https://www.transfermarkt.com/kyle-beckerman/profil/spieler/26995
+1957,65,Justin Portillo,Defensive Midfield,27,United States,1.7,right,2019-02-26,Real Monarchs SLC,31.12.2020,0.22,https://www.transfermarkt.com/justin-portillo/profil/spieler/318461
+1958,65,Damir Kreilach,Central Midfield,31,Croatia,1.86,right,2018-02-07,1.FC Union Berlin,31.12.2020,1.51,https://www.transfermarkt.com/damir-kreilach/profil/spieler/68884
+1959,65,Nick Besler,Central Midfield,26,United States,1.85,-,2017-08-24,Real Monarchs SLC,31.12.2020,0.43,https://www.transfermarkt.com/nick-besler/profil/spieler/354597
+1960,65,Luke Mulholland,Central Midfield,31,England,1.8,-,2014-01-21,Tampa Bay Rowdies,30.11.2020,0.32,https://www.transfermarkt.com/luke-mulholland/profil/spieler/101399
+1961,65,Pablo Ruiz,Central Midfield,21,Argentina,1.72,left,2018-02-02,CD San Luis de Quillota,-,0.11,https://www.transfermarkt.com/pablo-ruiz/profil/spieler/401580
+1962,65,Jeizon Ramírez,Right Midfield,19,Venezuela,1.69,right,2020-02-06,Deportivo Táchira,-,0.35,https://www.transfermarkt.com/jeizon-ramirez/profil/spieler/509326
+1963,65,Maikel Chang,Right Midfield,29,Cuba,1.77,-,2019-11-21,Real Monarchs SLC,31.12.2020,0.32,https://www.transfermarkt.com/maikel-chang/profil/spieler/259271
+1964,65,Albert Rusnák,Attacking Midfield,25,Slovakia,1.8,both,2017-01-06,FC Groningen,31.12.2021,1.73,https://www.transfermarkt.com/albert-rusnak/profil/spieler/43228
+1965,65,Luis Arriaga,Attacking Midfield,19,United States,1.7,-,2019-01-01,Zions Bank Real Academy,-,0.16,https://www.transfermarkt.com/luis-arriaga/profil/spieler/469856
+1966,65,Justin Meram,Left Winger,31,Iraq,1.85,right,2020-02-11,Atlanta United FC,-,1.73,https://www.transfermarkt.com/justin-meram/profil/spieler/175387
+1967,65,Tate Schmitt,Left Winger,22,United States,1.8,-,2019-01-03,Louisville Cardinals (University of Louisville),31.12.2020,0.11,https://www.transfermarkt.com/tate-schmitt/profil/spieler/637658
+1968,65,Julian Vázquez,Left Winger,19,Mexico,1.81,-,2019-01-01,Zions Bank Real Academy,31.12.2020,0.11,https://www.transfermarkt.com/julian-vazquez/profil/spieler/624261
+1969,65,Christopher Garcia,Right Winger,17,United States,1.7,-,2020-02-10,Zions Bank Real Academy,-,0.05,https://www.transfermarkt.com/christopher-garcia/profil/spieler/743691
+1970,65,Corey Baird,Centre-Forward,24,United States,1.78,-,2018-01-05,Stanford Cardinal (Stanford University),31.12.2023,1.03,https://www.transfermarkt.com/corey-baird/profil/spieler/336182
+1971,65,Sam Johnson,Centre-Forward,26,Liberia,1.78,right,2019-02-04,Vålerenga Fotball,31.12.2020,0.7,https://www.transfermarkt.com/sam-johnson/profil/spieler/252062
+1972,65,Giuseppe Rossi,Centre-Forward,33,Italy,1.73,left,2020-02-26,Without Club,31.12.2020,0.32,https://www.transfermarkt.com/giuseppe-rossi/profil/spieler/19104
+1973,65,Douglas Martínez,Centre-Forward,22,Honduras,1.8,-,2019-08-30,Real Monarchs SLC,31.12.2020,0.32,https://www.transfermarkt.com/douglas-martinez/profil/spieler/443384
+1974,65,Milan Iloski,Centre-Forward,20,United States,m,-,2020-01-15,UCLA Bruins (Univ. of California Los Angeles),-,0.05,https://www.transfermarkt.com/milan-iloski/profil/spieler/637271

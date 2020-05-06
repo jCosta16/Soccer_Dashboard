@@ -1,0 +1,26 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+1919,64,Andre Blake,Goalkeeper,29,Jamaica,1.93,-,2014-01-16,Connecticut Huskies (University of Connecticut),-,1.3,https://www.transfermarkt.com/andre-blake/profil/spieler/244149
+1920,64,Joe Bendik,Goalkeeper,31,United States,1.91,-,2019-07-19,Columbus Crew SC,31.12.2020,0.38,https://www.transfermarkt.com/joe-bendik/profil/spieler/168713
+1921,64,Matt Freese,Goalkeeper,21,United States,1.93,-,2018-12-21,Harvard Crimson (Harvard University),-,0.19,https://www.transfermarkt.com/matt-freese/profil/spieler/500309
+1922,64,Jack Elliott,Centre-Back,24,England,1.95,-,2017-01-17,WVU Mountaineers (West Virginia University),31.12.2021,1.3,https://www.transfermarkt.com/jack-elliott/profil/spieler/490362
+1923,64,Jakob Glesnes,Centre-Back,26,Norway,1.88,right,2020-01-31,Strømsgodset IF,-,0.59,https://www.transfermarkt.com/jakob-glesnes/profil/spieler/185636
+1924,64,Mark McKenzie,Centre-Back,21,United States,1.8,left,2018-01-18,Demon Deacons (Wake Forest University),31.12.2022,0.49,https://www.transfermarkt.com/mark-mckenzie/profil/spieler/429259
+1925,64,Aurélien Collin,Centre-Back,34,France,1.88,right,2019-01-22,New York Red Bulls,31.12.2020,0.22,https://www.transfermarkt.com/aurelien-collin/profil/spieler/45155
+1926,64,Kai Wagner,Left-Back,23,Germany,1.82,-,2019-02-06,Würzburger Kickers,-,0.86,https://www.transfermarkt.com/kai-wagner/profil/spieler/357842
+1927,64,Matthew Real,Left-Back,20,United States,1.8,-,2018-01-18,Bethlehem Steel FC,31.12.2020,0.3,https://www.transfermarkt.com/matthew-real/profil/spieler/368897
+1928,64,Raymon Gaddis,Right-Back,30,United States,1.75,right,2012-01-12,WVU Mountaineers (West Virginia University),-,0.81,https://www.transfermarkt.com/raymon-gaddis/profil/spieler/213017
+1929,64,Olivier Mbaizo,Right-Back,22,Cameroon,1.78,-,2018-04-17,Bethlehem Steel FC,31.12.2020,0.27,https://www.transfermarkt.com/olivier-mbaizo/profil/spieler/426944
+1930,64,Matej Oravec,Defensive Midfield,22,Slovakia,1.86,right,2020-01-20,DAC Dunajska Streda,31.12.2022,0.43,https://www.transfermarkt.com/matej-oravec/profil/spieler/389619
+1931,64,Warren Creavalle,Defensive Midfield,29,Guyana,1.83,right,2015-08-07,Toronto FC,31.12.2020,0.32,https://www.transfermarkt.com/warren-creavalle/profil/spieler/213005
+1932,64,José Andrés Martínez,Defensive Midfield,25,Venezuela,1.76,right,2020-01-01,Zulia FC,-,0.32,https://www.transfermarkt.com/jose-andres-martinez/profil/spieler/415666
+1933,64,Cole Turner,Defensive Midfield,18,United States,1.88,-,2020-01-01,Philadelphia Union II,30.11.2020,0.19,https://www.transfermarkt.com/cole-turner/profil/spieler/659780
+1934,64,Jamiro Monteiro,Central Midfield,26,Cape Verde,1.75,right,2020-01-10,FC Metz,31.12.2022,1.62,https://www.transfermarkt.com/jamiro-monteiro/profil/spieler/272930
+1935,64,Alejandro Bedoya,Central Midfield,33,United States,1.82,right,2016-08-03,FC Nantes,-,0.86,https://www.transfermarkt.com/alejandro-bedoya/profil/spieler/111783
+1936,64,Ilsinho,Right Midfield,34,Brazil,1.78,right,2016-02-24,Without Club,31.12.2020,0.51,https://www.transfermarkt.com/ilsinho/profil/spieler/52937
+1937,64,Jack de Vries,Right Midfield,18,United States,1.78,-,2020-01-01,Philadelphia Union Academy,-,0.14,https://www.transfermarkt.com/jack-de-vries/profil/spieler/659781
+1938,64,Brenden Aaronson,Attacking Midfield,19,United States,1.78,-,2019-01-01,Philadelphia Union Academy,-,1.4,https://www.transfermarkt.com/brenden-aaronson/profil/spieler/393323
+1939,64,Anthony Fontana,Attacking Midfield,20,United States,1.73,-,2018-01-01,Philadelphia Union Academy,31.12.2020,0.49,https://www.transfermarkt.com/anthony-fontana/profil/spieler/447216
+1940,64,Michee Ngalina,Left Winger,20,DR Congo,1.8,-,2019-05-08,Bethlehem Steel FC,-,0.22,https://www.transfermarkt.com/michee-ngalina/profil/spieler/580812
+1941,64,Andrew Wooten,Centre-Forward,30,United States,1.86,right,2019-07-09,SV Sandhausen,-,0.86,https://www.transfermarkt.com/andrew-wooten/profil/spieler/67407
+1942,64,Kacper Przybylko,Centre-Forward,27,Poland,1.92,both,2018-09-16,Without Club,31.12.2023,0.7,https://www.transfermarkt.com/kacper-przybylko/profil/spieler/86030
+1943,64,Sergio Santos,Centre-Forward,25,Brazil,1.83,left,2019-01-01,Audax Italiano,-,0.38,https://www.transfermarkt.com/sergio-santos/profil/spieler/370561

@@ -1,0 +1,24 @@
+players_ID,team_ID,name,position,Age,Nat,Height,foot,dt_joined,prev_team,contract_expires,market_value,player_page
+2233,76,Adam Grinwis,Goalkeeper,28,United States,1.88,-,2020-01-21,Orlando City SC,30.11.2020,0.16,https://www.transfermarkt.com/adam-grinwis/profil/spieler/228150
+2234,76,Rafael Diaz,Goalkeeper,28,Dominican Republic,1.83,-,2018-02-06,New York Red Bulls II,30.11.2020,0.14,https://www.transfermarkt.com/rafael-diaz/profil/spieler/318318
+2235,76,Diego Ramos,Goalkeeper,17,United States,1.85,-,2020-03-06,Sacramento Republic FC Academy,-,0.05,https://www.transfermarkt.com/diego-ramos/profil/spieler/688072
+2236,76,Hayden Sargis,Defender,18,United States,m,-,2020-01-15,Sacramento Republic FC Academy,30.11.2020,0.03,https://www.transfermarkt.com/hayden-sargis/profil/spieler/693178
+2237,76,Tomás Hilliard-Arce,Centre-Back,24,Costa Rica,1.85,-,2020-01-08,Los Angeles Galaxy,30.11.2020,0.22,https://www.transfermarkt.com/tomas-hilliard-arce/profil/spieler/562382
+2238,76,Dekel Keinan,Centre-Back,35,Israel,1.85,left,2018-12-22,FC Cincinnati,30.11.2020,0.14,https://www.transfermarkt.com/dekel-keinan/profil/spieler/24476
+2239,76,Juan Barahona,Left-Back,24,El Salvador,1.74,left,2019-05-06,Santa Tecla FC,30.11.2020,0.16,https://www.transfermarkt.com/juan-barahona/profil/spieler/337747
+2240,76,Shannon Gómez,Right-Back,23,Trinidad and Tobago,1.7,-,2018-02-07,New York City FC,30.11.2020,0.27,https://www.transfermarkt.com/shannon-gomez/profil/spieler/354577
+2241,76,Jordan McCrary,Right-Back,26,United States,1.76,-,2019-03-22,Without Club,30.11.2020,0.27,https://www.transfermarkt.com/jordan-mccrary/profil/spieler/417381
+2242,76,Matt Mahoney,Right-Back,24,United States,1.8,-,2019-01-02,Bethlehem Steel FC,30.11.2020,0.24,https://www.transfermarkt.com/matt-mahoney/profil/spieler/439957
+2243,76,Aris Yang,Right-Back,17,United States,1.75,-,2020-03-06,Sacramento Republic FC Academy,-,0.0,https://www.transfermarkt.com/aris-yang/profil/spieler/749443
+2244,76,Mario Penagos,Midfielder,17,United States,1.73,-,2020-01-15,Sacramento Republic FC Academy,30.11.2020,0.05,https://www.transfermarkt.com/mario-penagos/profil/spieler/617589
+2245,76,Julian Chavez,Midfielder,17,United States,1.7,-,2020-03-06,Sacramento Republic FC Academy,-,0.0,https://www.transfermarkt.com/julian-chavez/profil/spieler/749442
+2246,76,Rodrigo López,Defensive Midfield,31,United States,1.72,right,2020-01-03,Tiburones Rojos de Veracruz,30.11.2020,0.35,https://www.transfermarkt.com/rodrigo-lopez/profil/spieler/28099
+2247,76,Andrew Wheeler-Omiunu,Defensive Midfield,25,United States,1.75,-,2019-12-16,FC Tucson,30.11.2020,0.16,https://www.transfermarkt.com/andrew-wheeler-omiunu/profil/spieler/487386
+2248,76,Jaime Villarreal,Central Midfield,24,United States,1.72,-,2018-01-04,Los Angeles Galaxy,30.11.2020,0.22,https://www.transfermarkt.com/jaime-villarreal/profil/spieler/221626
+2249,76,Drew Skundrich,Central Midfield,24,United States,1.8,-,2018-12-10,Bethlehem Steel FC,30.11.2020,0.19,https://www.transfermarkt.com/drew-skundrich/profil/spieler/562499
+2250,76,Sam Werner,Left Midfield,24,United States,1.78,-,2018-12-18,Stanford Cardinal (Stanford University),30.11.2020,0.22,https://www.transfermarkt.com/sam-werner/profil/spieler/659766
+2251,76,Kharlton Belmar,Left Winger,27,Grenada,1.8,-,2019-12-12,Nashville SC,30.11.2020,0.35,https://www.transfermarkt.com/kharlton-belmar/profil/spieler/325368
+2252,76,Dariusz Formella,Left Winger,24,Poland,1.86,right,2019-07-18,Without Club,30.11.2020,0.14,https://www.transfermarkt.com/dariusz-formella/profil/spieler/225865
+2253,76,Cameron Iwasa,Centre-Forward,27,United States,1.78,-,2018-01-01,Sporting Kansas City,30.11.2020,0.32,https://www.transfermarkt.com/cameron-iwasa/profil/spieler/354838
+2254,76,Villyan Bijev,Centre-Forward,27,Bulgaria,1.83,right,2018-02-04,Portland Timbers 2,30.11.2020,0.22,https://www.transfermarkt.com/villyan-bijev/profil/spieler/198220
+2255,76,Ashkanov Apollon,Centre-Forward,29,United States,1.82,both,2020-02-11,SR Colmar,30.11.2020,0.0,https://www.transfermarkt.com/ashkanov-apollon/profil/spieler/478810
