@@ -1,10 +1,11 @@
 -- Show Leagues Table
-Select * from "Leagues"
+Select * from leagues
 
 -- Show Teams Table
-Select * from "Teams"
+Select * from teams
 
 -- Show Players Table
-Select * from "Players"
+Select * from players
 
 -- TRUNCATE TABLE "Players"
+
