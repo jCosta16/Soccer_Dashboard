@@ -1,7 +1,9 @@
 -- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/ka7Nxi
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-DROP SCHEMA public CASCADE;
+
+
+-- DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 GRANT ALL ON SCHEMA public TO postgres;
 GRANT ALL ON SCHEMA public TO public;
@@ -37,6 +39,7 @@ CREATE TABLE Players (
     team_ID Integer   NOT NULL,
     name VARCHAR(255)   NOT NULL,
     position VARCHAR(255)   NOT NULL,
+	field_position VARCHAR(255) NOT NULL,
     Age Integer   NOT NULL,
     Nat VARCHAR(255)   NOT NULL,
     Height NUMERIC,
