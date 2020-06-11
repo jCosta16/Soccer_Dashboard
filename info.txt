@@ -1,0 +1,35 @@
+Questions
+
+most expensive ensamble team 
+
+formations
+4𣯔		- CB(x2), LB, RB, (Mid, CM, MD)x2, (ATM,RM), (ATM, LM), ATT(2x)
+4𣛩 		- CB(x2), LB, RB, 
+4𣛧�2		- CB(x2), LB, RB, 
+4𣇽�1 	- CB(x2), LB, RB, 
+3𤃀 		- CB(x3), (LB, LM), (RB,RM), (Mid, CM, MD)x2 (A
+
+
+GLK
+ - goalkeeper
+
+DEF
+ - Centre-Back
+ - Left-Back
+ - Right-Back
+ - Defender
+
+MID
+ - Defensive Midfield
+ - Central Midfield
+ - Right Midfield
+ - Left Midfield
+ - Attacking Midfield
+ - Midfield
+
+ATT
+ - Left Winger
+ - Right Winger
+ - Centre-Forward
+ - Second Striker
+ - Forward
