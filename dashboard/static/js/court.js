@@ -1,4 +1,4 @@
-var court_data
+var soccerdata
 function multiplemax(test_array) { 
   let arr = Object.values(test_array);
   let max = Math.max(...arr)
@@ -26,41 +26,104 @@ chartGroup.append('image')
 .attr('width', '100%')
 .attr('height', '100%');
 
-chartGroup.append("circle")
+chartGroup.append("image")
+  .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
   .classed("court basket goalkeeper", true)
-  .attr("r", 20)
-  .attr("cx", 225)
-  .attr("cy", 550);
+  //.attr("r", 20)
+  .attr("x", 205)
+  .attr("y", 520)
+  .attr('height', 50); 
 
-// chartGroup.append("line")
-//   .classed("court glass" , true)
-//   .attr("x1", 245)
-//   .attr("y1", 450)
-//   .attr("x2", 305)
-//   .attr("y2", 450);
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket LE", true)
+        .attr('height', 50)
+        .attr("x", 55)
+        .attr("y", 435);
+//
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket ZE", true)
+        .attr('height', 50)
+        .attr("x", 160)
+        .attr("y", 435);
+        
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket ZD", true)
+        .attr('height', 50)
+        .attr("x", 260)
+        .attr("y", 435);
 
-// chartGroup.append("rect")
-//   .classed("court", true)
-//   .attr("width", 550)
-//   .attr("height", 500)
-//   .attr("x", 0)
-//   .attr("y", 0);
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket LD", true)
+        .attr('height', 50)
+        .attr("x", 360)
+        .attr("y", 435);
 
+
+
+
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket ME", true)
+        .attr('height', 50)
+        .attr("x", 55)
+        .attr("y", 275);
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket MCE", true)
+        .attr('height', 50)
+        .attr("x", 160)
+        .attr("y", 275);    
+
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket MCD", true)
+        .attr('height', 50)
+        .attr("x", 260)
+        .attr("y", 275);
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket MD", true)
+        .attr('height', 50)
+        .attr("x", 370)
+        .attr("y", 275);  
+
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket ATTE", true)
+        .attr('height', 50)
+        .attr("x", 260)
+        .attr("y", 110);
+
+        chartGroup.append("image")
+        .attr('link:href', 'https://tmssl.akamaized.net/images/wappen/normal/51663.png')
+        .classed("court basket ATTD", true)
+        .attr('height', 50)
+        .attr("x", 160)
+        .attr("y", 110);    
+            
 var courtGroup = chartGroup.selectAll(".court");
 
 // Drawing the positions
 
-var test = ["Power Forward", "Shooting Guard"]
-var testpos = "Power Forward"
-
 
 var positions = [
-  {"position": {"PG": "Point Guard"},"loc":{"x": 295, "y": 110}},
-  {"position": {"SG": "Shooting Guard"},"loc":{"x": 135, "y": 180}},
-  {"position": {"SF": "Small Forward"},"loc":{"x": 475, "y": 410}},
-  {"position": {"PF": "Power Forward"},"loc":{"x": 170, "y": 390}},
-  {"position": {"CT": "Center"},"loc":{"x": 390, "y": 350}} 
+  {"Goalkeeper":{"loc":{"x": 210, "y": 540}}},
+  {"Defenders": { 1 :{"loc":{"x": 60, "y": 455}}, 
+                  2: {"loc":{"x": 165, "y": 455}},
+                  3: {"loc":{"x": 265, "y": 455}},
+                  4: {"loc":{"x": 365, "y": 455}}}},
+  {"Midfielders": {1:{"loc":{"x": 60, "y": 295}},
+                   2:{"loc":{"x": 165, "y": 295}},
+                   3:{"loc":{"x": 265, "y": 295}},
+                   4:{"loc":{"x": 365, "y": 295}}}},
+  {"Forwards":{ 1: {"loc":{"x": 165, "y": 130}},
+                2: {"loc":{"x": 265, "y": 130}}}},
 ];
+console.log(positions)
 
 var tooltip = d3.select("body").append("div")	
 .attr("class", "tooltip")				
@@ -72,25 +135,33 @@ var toolTip = d3.select("body")
 .append("div")
 .classed("tooltip", true);
 
+// inicio OK!!!!!
+
 function buildPosition(sample) {
-  d3.json("./static/data/NBAdataJSON.json").then(function(nbaData) {
-    var sorted_year = [];
-    if (sample == "All Data"){
-      sorted_year = nbaData;
+  d3.json("./static/data/data1.json").then(function(soccerdata) {
+    var sorted_league = [];
+    if (sample == "All Leagues"){
+      sorted_league = soccerdata;
     }
     else{
-      for (var i=0, len = nbaData.length; i < len; i++) {
-        if (nbaData[i].draft_year == sample) {
-          sorted_year.push(nbaData[i]);
+      for (var i=0, len = soccerdata.length; i < len; i++) {
+        if (soccerdata[i].league_name == sample) {
+          sorted_league.push(soccerdata[i]);
         };
       };   
-    };
-    court_data = sorted_year
-    var position_drafted = _.countBy(sorted_year, function (player) {
-      return player.position;
-    });
-    var top_position = multiplemax(position_drafted);
-    
+    }; 
+    court_data = sorted_league
+    console.log(court_data)
+ 
+  // fim OK
+
+
+    // var position_drafted = _.countBy(sorted_year, function (player) {
+    //   return player.position;
+    // });
+    // var top_position = multiplemax(position_drafted);
+  
+  
     // chartGroup.selectAll(".position").remove()
     var positionGroup = chartGroup.selectAll(".position");
     positionGroup.remove();

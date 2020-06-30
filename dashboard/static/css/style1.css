@@ -29,3 +29,16 @@ svg:root {
     width: 100%;
     height: 100%;
 }
+
+#table-area {
+    padding-top: 1rem;
+}
+.about{
+    padding-bottom: 1rem !important;
+}
+
+select{
+    padding: 2px;
+    margin: 2px;
+}
+
