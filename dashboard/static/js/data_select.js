@@ -31,8 +31,37 @@ function buildMetadata(sample) {
       return player.market_value;
     });
 
-    console.log(MVP.name, MVP.market_value+"M", MVP.club)
+    // console.log(MVP)
 
+  // find the most valueble Player for each position
+  var field_positions = []
+  for (var i=0, len = soccerdata.length; i < len; i++) {
+    var position = soccerdata[i].field_position
+      if (!(position in field_positions)) {
+        field_positions.push(position)
+        }
+  }
+  field_positions = (Array.from(new Set(field_positions)))
+  console.log(field_positions)
+  var max_line_up = []
+
+  field_positions.forEach((position) => {
+    var selected_position = []
+    var sorted_position = []
+    for (var i=0, len = sorted_league.length; i < len; i++) {
+      if (position == sorted_league[i].field_position) {
+        selected_position.push(sorted_league[i])
+       }
+    }
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxx sorted object by specific key:value
+
+    console.log(sorted_position)  
+
+  });
+
+  
+
+    
     // var salary_index = sorted_year.indexOf(maxSalary); 
     // var high_salary = sorted_year[salary_index];
     
@@ -58,8 +87,8 @@ function buildMetadata(sample) {
     // .append("span").text(`${top_college[0]}, ${top_college[1]}`).attr("class", "n");
     
     // year_data = sorted_year;
-
-  });
+  
+})
 };
 
 
@@ -85,14 +114,14 @@ function init() {
         .property("value", league);
     });
     
-    console.log(league_list)
+    // console.log(league_list)
     // Use the first sample from the list to build the initial plots
     const firstSample = league_list[0];
     
     buildMetadata(firstSample);
     buildPosition(firstSample);
-    buildMap(firstSample);
-    buildPlotly(firstSample);
+    // buildMap(firstSample);
+    // buildPlotly(firstSample);
   });
 }
 
@@ -100,10 +129,9 @@ function optionChanged(newSample) {
   // Fetch new data each time a new sample is selected
   buildMetadata(newSample);
   buildPosition(newSample);
-  updateMap(newSample);  
-  buildPlotly(newSample);
+  // updateMap(newSample);  
+  // buildPlotly(newSample);
 };
 
 // Initialize the dashboard
 init();
-

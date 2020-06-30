@@ -151,7 +151,6 @@ function buildPosition(sample) {
       };   
     }; 
     court_data = sorted_league
-    console.log(court_data)
  
   // fim OK
 
