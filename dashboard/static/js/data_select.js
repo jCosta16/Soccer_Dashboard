@@ -54,8 +54,8 @@ function buildMetadata(sample) {
        }
     }
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxx sorted object by specific key:value
-
-    console.log(sorted_position)  
+    sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
+    console.log(sorted_position);
 
   });
 
