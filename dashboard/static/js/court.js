@@ -175,10 +175,30 @@ function buildPosition(sample) {
        }
     }
     sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
-    console.log(sorted_position);
-
+    switch(position) {
+      case "GLK":
+        max_line_up.push(sorted_position[0])
+        break;
+      case "DEF":
+        max_line_up.push(sorted_position[0])
+        max_line_up.push(sorted_position[1])
+        max_line_up.push(sorted_position[2])
+        max_line_up.push(sorted_position[3])
+        break;
+      case "MID":
+        max_line_up.push(sorted_position[0])
+        max_line_up.push(sorted_position[1])
+        max_line_up.push(sorted_position[2])
+        max_line_up.push(sorted_position[3])
+        break;
+      default:
+        max_line_up.push(sorted_position[0])
+        max_line_up.push(sorted_position[1])
+        }
   });
   
+  console.log(max_line_up);
+
   
     // chartGroup.selectAll(".position").remove()
     var positionGroup = chartGroup.selectAll(".position");

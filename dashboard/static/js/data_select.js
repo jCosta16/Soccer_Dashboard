@@ -1,16 +1,5 @@
-var league_data;
-// function to find multiple max values
-// function multiplemax(test_array) { 
-//   let arr = Object.values(test_array);
-//   let max = Math.max(...arr)
-//   let listtest =[]
-//   for (let [key, value] of Object.entries(test_array)) {
-//     if(value == max){
-//       listtest.push(key)
-//     }
-//   }
-//   return [listtest, max];
-// };
+// var league_data;
+
 function buildMetadata(sample) {
   d3.json("./static/data/data1.json").then(function(soccerdata) {
     var sorted_league = [];
@@ -31,9 +20,7 @@ function buildMetadata(sample) {
       return player.market_value;
     });
 
-    console.log(MVP)
-
-  // find the most valueble Player for each position
+ // find the most valueble Player for each position
   var field_positions = []
   for (var i=0, len = soccerdata.length; i < len; i++) {
     var position = soccerdata[i].field_position
