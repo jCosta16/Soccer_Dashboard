@@ -31,7 +31,7 @@ function buildMetadata(sample) {
       return player.market_value;
     });
 
-    // console.log(MVP)
+    console.log(MVP)
 
   // find the most valueble Player for each position
   var field_positions = []
@@ -42,23 +42,25 @@ function buildMetadata(sample) {
         }
   }
   field_positions = (Array.from(new Set(field_positions)))
-  console.log(field_positions)
-  var max_line_up = []
+  var max_field_position = []
 
   field_positions.forEach((position) => {
     var selected_position = []
     var sorted_position = []
     for (var i=0, len = sorted_league.length; i < len; i++) {
       if (position == sorted_league[i].field_position) {
-        selected_position.push(sorted_league[i])
-       }
-    }
-// xxxxxxxxxxxxxxxxxxxxxxxxxxxx sorted object by specific key:value
+        selected_position.push(sorted_league[i]);
+       };
+    };
+    var max_player_position = _.max(selected_position, function (player) {
+      return player.market_value;
+    });
+    max_field_position.push(max_player_position);
     sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
-    console.log(sorted_position);
-
+    // console.log(sorted_position);
+    
   });
-
+  console.log(max_field_position[0].name)
   
 
     
@@ -77,10 +79,10 @@ function buildMetadata(sample) {
     // });
     // var top_college = multiplemax(college_drafted);
 
-    // // Inserting metadata
+    // Inserting metadata
     // var sampleMeta = d3.select("#sample-metadata").html("");
-    // sampleMeta.append("p").text("Highest salary: ").attr("class","b")
-    // .append("span").text(`${high_salary.name}, ${high_salary.position} at ${high_salary.team}`).attr("class", "n");
+    // sampleMeta.append("p").text("Most Valueble Forward: ").attr("class","b")
+    // .append("span").text(`${MVP.name}, ${MVP.position} at ${MVP.club}`).attr("class", "n");
     // sampleMeta.append("p").text("Top Drafted Position: ").attr("class","b")
     // .append("span").text(`${top_position[0]}, ${top_position[1]}`).attr("class", "n");
     // sampleMeta.append("p").text("Top Drafted College: ").attr("class","b")
@@ -88,6 +90,22 @@ function buildMetadata(sample) {
     
     // year_data = sorted_year;
   
+     // Inserting metadata1
+     var sampleMeta = d3.select("#sample-metadata").data(max_field_position).html("");
+     max_field_position.forEach(function(player) {
+      sampleMeta.append("p").text(`Most Valuable ${player.field_position}: `).attr("class","b")
+      .append("span").text(`${player.name}, $${player.market_value}M at ${player.club}`)
+      .attr("class", "n");
+     })
+      sampleMeta
+    //  sampleMeta.append("p").text("Top Drafted Position: ").attr("class","b")
+     // .append("span").text(`${top_position[0]}, ${top_position[1]}`).attr("class", "n");
+     // sampleMeta.append("p").text("Top Drafted College: ").attr("class","b")
+     // .append("span").text(`${top_college[0]}, ${top_college[1]}`).attr("class", "n");
+     
+     // year_data = sorted_year;
+
+
 })
 };
 

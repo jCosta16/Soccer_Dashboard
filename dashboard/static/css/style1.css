@@ -20,7 +20,7 @@
     border-style: double;
     border-width:5px !important
 }
-#court_svg{
+#stadium_svg{
     margin-bottom: 5px;
     height: 100%;
 
@@ -42,3 +42,9 @@ select{
     margin: 2px;
 }
 
+.b {
+    font-weight: bold;
+  }
+  .n {
+    font-weight: normal;
+  }

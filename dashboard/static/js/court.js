@@ -11,7 +11,7 @@ function multiplemax(test_array) {
   return [listtest, max];
 };
 // Append the SVG wrapper to the page, set its height and width, and create a variable which references it
-var svg = d3.select("#court-svg")
+var svg = d3.select("#stadium_svg")
   .append("svg")
   .attr("viewBox","0 0 450 600")
   .attr("perserveAspectRatio","xMinYMid")
@@ -155,10 +155,29 @@ function buildPosition(sample) {
   // fim OK
 
 
-    // var position_drafted = _.countBy(sorted_year, function (player) {
-    //   return player.position;
-    // });
-    // var top_position = multiplemax(position_drafted);
+  var field_positions = []
+  for (var i=0, len = soccerdata.length; i < len; i++) {
+    var position = soccerdata[i].field_position
+      if (!(position in field_positions)) {
+        field_positions.push(position)
+        }
+  }
+  field_positions = (Array.from(new Set(field_positions)))
+  console.log(field_positions)
+  var max_line_up = []
+
+  field_positions.forEach((position) => {
+    var selected_position = []
+    var sorted_position = []
+    for (var i=0, len = sorted_league.length; i < len; i++) {
+      if (position == sorted_league[i].field_position) {
+        selected_position.push(sorted_league[i])
+       }
+    }
+    sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
+    console.log(sorted_position);
+
+  });
   
   
     // chartGroup.selectAll(".position").remove()
