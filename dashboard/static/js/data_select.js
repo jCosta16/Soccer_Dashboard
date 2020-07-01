@@ -1,4 +1,4 @@
-// var league_data;
+
 
 function buildMetadata(sample) {
   d3.json("./static/data/data1.json").then(function(soccerdata) {
@@ -47,36 +47,7 @@ function buildMetadata(sample) {
     // console.log(sorted_position);
     
   });
-  console.log(max_field_position[0].name)
-  
-
-    
-    // var salary_index = sorted_year.indexOf(maxSalary); 
-    // var high_salary = sorted_year[salary_index];
-    
-    // // most drafted position
-    // var position_drafted = _.countBy(sorted_year, function (player) {
-    //   return player.position;
-    // });
-    // var top_position = multiplemax(position_drafted);
-    
-    // // most drafted college
-    // var college_drafted = _.countBy(sorted_year, function (player) {
-    //   return player.college;
-    // });
-    // var top_college = multiplemax(college_drafted);
-
-    // Inserting metadata
-    // var sampleMeta = d3.select("#sample-metadata").html("");
-    // sampleMeta.append("p").text("Most Valueble Forward: ").attr("class","b")
-    // .append("span").text(`${MVP.name}, ${MVP.position} at ${MVP.club}`).attr("class", "n");
-    // sampleMeta.append("p").text("Top Drafted Position: ").attr("class","b")
-    // .append("span").text(`${top_position[0]}, ${top_position[1]}`).attr("class", "n");
-    // sampleMeta.append("p").text("Top Drafted College: ").attr("class","b")
-    // .append("span").text(`${top_college[0]}, ${top_college[1]}`).attr("class", "n");
-    
-    // year_data = sorted_year;
-  
+ 
      // Inserting metadata1
      var sampleMeta = d3.select("#sample-metadata").data(max_field_position).html("");
      max_field_position.forEach(function(player) {
@@ -132,8 +103,10 @@ function init() {
 
 function optionChanged(newSample) {
   // Fetch new data each time a new sample is selected
+  clear_field()
   buildMetadata(newSample);
   buildPosition(newSample);
+  
   // updateMap(newSample);  
   // buildPlotly(newSample);
 };
