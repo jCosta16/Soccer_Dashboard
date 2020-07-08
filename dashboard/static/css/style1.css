@@ -29,9 +29,15 @@ svg:root {
     width: 100%;
     height: 100%;
 }
+.table {
+    margin-bottom: 0 !important;
+}
 
-#table-area {
-    padding-top: 1rem;
+.card-body{
+    padding: 0.25rem !important;
+}
+.card-primary{
+    padding: 0.25rem !important;
 }
 .about{
     padding-bottom: 1rem !important;
@@ -44,7 +50,21 @@ select{
 
 .b {
     font-weight: bold;
+    margin-top: 0.50rem;
   }
-  .n {
+.n {
     font-weight: normal;
+    font-size: smaller;
+  }
+  .tooltip {	
+    position: absolute;			
+    text-align: center;			
+    /* width: 60px;					
+    height: 28px;					 */
+    padding: 5px;				
+    font: 12px sans-serif;		
+    background: rgb(144, 227, 238);	
+    border: 5px;
+    border-radius: 8px;			
+    pointer-events: none;			
   }

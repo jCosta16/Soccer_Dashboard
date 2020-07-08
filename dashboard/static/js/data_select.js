@@ -1,8 +1,10 @@
 
+var sorted_league
+var max_player_position
 
 function buildMetadata(sample) {
   d3.json("./static/data/data1.json").then(function(soccerdata) {
-    var sorted_league = [];
+    sorted_league = [];
     if (sample == "All Leagues"){
       sorted_league = soccerdata;
     }
@@ -20,7 +22,7 @@ function buildMetadata(sample) {
       return player.market_value;
     });
 
- // find the most valueble Player for each position
+// find the most valueble Player for each position
   var field_positions = []
   for (var i=0, len = soccerdata.length; i < len; i++) {
     var position = soccerdata[i].field_position
@@ -39,7 +41,7 @@ function buildMetadata(sample) {
         selected_position.push(sorted_league[i]);
        };
     };
-    var max_player_position = _.max(selected_position, function (player) {
+    max_player_position = _.max(selected_position, function (player) {
       return player.market_value;
     });
     max_field_position.push(max_player_position);
@@ -52,10 +54,10 @@ function buildMetadata(sample) {
      var sampleMeta = d3.select("#sample-metadata").data(max_field_position).html("");
      max_field_position.forEach(function(player) {
       sampleMeta.append("p").text(`Most Valuable ${player.field_position}: `).attr("class","b")
-      .append("span").text(`${player.name}, $${player.market_value}M at ${player.club}`)
+      .append("span").text(`${player.name}, $${player.market_value}M from ${player.club}`)
       .attr("class", "n");
      })
-      sampleMeta
+      // sampleMeta
     //  sampleMeta.append("p").text("Top Drafted Position: ").attr("class","b")
      // .append("span").text(`${top_position[0]}, ${top_position[1]}`).attr("class", "n");
      // sampleMeta.append("p").text("Top Drafted College: ").attr("class","b")
@@ -103,7 +105,6 @@ function init() {
 
 function optionChanged(newSample) {
   // Fetch new data each time a new sample is selected
-  clear_field()
   buildMetadata(newSample);
   buildPosition(newSample);
   

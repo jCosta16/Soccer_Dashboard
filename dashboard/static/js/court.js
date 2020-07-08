@@ -1,16 +1,42 @@
 var soccerdata
-function clear_field(){
-  d3.selectAll("svg > *").remove();
- }
- 
-   // Append the SVG wrapper to the page, set its height and width, and create a variable which references it
-   var svg = d3.select("#stadium_svg")
-   .append("svg")
-   .attr("viewBox","0 0 450 600")
-   .attr("perserveAspectRatio","xMinYMid")
-   .attr("height", "100%")
-   .attr("width", "100%");
+var max_line_up
 
+ 
+// Append the SVG wrapper to the page, set its height and width, and create a variable which references it
+var svg = d3.select("#stadium_svg")
+.append("svg")
+.attr("viewBox","0 0 450 600")
+.attr("perserveAspectRatio","xMinYMid")
+.attr("height", "100%")
+.attr("width", "100%");
+
+var img_positions = [
+{"Position":"GLK", "x": 195, "y": 505},
+{"Position":"LD","x": 45, "y": 425}, 
+{"Position":"ZD", "x": 150, "y": 425},
+{"Position":"ZE", "x": 250, "y": 425},
+{"Position":"LE","x": 350, "y": 425},
+{"Position":"MD","x": 45, "y": 265},
+{"Position":"MCE","x": 250, "y": 265},
+{"Position":"ME","x": 350, "y": 265},
+{"Position":"MCD","x": 150, "y": 265},
+{"Position":"ATTD", "x": 250, "y": 100},
+{"Position":"ATTE", "x": 150, "y": 100},
+];
+
+// drawing the field
+var chartGroup = svg.append("g");
+
+chartGroup.append('image')
+.attr('link:href', './static/images/Campofutebol.png')
+.attr('width', '100%')
+.attr('height', '100%')
+.classed("field");
+
+// Creating ToolTip var
+var toolTip = d3.select("body")
+.append("div")
+.classed("tooltip", true);
 
 function buildPosition(sample) {
   d3.json("./static/data/data1.json").then(function(soccerdata) {
@@ -27,7 +53,7 @@ function buildPosition(sample) {
     }; 
     court_data = sorted_league
  
-
+// Field Postions 
   var field_positions = []
   for (var i=0, len = soccerdata.length; i < len; i++) {
     var position = soccerdata[i].field_position
@@ -36,8 +62,20 @@ function buildPosition(sample) {
         }
   }
   field_positions = (Array.from(new Set(field_positions)))
-  console.log(field_positions)
-  var max_line_up = []
+  // console.log(field_positions)
+
+// Players Positions
+  // var players_positions = []
+  // for (var i=0, len = soccerdata.length; i < len; i++) {
+  //   var position = soccerdata[i].position
+  //     if (!(position in field_positions)) {
+  //       players_positions.push(position)
+  //       }
+  // }
+  // players_positions = (Array.from(new Set(players_positions)))
+  // console.log(players_positions)
+
+  max_line_up = []
 
   field_positions.forEach((position) => {
     var selected_position = []
@@ -47,7 +85,8 @@ function buildPosition(sample) {
         selected_position.push(sorted_league[i])
        }
     }
-    sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
+
+    sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,5);
     switch(position) {
       case "GLK":
         max_line_up.push(sorted_position[0])
@@ -67,126 +106,156 @@ function buildPosition(sample) {
       default:
         max_line_up.push(sorted_position[0])
         max_line_up.push(sorted_position[1])
-        }
+    }
+      
   });
+
+  for (var i=0, len = img_positions.length; i < len; i++) {
+    img_positions[i].data = max_line_up[i]
+    };
+
+  // Clear players and Tables
+  var positionGroup = chartGroup.selectAll(".position");
+  positionGroup.remove();
+
+
+
+  // Drawing the Players
   
-  console.log(max_line_up);
+  img_positions.forEach(function(player) {
+  chartGroup.append("image")
+  .attr('link:href', player.data.logo_img)
+  .classed(`field position ${player.Position}`, true)
+  .attr('height', 60)
+  .attr("x", player.x)
+  .attr("y", player.y)
+  .on("mouseover", function(d) {	
+    toolTip.style("opacity", .9)
+    .attr("class", "tooltip");		
+        toolTip	.html(`<strong>${player.data.name}</strong>
+        <br>Market Value: <strong>$${player.data.market_value}M</strong>
+        <br>Position: <strong>${player.data.position}</strong>`)	
+        .style("left", (d3.event.pageX) + "px")		
+        .style("top", (d3.event.pageY - 28) + "px");	
+    })					
+  .on("mouseout", function(d) {
+    toolTip.transition()		
+    .duration(100)		
+    .style("opacity", 0);	
+  });  
+   })
   
-  
-  
-  // fim OK
+  var courtGroup = chartGroup.selectAll(".field");
 
+// Creating Tables
 
-  // drawing the court
-  var chartGroup = svg.append("g");
+  var tb_11 = d3.select("#team-table");
+  var detail_table = d3.select("#table-detail") 
 
-    chartGroup.append('image')
-    .attr('link:href', './static/images/Campofutebol.png')
-    .attr('width', '100%')
-    .attr('height', '100%')
-    .classed("court");
+  var tables = d3.selectAll(".tgroup");
+  tables.remove();
 
-    var positionGroup = chartGroup.selectAll(".position");
-    positionGroup.remove();
+  img_positions.forEach(function(player) {
+    // Small table
+    tb_11.append("td")
+    .text(player.data.name)
+    .attr("class", "n tgroup");
 
-    chartGroup.append("image")
-      .attr('link:href', max_line_up[0].logo_img)
-      .classed("court basket goalkeeper", true)
-      //.attr("r", 20)
-      .attr("x", 205)
-      .attr("y", 520)
-      .attr('height', 50); 
+    tb_11.append("td")
+    .text(player.data.position)
+    .attr("class", "n tgroup");
 
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[1].logo_img)
-        .classed("court basket LE", true)
-        .attr('height', 50)
-        .attr("x", 55)
-        .attr("y", 435);
+    tb_11.append("td")
+    .text(`$${player.data.market_value}M`)
+    .attr("class", "n tgroup text-center");
+    tb_11.append("tr")
 
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[2].logo_img)
-        .classed("court basket ZE", true)
-        .attr('height', 50)
-        .attr("x", 160)
-        .attr("y", 435);
-        
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[3].logo_img)
-        .classed("court basket ZD", true)
-        .attr('height', 50)
-        .attr("x", 260)
-        .attr("y", 435);
-
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[4].logo_img)
-        .classed("court basket LD", true)
-        .attr('height', 50)
-        .attr("x", 360)
-        .attr("y", 435);
-
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[5].logo_img)
-        .classed("court basket ME", true)
-        .attr('height', 50)
-        .attr("x", 55)
-        .attr("y", 275);
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[6].logo_img)
-        .classed("court basket MCE", true)
-        .attr('height', 50)
-        .attr("x", 160)
-        .attr("y", 275);    
-
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[7].logo_img)
-        .classed("court basket MCD", true)
-        .attr('height', 50)
-        .attr("x", 260)
-        .attr("y", 275);
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[8].logo_img)
-        .classed("court basket MD", true)
-        .attr('height', 50)
-        .attr("x", 370)
-        .attr("y", 275);  
-
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[9].logo_img)
-        .classed("court basket ATTE", true)
-        .attr('height', 50)
-        .attr("x", 260)
-        .attr("y", 110);
-
-        chartGroup.append("image")
-        .attr('link:href', max_line_up[10].logo_img)
-        .classed("court basket ATTD", true)
-        .attr('height', 50)
-        .attr("x", 160)
-        .attr("y", 110);    
-            
-    var courtGroup = chartGroup.selectAll(".court");
-
-    // Drawing the positions
-
-
-    var img_positions = [
-  {"Goalkeeper":{"loc":{"x": 210, "y": 540}}},
-  {"Defenders": { 1 :{"loc":{"x": 60, "y": 455}}, 
-                  2: {"loc":{"x": 165, "y": 455}},
-                  3: {"loc":{"x": 265, "y": 455}},
-                  4: {"loc":{"x": 365, "y": 455}}}},
-  {"Midfielders": {1:{"loc":{"x": 60, "y": 295}},
-                   2:{"loc":{"x": 165, "y": 295}},
-                   3:{"loc":{"x": 265, "y": 295}},
-                   4:{"loc":{"x": 365, "y": 295}}}},
-  {"Forwards":{ 1: {"loc":{"x": 165, "y": 130}},
-                2: {"loc":{"x": 265, "y": 130}}}},
-  ];
+    // detail table
     
+
+    detail_table.append("td")
+    .text(player.data.name)
+    .attr("class", "n tgroup");
+
+    detail_table.append("td")
+    .text(player.data.position)
+    .attr("class", "n tgroup");
+
+    detail_table.append("td")
+    .text(player.data.age)
+    .attr("class", "n tgroup");
+
+    detail_table.append("td")
+    .text(player.data.nat)
+    .attr("class", "n tgroup");
+
+    detail_table.append("td")
+    .text(player.data.club)
+    .attr("class", "n tgroup");
+
+    detail_table.append("td")
+    .text(player.data.league_name)
+    .attr("class", "n tgroup");
+
+    detail_table.append("td")
+    .text(`$${player.data.market_value}M`)
+    .attr("class", "n tgroup text-center");
+    
+    detail_table.append("tr")
+
+
+  });
+
+  // img_positions.forEach(function(player) {
+  //   tr_11.append("tr")
+  //   .append("td")
+  //   .text(player.data.position);
+  // });
+  // img_positions.forEach(function(player) {
+  //   tr_11.append("tr")
+  //   .append("td")
+  //   .text(`$${player.data.market_value}M`) ;
+
+    
+  // });
+  // tr_11.selectAll("tr").append("tr");
+
+  // var td_11 = tr_11.selectAll("td")
+  // .append("td");
+
+
+
   }).catch(function(error) {
     console.log(error);
   });
+};
+
+function insertObject(img_positions) {
+
+  // var tbl = document.getElementById('ufo-table');
+  // console.log(tbl);
+  var teamTable = d3.select("#team-table")
+  console.log(tblBody);
+  // creates a <tbody> element
+  for (var i = 0; i < data.length; i++) {
+    // creates a table row
+    var row = document.createElement("tr");
+    console.log(row)
+    for (var prop in data[i]) {
+      // Create a <td> element and a text node, make the text
+      // node the contents of the <td>, and put the <td> at
+      // the end of the table row
+      var cell = document.createElement("td");
+      var cellText = document.createTextNode(data[i][prop]);
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+    }
+
+    // add the row to the end of the table body
+    tblBody.appendChild(row);
+  }
+  // // add the table body to the table
+  // tbl.appendChild(tblBody);
 };
 
 
