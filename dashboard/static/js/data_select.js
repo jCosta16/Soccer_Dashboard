@@ -15,7 +15,6 @@ function buildMetadata(sample) {
         };
       };   
     };  
-// console.log(sorted_league)
 
     // find the most valuable Player 
     var MVP = _.max(sorted_league, function (player) {
@@ -46,7 +45,6 @@ function buildMetadata(sample) {
     });
     max_field_position.push(max_player_position);
     sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
-    // console.log(sorted_position);
     
   });
  
@@ -57,14 +55,6 @@ function buildMetadata(sample) {
       .append("span").text(`${player.name}, $${player.market_value}M from ${player.club}`)
       .attr("class", "n");
      })
-      // sampleMeta
-    //  sampleMeta.append("p").text("Top Drafted Position: ").attr("class","b")
-     // .append("span").text(`${top_position[0]}, ${top_position[1]}`).attr("class", "n");
-     // sampleMeta.append("p").text("Top Drafted College: ").attr("class","b")
-     // .append("span").text(`${top_college[0]}, ${top_college[1]}`).attr("class", "n");
-     
-     // year_data = sorted_year;
-
 
 })
 };
@@ -92,7 +82,6 @@ function init() {
         .property("value", league);
     });
     
-    // console.log(league_list)
     // Use the first sample from the list to build the initial plots
     const firstSample = league_list[0];
     

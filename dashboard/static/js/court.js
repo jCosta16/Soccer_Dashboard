@@ -206,57 +206,11 @@ function buildPosition(sample) {
 
   });
 
-  // img_positions.forEach(function(player) {
-  //   tr_11.append("tr")
-  //   .append("td")
-  //   .text(player.data.position);
-  // });
-  // img_positions.forEach(function(player) {
-  //   tr_11.append("tr")
-  //   .append("td")
-  //   .text(`$${player.data.market_value}M`) ;
-
-    
-  // });
-  // tr_11.selectAll("tr").append("tr");
-
-  // var td_11 = tr_11.selectAll("td")
-  // .append("td");
-
-
-
   }).catch(function(error) {
     console.log(error);
   });
 };
 
-function insertObject(img_positions) {
-
-  // var tbl = document.getElementById('ufo-table');
-  // console.log(tbl);
-  var teamTable = d3.select("#team-table")
-  console.log(tblBody);
-  // creates a <tbody> element
-  for (var i = 0; i < data.length; i++) {
-    // creates a table row
-    var row = document.createElement("tr");
-    console.log(row)
-    for (var prop in data[i]) {
-      // Create a <td> element and a text node, make the text
-      // node the contents of the <td>, and put the <td> at
-      // the end of the table row
-      var cell = document.createElement("td");
-      var cellText = document.createTextNode(data[i][prop]);
-      cell.appendChild(cellText);
-      row.appendChild(cell);
-    }
-
-    // add the row to the end of the table body
-    tblBody.appendChild(row);
-  }
-  // // add the table body to the table
-  // tbl.appendChild(tblBody);
-};
 
 
 
