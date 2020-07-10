@@ -28,4 +28,4 @@ For this project I build a web application that scrapes data from a webpage  dis
   
 ## Some Visualizations
 
-![](Soccer_Dashboard/old data/screenshot.png)
+![](old_data/screenshot.png)
