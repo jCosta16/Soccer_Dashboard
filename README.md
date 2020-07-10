@@ -1,8 +1,6 @@
 # Brazil & USA Soccer Leagues
-Soccer Dashboard (BRA and US)
 
 For this project I build a web application that scrapes data from a webpage  displays the information in a single HTML page.
-
 
 ### Applied Technologies
 * Python
