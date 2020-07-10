@@ -1,6 +1,6 @@
 # Brazil & USA Soccer Leagues
 
-For this project I build a web application that scrapes data from a webpage  displays the information in a single HTML page.
+For this project I build code that scrapes data from a webpage and displays the information in a HTML page.
 
 ### Applied Technologies
 * Python
