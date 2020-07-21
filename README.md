@@ -1,4 +1,4 @@
-# Brazil & USA Soccer Leagues
+# [Brazil & USA Soccer Leagues](https://jcosta16.github.io/soccer/)
 
 For this project I build code that scrapes data from a webpage and displays the information in a HTML page.
 
