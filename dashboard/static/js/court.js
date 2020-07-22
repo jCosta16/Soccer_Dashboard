@@ -133,8 +133,11 @@ function buildPosition(sample) {
     toolTip.style("opacity", .9)
     .attr("class", "tooltip");		
         toolTip	.html(`<strong>${player.data.name}</strong>
+        <hr>Age: <strong>${player.data.Age}</strong>
         <br>Market Value: <strong>$${player.data.market_value}M</strong>
-        <br>Position: <strong>${player.data.position}</strong>`)	
+        <br>Position: <strong>${player.data.position}</strong>
+        <br>Nationality: <strong>${player.data.Nat}</strong>
+        <br>Team: <strong>${player.data.club}</strong>`)	
         .style("left", (d3.event.pageX) + "px")		
         .style("top", (d3.event.pageY - 28) + "px");	
     })					
