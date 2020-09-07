@@ -1,89 +1,89 @@
 team_ID,league_ID,club,squad,foreigners,avg_market_value_m,total_MV_m,Logo_img,link_page
-1,1,Clube de Regatas do Flamengo,32,2,4.44,141.81,https://tmssl.akamaized.net/images/wappen/header/614.png,https://www.transfermarkt.com/flamengo-rio-de-janeiro/kader/verein/614/saison_id/2019/plus/1
-2,1,Sociedade Esportiva Palmeiras,35,5,3.62,126.91,https://tmssl.akamaized.net/images/wappen/header/1023.png,https://www.transfermarkt.com/se-palmeiras-sao-paulo/kader/verein/1023/saison_id/2019/plus/1
-3,1,Gremio Foot-Ball Porto Alegrense,35,2,3.28,114.61,https://tmssl.akamaized.net/images/wappen/header/210.png,https://www.transfermarkt.com/gremio-foot-ball-porto-alegrense/kader/verein/210/saison_id/2019/plus/1
-4,1,Sport Club Corinthians Paulista,33,4,2.16,71.37,https://tmssl.akamaized.net/images/wappen/header/199.png,https://www.transfermarkt.com/corinthians-sao-paulo/kader/verein/199/saison_id/2019/plus/1
-5,1,Sao Paulo Futebol Clube,36,4,1.83,65.9,https://tmssl.akamaized.net/images/wappen/header/585.png,https://www.transfermarkt.com/fc-sao-paulo/kader/verein/585/saison_id/2019/plus/1
-6,1,Clube Atletico Mineiro,33,8,1.82,59.83,https://tmssl.akamaized.net/images/wappen/header/330.png,https://www.transfermarkt.com/atletico-mineiro/kader/verein/330/saison_id/2019/plus/1
-7,1,Sport Club Internacional,35,7,1.7,59.59,https://tmssl.akamaized.net/images/wappen/header/6600.png,https://www.transfermarkt.com/sc-internacional-porto-alegre/kader/verein/6600/saison_id/2019/plus/1
-8,1,Santos FC,35,5,1.68,58.76,https://tmssl.akamaized.net/images/wappen/header/221.png,https://www.transfermarkt.com/fc-santos/kader/verein/221/saison_id/2019/plus/1
-9,1,Fluminense Football Club,43,3,1.06,45.49,https://tmssl.akamaized.net/images/wappen/header/2462.png,https://www.transfermarkt.com/fluminense-football-club/kader/verein/2462/saison_id/2019/plus/1
-10,1,Club de Regatas Vasco da Gama,41,3,0.96,39.21,https://tmssl.akamaized.net/images/wappen/header/978.png,https://www.transfermarkt.com/vasco-da-gama-rio-de-janeiro/kader/verein/978/saison_id/2019/plus/1
-11,1,Club Athletico Paranaense,42,4,0.93,39.09,https://tmssl.akamaized.net/images/wappen/header/679.png,https://www.transfermarkt.com/clube-atletico-paranaense/kader/verein/679/saison_id/2019/plus/1
-12,1,Esporte Clube Bahia,33,0,0.88,29.03,https://tmssl.akamaized.net/images/wappen/header/10010.png,https://www.transfermarkt.com/ec-bahia/kader/verein/10010/saison_id/2019/plus/1
-13,1,Botafogo Rio de Janeiro,35,7,0.78,27.18,https://tmssl.akamaized.net/images/wappen/header/537.png,https://www.transfermarkt.com/botafogo-fr-rio-de-janeiro/kader/verein/537/saison_id/2019/plus/1
-14,1,Red Bull Bragantino,28,2,0.93,26.0,https://tmssl.akamaized.net/images/wappen/header/8793.png,https://www.transfermarkt.com/clube-atletico-bragantino-sp-/kader/verein/8793/saison_id/2019/plus/1
-15,1,Goias Esporte Clube,29,5,0.72,20.95,https://tmssl.akamaized.net/images/wappen/header/3197.png,https://www.transfermarkt.com/goias-esporte-clube/kader/verein/3197/saison_id/2019/plus/1
-16,1,Coritiba Foot Ball Club,33,0,0.59,19.35,https://tmssl.akamaized.net/images/wappen/header/776.png,https://www.transfermarkt.com/coritiba-fc/kader/verein/776/saison_id/2019/plus/1
-17,1,Ceara Sporting Club,35,1,0.55,19.23,https://tmssl.akamaized.net/images/wappen/header/2029.png,https://www.transfermarkt.com/ceara-sporting-club-ce-/kader/verein/2029/saison_id/2019/plus/1
-18,1,Sport Club do Recife,35,3,0.55,19.12,https://tmssl.akamaized.net/images/wappen/header/8718.png,https://www.transfermarkt.com/sport-club-do-recife/kader/verein/8718/saison_id/2019/plus/1
-19,1,Fortaleza Esporte Clube,29,2,0.58,16.91,https://tmssl.akamaized.net/images/wappen/header/10870.png,https://www.transfermarkt.com/fortaleza-esporte-clube/kader/verein/10870/saison_id/2019/plus/1
-20,1,Atletico Clube Goianiense,26,1,0.48,12.37,https://tmssl.akamaized.net/images/wappen/header/15172.png,https://www.transfermarkt.com/atletico-goianiense/kader/verein/15172/saison_id/2019/plus/1
-21,2,Atlanta United FC,28,15,2.17,60.95,https://tmssl.akamaized.net/images/wappen/header/51663.png,https://www.transfermarkt.com/atlanta-united-fc/kader/verein/51663/saison_id/2019/plus/1
-22,2,Los Angeles FC,28,19,2.11,59.18,https://tmssl.akamaized.net/images/wappen/header/51828.png,https://www.transfermarkt.com/los-angeles-football-club/kader/verein/51828/saison_id/2019/plus/1
-23,2,Inter Miami CF,30,15,1.49,44.43,https://tmssl.akamaized.net/images/wappen/header/69261.png,https://www.transfermarkt.com/inter-miami-cf/kader/verein/69261/saison_id/2019/plus/1
-24,2,Los Angeles Galaxy,26,14,1.27,33.02,https://tmssl.akamaized.net/images/wappen/header/1061.png,https://www.transfermarkt.com/los-angeles-galaxy/kader/verein/1061/saison_id/2019/plus/1
-25,2,Toronto FC,30,21,1.1,32.84,https://tmssl.akamaized.net/images/wappen/header/11141.png,https://www.transfermarkt.com/toronto-fc/kader/verein/11141/saison_id/2019/plus/1
-26,2,New York City FC,26,15,1.25,32.6,https://tmssl.akamaized.net/images/wappen/header/40058.png,https://www.transfermarkt.com/new-york-city-fc/kader/verein/40058/saison_id/2019/plus/1
-27,2,Seattle Sounders FC,25,11,1.26,31.42,https://tmssl.akamaized.net/images/wappen/header/9636.png,https://www.transfermarkt.com/seattle-sounders-fc/kader/verein/9636/saison_id/2019/plus/1
-28,2,Sporting Kansas City,27,14,1.05,28.24,https://tmssl.akamaized.net/images/wappen/header/4284.png,https://www.transfermarkt.com/sporting-kansas-city/kader/verein/4284/saison_id/2019/plus/1
-29,2,Columbus Crew SC,26,17,1.08,28.18,https://tmssl.akamaized.net/images/wappen/header/813.png,https://www.transfermarkt.com/columbus-crew/kader/verein/813/saison_id/2019/plus/1
-30,2,Portland Timbers,28,19,0.98,27.49,https://tmssl.akamaized.net/images/wappen/header/4291.png,https://www.transfermarkt.com/portland-timbers/kader/verein/4291/saison_id/2019/plus/1
-31,2,FC Cincinnati,26,11,0.97,25.25,https://tmssl.akamaized.net/images/wappen/header/51772.png,https://www.transfermarkt.com/fc-cincinnati/kader/verein/51772/saison_id/2019/plus/1
-32,2,FC Dallas,28,9,0.9,25.25,https://tmssl.akamaized.net/images/wappen/header/8816.png,https://www.transfermarkt.com/fc-dallas/kader/verein/8816/saison_id/2019/plus/1
-33,2,Chicago Fire FC,28,13,0.89,24.93,https://tmssl.akamaized.net/images/wappen/header/432.png,https://www.transfermarkt.com/chicago-fire/kader/verein/432/saison_id/2019/plus/1
-34,2,D.C. United,25,14,0.99,24.66,https://tmssl.akamaized.net/images/wappen/header/2440.png,https://www.transfermarkt.com/d-c-united/kader/verein/2440/saison_id/2019/plus/1
-35,2,Montreal Impact,29,17,0.82,23.78,https://tmssl.akamaized.net/images/wappen/header/4078.png,https://www.transfermarkt.com/montreal-impact/kader/verein/4078/saison_id/2019/plus/1
-36,2,Orlando City SC,28,16,0.83,23.28,https://tmssl.akamaized.net/images/wappen/header/45604.png,https://www.transfermarkt.com/orlando-city-sc/kader/verein/45604/saison_id/2019/plus/1
-37,2,New England Revolution,28,12,0.81,22.6,https://tmssl.akamaized.net/images/wappen/header/626.png,https://www.transfermarkt.com/new-england-revolution/kader/verein/626/saison_id/2019/plus/1
-38,2,New York Red Bulls,26,11,0.86,22.4,https://tmssl.akamaized.net/images/wappen/header/623.png,https://www.transfermarkt.com/new-york-red-bulls/kader/verein/623/saison_id/2019/plus/1
-39,2,Houston Dynamo,28,19,0.78,21.71,https://tmssl.akamaized.net/images/wappen/header/9168.png,https://www.transfermarkt.com/houston-dynamo/kader/verein/9168/saison_id/2019/plus/1
-40,2,Colorado Rapids,27,12,0.78,20.98,https://tmssl.akamaized.net/images/wappen/header/1247.png,https://www.transfermarkt.com/colorado-rapids/kader/verein/1247/saison_id/2019/plus/1
-41,2,Vancouver Whitecaps FC,28,15,0.74,20.65,https://tmssl.akamaized.net/images/wappen/header/6321.png,https://www.transfermarkt.com/vancouver-whitecaps/kader/verein/6321/saison_id/2019/plus/1
-42,2,Minnesota United FC,25,16,0.78,19.41,https://tmssl.akamaized.net/images/wappen/header/56089.png,https://www.transfermarkt.com/minnesota-united-fc/kader/verein/56089/saison_id/2019/plus/1
-43,2,San Jose Earthquakes,30,14,0.58,17.35,https://tmssl.akamaized.net/images/wappen/header/218.png,https://www.transfermarkt.com/san-jose-earthquakes/kader/verein/218/saison_id/2019/plus/1
-44,2,Philadelphia Union,25,14,0.66,16.56,https://tmssl.akamaized.net/images/wappen/header/25467.png,https://www.transfermarkt.com/philadelphia-union/kader/verein/25467/saison_id/2019/plus/1
-45,2,Real Salt Lake City,31,16,0.53,16.5,https://tmssl.akamaized.net/images/wappen/header/6643.png,https://www.transfermarkt.com/real-salt-lake-city/kader/verein/6643/saison_id/2019/plus/1
-46,2,Nashville SC,27,12,0.6,16.08,https://tmssl.akamaized.net/images/wappen/header/63966.png,https://www.transfermarkt.com/nashville-mls-team/kader/verein/63966/saison_id/2019/plus/1
-47,3,CF Monterrey,25,12,3.3,82.6,https://tmssl.akamaized.net/images/wappen/header/2407.png,https://www.transfermarkt.com/cf-monterrey/kader/verein/2407/saison_id/2019/plus/1
-48,3,Tigres UANL,25,12,2.82,70.45,https://tmssl.akamaized.net/images/wappen/header/7055.png,https://www.transfermarkt.com/tigres-uanl/kader/verein/7055/saison_id/2019/plus/1
-49,3,CF America,24,13,2.76,66.26,https://tmssl.akamaized.net/images/wappen/header/3631.png,https://www.transfermarkt.com/cf-america/kader/verein/3631/saison_id/2019/plus/1
-50,3,CD Cruz Azul,25,10,2.61,65.25,https://tmssl.akamaized.net/images/wappen/header/3711.png,https://www.transfermarkt.com/cd-cruz-azul/kader/verein/3711/saison_id/2019/plus/1
-51,3,Deportivo Guadalajara,28,0,2.28,63.87,https://tmssl.akamaized.net/images/wappen/header/6711.png,https://www.transfermarkt.com/deportivo-guadalajara/kader/verein/6711/saison_id/2019/plus/1
-52,3,Santos Laguna,25,8,2.28,56.88,https://tmssl.akamaized.net/images/wappen/header/1403.png,https://www.transfermarkt.com/santos-laguna/kader/verein/1403/saison_id/2019/plus/1
-53,3,Club Tijuana,33,13,1.47,48.83,https://tmssl.akamaized.net/images/wappen/header/13353.png,https://www.transfermarkt.com/club-tijuana/kader/verein/13353/saison_id/2019/plus/1
-54,3,CF Pachuca,31,14,1.5,46.37,https://tmssl.akamaized.net/images/wappen/header/4035.png,https://www.transfermarkt.com/cf-pachuca/kader/verein/4035/saison_id/2019/plus/1
-55,3,Club Leon FC,24,11,1.82,43.48,https://tmssl.akamaized.net/images/wappen/header/4941.png,https://www.transfermarkt.com/club-leon-fc/kader/verein/4941/saison_id/2019/plus/1
-56,3,Atlas Guadalajara,25,10,1.52,38.0,https://tmssl.akamaized.net/images/wappen/header/8590.png,https://www.transfermarkt.com/atlas-guadalajara/kader/verein/8590/saison_id/2019/plus/1
-57,3,Atletico de San Luis,22,12,1.47,32.37,https://tmssl.akamaized.net/images/wappen/header/40188.png,https://www.transfermarkt.com/atletico-san-luis/kader/verein/40188/saison_id/2019/plus/1
-58,3,FC Juarez,30,11,1.04,31.25,https://tmssl.akamaized.net/images/wappen/header/49283.png,https://www.transfermarkt.com/fc-juarez/kader/verein/49283/saison_id/2019/plus/1
-59,3,UNAM Pumas,26,6,1.19,30.95,https://tmssl.akamaized.net/images/wappen/header/7633.png,https://www.transfermarkt.com/unam-pumas/kader/verein/7633/saison_id/2019/plus/1
-60,3,Deportivo Toluca,32,13,0.94,30.21,https://tmssl.akamaized.net/images/wappen/header/1804.png,https://www.transfermarkt.com/deportivo-toluca/kader/verein/1804/saison_id/2019/plus/1
-61,3,Club Necaxa,25,11,1.02,25.41,https://tmssl.akamaized.net/images/wappen/header/1146.png,https://www.transfermarkt.com/club-necaxa/kader/verein/1146/saison_id/2019/plus/1
-62,3,Puebla FC,30,12,0.79,23.69,https://tmssl.akamaized.net/images/wappen/header/5662.png,https://www.transfermarkt.com/puebla-fc/kader/verein/5662/saison_id/2019/plus/1
-63,3,Queretaro FC,29,11,0.56,16.32,https://tmssl.akamaized.net/images/wappen/header/4961.png,https://www.transfermarkt.com/queretaro-fc/kader/verein/4961/saison_id/2019/plus/1
-64,3,Club Atletico Morelia,17,2,0.28,4.78,https://tmssl.akamaized.net/images/wappen/header/5623.png,https://www.transfermarkt.com/monarcas-morelia/kader/verein/5623/saison_id/2019/plus/1
-65,4,Club Atletico River Plate,32,7,4.26,136.47,https://tmssl.akamaized.net/images/wappen/header/209.png,https://www.transfermarkt.com/club-atletico-river-plate/kader/verein/209/saison_id/2019/plus/1
-66,4,Club Atletico Boca Juniors,31,6,3.48,107.73,https://tmssl.akamaized.net/images/wappen/header/189.png,https://www.transfermarkt.com/club-atletico-boca-juniors/kader/verein/189/saison_id/2019/plus/1
-67,4,Club Atletico San Lorenzo de Almagro,32,4,2.37,75.99,https://tmssl.akamaized.net/images/wappen/header/1775.png,https://www.transfermarkt.com/club-atletico-san-lorenzo-de-almagro/kader/verein/1775/saison_id/2019/plus/1
-68,4,Racing Club,37,5,2.03,74.93,https://tmssl.akamaized.net/images/wappen/header/1444.png,https://www.transfermarkt.com/racing-club-de-avellaneda/kader/verein/1444/saison_id/2019/plus/1
-69,4,Club Atletico Velez Sarsfield,29,5,2.5,72.39,https://tmssl.akamaized.net/images/wappen/header/1029.png,https://www.transfermarkt.com/club-atletico-velez-sarsfield/kader/verein/1029/saison_id/2019/plus/1
-70,4,Club Atletico Independiente,29,6,1.9,55.11,https://tmssl.akamaized.net/images/wappen/header/1234.png,https://www.transfermarkt.com/ca-independiente-de-avellaneda/kader/verein/1234/saison_id/2019/plus/1
-71,4,Club Atletico Lanus,29,1,1.63,47.26,https://tmssl.akamaized.net/images/wappen/header/333.png,https://www.transfermarkt.com/club-atletico-lanus/kader/verein/333/saison_id/2019/plus/1
-72,4,Club Atletico Talleres,29,6,1.47,42.83,https://tmssl.akamaized.net/images/wappen/header/3938.png,https://www.transfermarkt.com/talleres-de-cordoba-ca/kader/verein/3938/saison_id/2019/plus/1
-73,4,Club Atletico Colon,27,3,1.24,33.34,https://tmssl.akamaized.net/images/wappen/header/1070.png,https://www.transfermarkt.com/club-atletico-colon-santa-fe-/kader/verein/1070/saison_id/2019/plus/1
-74,4,Club Deportivo Godoy Cruz Antonio Tomba,33,6,1.0,32.86,https://tmssl.akamaized.net/images/wappen/header/12574.png,https://www.transfermarkt.com/club-deportivo-godoy-cruz/kader/verein/12574/saison_id/2019/plus/1
-75,4,Asociacion Atletica Argentinos Juniors,28,3,1.13,31.62,https://tmssl.akamaized.net/images/wappen/header/1030.png,https://www.transfermarkt.com/argentinos-juniors/kader/verein/1030/saison_id/2019/plus/1
-76,4,Club Atletico Banfield,27,4,1.09,29.48,https://tmssl.akamaized.net/images/wappen/header/830.png,https://www.transfermarkt.com/club-atletico-banfield/kader/verein/830/saison_id/2019/plus/1
-77,4,Club Estudiantes de La Plata,28,3,1.0,28.12,https://tmssl.akamaized.net/images/wappen/header/288.png,https://www.transfermarkt.com/estudiantes-de-la-plata/kader/verein/288/saison_id/2019/plus/1
-78,4,Club Atletico Newell's Old Boys,27,2,0.91,24.64,https://tmssl.akamaized.net/images/wappen/header/1286.png,https://www.transfermarkt.com/club-atletico-newells-old-boys/kader/verein/1286/saison_id/2019/plus/1
-79,4,Club Atletico Rosario Central,24,3,0.74,17.74,https://tmssl.akamaized.net/images/wappen/header/1418.png,https://www.transfermarkt.com/club-atletico-rosario-central/kader/verein/1418/saison_id/2019/plus/1
-80,4,Defensa y Justicia,17,3,0.73,12.43,https://tmssl.akamaized.net/images/wappen/header/2402.png,https://www.transfermarkt.com/defensa-y-justicia/kader/verein/2402/saison_id/2019/plus/1
-81,4,Club Atletico Tucuman,19,0,0.64,12.13,https://tmssl.akamaized.net/images/wappen/header/14554.png,https://www.transfermarkt.com/club-atletico-tucuman/kader/verein/14554/saison_id/2019/plus/1
-82,4,Club Atletico Huracan,19,3,0.62,11.78,https://tmssl.akamaized.net/images/wappen/header/2063.png,https://www.transfermarkt.com/club-atletico-huracan/kader/verein/2063/saison_id/2019/plus/1
-83,4,Club de Gimnasia y Esgrima La Plata,29,4,0.39,11.25,https://tmssl.akamaized.net/images/wappen/header/1106.png,https://www.transfermarkt.com/club-de-gimnasia-y-esgrima-la-plata/kader/verein/1106/saison_id/2019/plus/1
-84,4,Club Atletico Union,22,3,0.42,9.18,https://tmssl.akamaized.net/images/wappen/header/7097.png,https://www.transfermarkt.com/ca-union-santa-fe/kader/verein/7097/saison_id/2019/plus/1
-85,4,Club Atletico Patronato,19,1,0.31,5.82,https://tmssl.akamaized.net/images/wappen/header/19806.png,https://www.transfermarkt.com/club-atletico-patronato/kader/verein/19806/saison_id/2019/plus/1
-86,4,Club Atletico Aldosivi,17,2,0.33,5.64,https://tmssl.akamaized.net/images/wappen/header/12301.png,https://www.transfermarkt.com/club-atletico-aldosivi-mdp-/kader/verein/12301/saison_id/2019/plus/1
-87,4,Club Atletico Central Cordoba (SdE),16,2,0.32,5.07,https://tmssl.akamaized.net/images/wappen/header/31284.png,https://www.transfermarkt.com/club-atletico-central-cordoba-sde-/kader/verein/31284/saison_id/2019/plus/1
-88,4,Arsenal Futbol Club,12,1,0.31,3.69,https://tmssl.akamaized.net/images/wappen/header/4673.png,https://www.transfermarkt.com/arsenal-de-sarandi-fc/kader/verein/4673/saison_id/2019/plus/1
+1,1,Clube de Regatas do Flamengo,29,3,4.81,139.48,https://tmssl.akamaized.net/images/wappen/header/614.png,https://www.transfermarkt.com/flamengo-rio-de-janeiro/kader/verein/614/saison_id/2019/plus/1
+2,1,Sociedade Esportiva Palmeiras,31,4,3.4,105.43,https://tmssl.akamaized.net/images/wappen/header/1023.png,https://www.transfermarkt.com/se-palmeiras-sao-paulo/kader/verein/1023/saison_id/2019/plus/1
+3,1,Gremio Foot-Ball Porto Alegrense,36,2,2.28,81.93,https://tmssl.akamaized.net/images/wappen/header/210.png,https://www.transfermarkt.com/gremio-foot-ball-porto-alegrense/kader/verein/210/saison_id/2019/plus/1
+4,1,Sport Club Corinthians Paulista,33,5,2.14,70.3,https://tmssl.akamaized.net/images/wappen/header/199.png,https://www.transfermarkt.com/corinthians-sao-paulo/kader/verein/199/saison_id/2019/plus/1
+5,1,Sport Club Internacional,37,9,1.84,68.06,https://tmssl.akamaized.net/images/wappen/header/6600.png,https://www.transfermarkt.com/sc-internacional-porto-alegre/kader/verein/6600/saison_id/2019/plus/1
+6,1,Clube Atletico Mineiro,32,7,1.92,61.69,https://tmssl.akamaized.net/images/wappen/header/330.png,https://www.transfermarkt.com/atletico-mineiro/kader/verein/330/saison_id/2019/plus/1
+7,1,Sao Paulo Futebol Clube,33,4,1.81,59.39,https://tmssl.akamaized.net/images/wappen/header/585.png,https://www.transfermarkt.com/fc-sao-paulo/kader/verein/585/saison_id/2019/plus/1
+8,1,Santos FC,33,5,1.5,49.54,https://tmssl.akamaized.net/images/wappen/header/221.png,https://www.transfermarkt.com/fc-santos/kader/verein/221/saison_id/2019/plus/1
+9,1,Fluminense Football Club,45,3,0.95,42.95,https://tmssl.akamaized.net/images/wappen/header/2462.png,https://www.transfermarkt.com/fluminense-football-club/kader/verein/2462/saison_id/2019/plus/1
+10,1,Club Athletico Paranaense,41,4,0.98,40.04,https://tmssl.akamaized.net/images/wappen/header/679.png,https://www.transfermarkt.com/clube-atletico-paranaense/kader/verein/679/saison_id/2019/plus/1
+11,1,Club de Regatas Vasco da Gama,40,3,0.96,38.44,https://tmssl.akamaized.net/images/wappen/header/978.png,https://www.transfermarkt.com/vasco-da-gama-rio-de-janeiro/kader/verein/978/saison_id/2019/plus/1
+12,1,Red Bull Bragantino,32,2,1.0,31.9,https://tmssl.akamaized.net/images/wappen/header/8793.png,https://www.transfermarkt.com/clube-atletico-bragantino-sp-/kader/verein/8793/saison_id/2019/plus/1
+13,1,Esporte Clube Bahia,31,0,1.02,31.66,https://tmssl.akamaized.net/images/wappen/header/10010.png,https://www.transfermarkt.com/ec-bahia/kader/verein/10010/saison_id/2019/plus/1
+14,1,Botafogo Rio de Janeiro,34,5,0.77,26.25,https://tmssl.akamaized.net/images/wappen/header/537.png,https://www.transfermarkt.com/botafogo-fr-rio-de-janeiro/kader/verein/537/saison_id/2019/plus/1
+15,1,Goias Esporte Clube,40,5,0.55,21.92,https://tmssl.akamaized.net/images/wappen/header/3197.png,https://www.transfermarkt.com/goias-esporte-clube/kader/verein/3197/saison_id/2019/plus/1
+16,1,Coritiba Foot Ball Club,37,0,0.59,21.92,https://tmssl.akamaized.net/images/wappen/header/776.png,https://www.transfermarkt.com/coritiba-fc/kader/verein/776/saison_id/2019/plus/1
+17,1,Fortaleza Esporte Clube,30,3,0.64,19.21,https://tmssl.akamaized.net/images/wappen/header/10870.png,https://www.transfermarkt.com/fortaleza-esporte-clube/kader/verein/10870/saison_id/2019/plus/1
+18,1,Ceara Sporting Club,35,0,0.52,18.11,https://tmssl.akamaized.net/images/wappen/header/2029.png,https://www.transfermarkt.com/ceara-sporting-club-ce-/kader/verein/2029/saison_id/2019/plus/1
+19,1,Sport Club do Recife,36,3,0.49,17.56,https://tmssl.akamaized.net/images/wappen/header/8718.png,https://www.transfermarkt.com/sport-club-do-recife/kader/verein/8718/saison_id/2019/plus/1
+20,1,Atletico Clube Goianiense,26,2,0.61,15.99,https://tmssl.akamaized.net/images/wappen/header/15172.png,https://www.transfermarkt.com/atletico-goianiense/kader/verein/15172/saison_id/2019/plus/1
+21,2,Los Angeles FC,27,19,2.94,79.39,https://tmssl.akamaized.net/images/wappen/header/51828.png,https://www.transfermarkt.com/los-angeles-football-club/kader/verein/51828/saison_id/2019/plus/1
+22,2,Atlanta United FC,29,16,2.31,66.91,https://tmssl.akamaized.net/images/wappen/header/51663.png,https://www.transfermarkt.com/atlanta-united-fc/kader/verein/51663/saison_id/2019/plus/1
+23,2,Inter Miami CF,29,16,1.94,56.11,https://tmssl.akamaized.net/images/wappen/header/69261.png,https://www.transfermarkt.com/inter-miami-cf/kader/verein/69261/saison_id/2019/plus/1
+24,2,New York City FC,26,15,1.59,41.42,https://tmssl.akamaized.net/images/wappen/header/40058.png,https://www.transfermarkt.com/new-york-city-fc/kader/verein/40058/saison_id/2019/plus/1
+25,2,Toronto FC,28,21,1.4,39.33,https://tmssl.akamaized.net/images/wappen/header/11141.png,https://www.transfermarkt.com/toronto-fc/kader/verein/11141/saison_id/2019/plus/1
+26,2,Los Angeles Galaxy,28,15,1.38,38.8,https://tmssl.akamaized.net/images/wappen/header/1061.png,https://www.transfermarkt.com/los-angeles-galaxy/kader/verein/1061/saison_id/2019/plus/1
+27,2,Seattle Sounders FC,25,11,1.43,35.61,https://tmssl.akamaized.net/images/wappen/header/9636.png,https://www.transfermarkt.com/seattle-sounders-fc/kader/verein/9636/saison_id/2019/plus/1
+28,2,Columbus Crew SC,27,16,1.31,35.28,https://tmssl.akamaized.net/images/wappen/header/813.png,https://www.transfermarkt.com/columbus-crew/kader/verein/813/saison_id/2019/plus/1
+29,2,Sporting Kansas City,27,14,1.25,33.81,https://tmssl.akamaized.net/images/wappen/header/4284.png,https://www.transfermarkt.com/sporting-kansas-city/kader/verein/4284/saison_id/2019/plus/1
+30,2,FC Dallas,29,11,1.15,33.37,https://tmssl.akamaized.net/images/wappen/header/8816.png,https://www.transfermarkt.com/fc-dallas/kader/verein/8816/saison_id/2019/plus/1
+31,2,Portland Timbers,28,19,1.12,31.39,https://tmssl.akamaized.net/images/wappen/header/4291.png,https://www.transfermarkt.com/portland-timbers/kader/verein/4291/saison_id/2019/plus/1
+32,2,Minnesota United FC,25,17,1.25,31.33,https://tmssl.akamaized.net/images/wappen/header/56089.png,https://www.transfermarkt.com/minnesota-united-fc/kader/verein/56089/saison_id/2019/plus/1
+33,2,D.C. United,26,15,1.16,30.24,https://tmssl.akamaized.net/images/wappen/header/2440.png,https://www.transfermarkt.com/d-c-united/kader/verein/2440/saison_id/2019/plus/1
+34,2,FC Cincinnati,25,13,1.16,28.89,https://tmssl.akamaized.net/images/wappen/header/51772.png,https://www.transfermarkt.com/fc-cincinnati/kader/verein/51772/saison_id/2019/plus/1
+35,2,Chicago Fire FC,28,13,1.02,28.5,https://tmssl.akamaized.net/images/wappen/header/432.png,https://www.transfermarkt.com/chicago-fire/kader/verein/432/saison_id/2019/plus/1
+36,2,Orlando City SC,25,16,1.12,28.06,https://tmssl.akamaized.net/images/wappen/header/45604.png,https://www.transfermarkt.com/orlando-city-sc/kader/verein/45604/saison_id/2019/plus/1
+37,2,Colorado Rapids,27,12,1.03,27.88,https://tmssl.akamaized.net/images/wappen/header/1247.png,https://www.transfermarkt.com/colorado-rapids/kader/verein/1247/saison_id/2019/plus/1
+38,2,New England Revolution,28,11,0.99,27.79,https://tmssl.akamaized.net/images/wappen/header/626.png,https://www.transfermarkt.com/new-england-revolution/kader/verein/626/saison_id/2019/plus/1
+39,2,Houston Dynamo,29,21,0.92,26.73,https://tmssl.akamaized.net/images/wappen/header/9168.png,https://www.transfermarkt.com/houston-dynamo/kader/verein/9168/saison_id/2019/plus/1
+40,2,New York Red Bulls,27,13,0.98,26.41,https://tmssl.akamaized.net/images/wappen/header/623.png,https://www.transfermarkt.com/new-york-red-bulls/kader/verein/623/saison_id/2019/plus/1
+41,2,Philadelphia Union,27,15,0.97,26.08,https://tmssl.akamaized.net/images/wappen/header/25467.png,https://www.transfermarkt.com/philadelphia-union/kader/verein/25467/saison_id/2019/plus/1
+42,2,Montreal Impact,29,17,0.9,26.0,https://tmssl.akamaized.net/images/wappen/header/4078.png,https://www.transfermarkt.com/montreal-impact/kader/verein/4078/saison_id/2019/plus/1
+43,2,Vancouver Whitecaps FC,28,14,0.92,25.82,https://tmssl.akamaized.net/images/wappen/header/6321.png,https://www.transfermarkt.com/vancouver-whitecaps/kader/verein/6321/saison_id/2019/plus/1
+44,2,Nashville SC,28,12,0.69,19.23,https://tmssl.akamaized.net/images/wappen/header/63966.png,https://www.transfermarkt.com/nashville-mls-team/kader/verein/63966/saison_id/2019/plus/1
+45,2,San Jose Earthquakes,29,13,0.66,19.09,https://tmssl.akamaized.net/images/wappen/header/218.png,https://www.transfermarkt.com/san-jose-earthquakes/kader/verein/218/saison_id/2019/plus/1
+46,2,Real Salt Lake City,31,16,0.6,18.64,https://tmssl.akamaized.net/images/wappen/header/6643.png,https://www.transfermarkt.com/real-salt-lake-city/kader/verein/6643/saison_id/2019/plus/1
+47,3,CF Monterrey,38,14,2.88,109.27,https://tmssl.akamaized.net/images/wappen/header/2407.png,https://www.transfermarkt.com/cf-monterrey/kader/verein/2407/saison_id/2019/plus/1
+48,3,CF America,40,18,2.54,101.3,https://tmssl.akamaized.net/images/wappen/header/3631.png,https://www.transfermarkt.com/cf-america/kader/verein/3631/saison_id/2019/plus/1
+49,3,Tigres UANL,33,13,2.76,90.98,https://tmssl.akamaized.net/images/wappen/header/7055.png,https://www.transfermarkt.com/tigres-uanl/kader/verein/7055/saison_id/2019/plus/1
+50,3,CD Cruz Azul,35,14,2.19,76.94,https://tmssl.akamaized.net/images/wappen/header/3711.png,https://www.transfermarkt.com/cd-cruz-azul/kader/verein/3711/saison_id/2019/plus/1
+51,3,CF Pachuca,40,17,1.72,68.95,https://tmssl.akamaized.net/images/wappen/header/4035.png,https://www.transfermarkt.com/cf-pachuca/kader/verein/4035/saison_id/2019/plus/1
+52,3,Deportivo Guadalajara,42,0,1.42,59.29,https://tmssl.akamaized.net/images/wappen/header/6711.png,https://www.transfermarkt.com/deportivo-guadalajara/kader/verein/6711/saison_id/2019/plus/1
+53,3,Santos Laguna,37,9,1.46,54.04,https://tmssl.akamaized.net/images/wappen/header/1403.png,https://www.transfermarkt.com/santos-laguna/kader/verein/1403/saison_id/2019/plus/1
+54,3,Atlas Guadalajara,40,15,1.26,50.66,https://tmssl.akamaized.net/images/wappen/header/8590.png,https://www.transfermarkt.com/atlas-guadalajara/kader/verein/8590/saison_id/2019/plus/1
+55,3,Club Tijuana,41,19,1.19,49.03,https://tmssl.akamaized.net/images/wappen/header/13353.png,https://www.transfermarkt.com/club-tijuana/kader/verein/13353/saison_id/2019/plus/1
+56,3,UNAM Pumas,47,10,0.98,45.9,https://tmssl.akamaized.net/images/wappen/header/7633.png,https://www.transfermarkt.com/unam-pumas/kader/verein/7633/saison_id/2019/plus/1
+57,3,Club Leon FC,37,14,1.18,43.48,https://tmssl.akamaized.net/images/wappen/header/4941.png,https://www.transfermarkt.com/club-leon-fc/kader/verein/4941/saison_id/2019/plus/1
+58,3,Puebla FC,47,16,0.86,40.65,https://tmssl.akamaized.net/images/wappen/header/5662.png,https://www.transfermarkt.com/puebla-fc/kader/verein/5662/saison_id/2019/plus/1
+59,3,Queretaro FC,42,15,0.96,40.3,https://tmssl.akamaized.net/images/wappen/header/4961.png,https://www.transfermarkt.com/queretaro-fc/kader/verein/4961/saison_id/2019/plus/1
+60,3,Deportivo Toluca,33,12,1.14,37.7,https://tmssl.akamaized.net/images/wappen/header/1804.png,https://www.transfermarkt.com/deportivo-toluca/kader/verein/1804/saison_id/2019/plus/1
+61,3,Monarcas Morelia,40,16,0.83,33.16,https://tmssl.akamaized.net/images/wappen/header/5623.png,https://www.transfermarkt.com/monarcas-morelia/kader/verein/5623/saison_id/2019/plus/1
+62,3,Club Necaxa,42,15,0.67,28.3,https://tmssl.akamaized.net/images/wappen/header/1146.png,https://www.transfermarkt.com/club-necaxa/kader/verein/1146/saison_id/2019/plus/1
+63,3,FC Juarez,40,16,0.65,26.02,https://tmssl.akamaized.net/images/wappen/header/49283.png,https://www.transfermarkt.com/fc-juarez/kader/verein/49283/saison_id/2019/plus/1
+64,3,Atletico de San Luis,36,15,0.72,25.96,https://tmssl.akamaized.net/images/wappen/header/40188.png,https://www.transfermarkt.com/atletico-san-luis/kader/verein/40188/saison_id/2019/plus/1
+65,4,Club Atletico River Plate,33,6,4.59,151.51,https://tmssl.akamaized.net/images/wappen/header/209.png,https://www.transfermarkt.com/club-atletico-river-plate/kader/verein/209/saison_id/2019/plus/1
+66,4,Club Atletico Boca Juniors,31,8,3.71,114.73,https://tmssl.akamaized.net/images/wappen/header/189.png,https://www.transfermarkt.com/club-atletico-boca-juniors/kader/verein/189/saison_id/2019/plus/1
+67,4,Club Atletico Independiente,33,7,2.65,87.61,https://tmssl.akamaized.net/images/wappen/header/1234.png,https://www.transfermarkt.com/ca-independiente-de-avellaneda/kader/verein/1234/saison_id/2019/plus/1
+68,4,Club Atletico San Lorenzo de Almagro,45,5,1.72,77.74,https://tmssl.akamaized.net/images/wappen/header/1775.png,https://www.transfermarkt.com/club-atletico-san-lorenzo-de-almagro/kader/verein/1775/saison_id/2019/plus/1
+69,4,Racing Club,35,6,1.78,62.36,https://tmssl.akamaized.net/images/wappen/header/1444.png,https://www.transfermarkt.com/racing-club-de-avellaneda/kader/verein/1444/saison_id/2019/plus/1
+70,4,Club Atletico Velez Sarsfield,33,5,1.83,60.27,https://tmssl.akamaized.net/images/wappen/header/1029.png,https://www.transfermarkt.com/club-atletico-velez-sarsfield/kader/verein/1029/saison_id/2019/plus/1
+71,4,Club Atletico Lanus,33,4,1.66,54.93,https://tmssl.akamaized.net/images/wappen/header/333.png,https://www.transfermarkt.com/club-atletico-lanus/kader/verein/333/saison_id/2019/plus/1
+72,4,Defensa y Justicia,41,6,1.12,46.11,https://tmssl.akamaized.net/images/wappen/header/2402.png,https://www.transfermarkt.com/defensa-y-justicia/kader/verein/2402/saison_id/2019/plus/1
+73,4,Club Estudiantes de La Plata,32,6,1.43,45.7,https://tmssl.akamaized.net/images/wappen/header/288.png,https://www.transfermarkt.com/estudiantes-de-la-plata/kader/verein/288/saison_id/2019/plus/1
+74,4,Club Atletico Colon,40,7,1.06,42.57,https://tmssl.akamaized.net/images/wappen/header/1070.png,https://www.transfermarkt.com/club-atletico-colon-santa-fe-/kader/verein/1070/saison_id/2019/plus/1
+75,4,Club Atletico Talleres,33,7,1.24,40.75,https://tmssl.akamaized.net/images/wappen/header/3938.png,https://www.transfermarkt.com/talleres-de-cordoba-ca/kader/verein/3938/saison_id/2019/plus/1
+76,4,Club Atletico Rosario Central,37,6,1.01,37.38,https://tmssl.akamaized.net/images/wappen/header/1418.png,https://www.transfermarkt.com/club-atletico-rosario-central/kader/verein/1418/saison_id/2019/plus/1
+77,4,Club Deportivo Godoy Cruz Antonio Tomba,40,8,0.81,32.57,https://tmssl.akamaized.net/images/wappen/header/12574.png,https://www.transfermarkt.com/club-deportivo-godoy-cruz/kader/verein/12574/saison_id/2019/plus/1
+78,4,Club de Gimnasia y Esgrima La Plata,43,8,0.74,31.72,https://tmssl.akamaized.net/images/wappen/header/1106.png,https://www.transfermarkt.com/club-de-gimnasia-y-esgrima-la-plata/kader/verein/1106/saison_id/2019/plus/1
+79,4,Club Atletico Banfield,38,6,0.83,31.39,https://tmssl.akamaized.net/images/wappen/header/830.png,https://www.transfermarkt.com/club-atletico-banfield/kader/verein/830/saison_id/2019/plus/1
+80,4,Club Atletico Newell's Old Boys,33,2,0.85,28.0,https://tmssl.akamaized.net/images/wappen/header/1286.png,https://www.transfermarkt.com/club-atletico-newells-old-boys/kader/verein/1286/saison_id/2019/plus/1
+81,4,Club Atletico Huracan,37,5,0.68,25.25,https://tmssl.akamaized.net/images/wappen/header/2063.png,https://www.transfermarkt.com/club-atletico-huracan/kader/verein/2063/saison_id/2019/plus/1
+82,4,Club Atletico Union,36,5,0.67,24.31,https://tmssl.akamaized.net/images/wappen/header/7097.png,https://www.transfermarkt.com/ca-union-santa-fe/kader/verein/7097/saison_id/2019/plus/1
+83,4,Asociacion Atletica Argentinos Juniors,35,5,0.62,21.57,https://tmssl.akamaized.net/images/wappen/header/1030.png,https://www.transfermarkt.com/argentinos-juniors/kader/verein/1030/saison_id/2019/plus/1
+84,4,Club Atletico Tucuman,34,3,0.63,21.39,https://tmssl.akamaized.net/images/wappen/header/14554.png,https://www.transfermarkt.com/club-atletico-tucuman/kader/verein/14554/saison_id/2019/plus/1
+85,4,Club Atletico Aldosivi,32,5,0.59,18.74,https://tmssl.akamaized.net/images/wappen/header/12301.png,https://www.transfermarkt.com/club-atletico-aldosivi-mdp-/kader/verein/12301/saison_id/2019/plus/1
+86,4,Club Atletico Central Cordoba (SdE),36,5,0.4,14.51,https://tmssl.akamaized.net/images/wappen/header/31284.png,https://www.transfermarkt.com/club-atletico-central-cordoba-sde-/kader/verein/31284/saison_id/2019/plus/1
+87,4,Club Atletico Patronato,35,3,0.37,12.8,https://tmssl.akamaized.net/images/wappen/header/19806.png,https://www.transfermarkt.com/club-atletico-patronato/kader/verein/19806/saison_id/2019/plus/1
+88,4,Arsenal Futbol Club,29,2,0.29,8.47,https://tmssl.akamaized.net/images/wappen/header/4673.png,https://www.transfermarkt.com/arsenal-de-sarandi-fc/kader/verein/4673/saison_id/2019/plus/1
