@@ -124,7 +124,7 @@ function buildPosition(sample) {
   
   img_positions.forEach(function(player) {
   chartGroup.append("image")
-  .attr('link:href', player.data.Logo_img)
+  .attr('link:href', player.data.logo_img)
   .classed(`field position ${player.Position}`, true)
   .attr('height', 60)
   .attr("x", player.x)

@@ -55,7 +55,7 @@ var toolTip = d3.select("body")
 //     court_data = sorted_league
 
 function buildPosition(sample){
-  d3.json("../dict_soccer_data.json").then(function(soccerdata) {
+  d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
   ;
   if (sample == "All Leagues"){
     sorted_league = soccerdata;
@@ -142,7 +142,7 @@ function buildPosition(sample){
       
   });
 
-console.log(max_line_up)
+// console.log(max_line_up)
 
   for (var i=0, len = img_positions.length; i < len; i++) {
     img_positions[i].data = max_line_up[i]
@@ -158,7 +158,7 @@ console.log(max_line_up)
   
   img_positions.forEach(function(player) {
   chartGroup.append("image")
-  .attr('link:href', player.data.logo_img)
+  .attr('link:href', player.data.Logo_img)
   .classed(`field position ${player.Position}`, true)
   .attr('height', 60)
   .attr("x", player.x)

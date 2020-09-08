@@ -4,7 +4,8 @@ var max_player_position
 var target_league
 
 function buildMetadata(sample) {
-    d3.json("../dict_soccer_data.json").then(function(soccerdata) {
+    // d3.json("../dict_soccer_data.json").then(function(soccerdata) {
+    d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
     ;
     if (sample == "All Leagues"){
       sorted_league = soccerdata;
@@ -64,7 +65,7 @@ function buildMetadata(sample) {
     sorted_position = selected_position.sort((a,b) => (a.market_value > b.market_value) ? -1:1).slice(0,10);
     
   });
- 
+  console.log(max_field_position)
      // Inserting metadata1
      var sampleMeta = d3.select("#sample-metadata").data(max_field_position).html("");
      max_field_position.forEach(function(player) {
@@ -81,7 +82,7 @@ function init() {
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
     // Use the list of sample names to populate the select options
-  d3.json("../dict_soccer_data.json").then((data) => {
+  d3.json("./static/data/dict_soccer_data.json").then((data) => {
     var league_list = ["All Leagues"]
     for (var i = 0; i < data.Leagues.length; i++) {
       // console.log(data.Leagues)
