@@ -157,6 +157,7 @@ function buildPosition(sample){
   // Drawing the Players
   
   img_positions.forEach(function(player) {
+    // console.log(player.data.Logo_img)
   chartGroup.append("image")
   .attr('link:href', player.data.Logo_img)
   .classed(`field position ${player.Position}`, true)

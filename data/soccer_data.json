@@ -1,0 +1,12 @@
+{"leagues": [{"country": "Brazil", "league_ID": 1,
+    "league_link": "https://www.transfermarkt.com/campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1",
+    "league_name": "Brazil Serie A",  "tier": 1},
+   {"country": "United States", "league_ID": 2,
+    "league_link": "https://www.transfermarkt.com/major-league-soccer/startseite/wettbewerb/MLS1",
+    "league_name": "MLS (US)", "tier": 1},
+   {"country": "Mexico", "league_ID": 3,
+    "league_link": "https://www.transfermarkt.com/liga-mx-clausura/startseite/wettbewerb/MEX1",
+    "league_name": "Liga MX (MEX)", "tier": 1},
+   {"country": "Argentina", "league_ID": 4,
+    "league_link": "https://www.transfermarkt.com/primera-division/startseite/wettbewerb/AR1N",
+    "league_name": "Superliga (ARG)", "tier": 1}]}
