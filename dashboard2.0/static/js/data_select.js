@@ -7,24 +7,24 @@ function buildMetadata(sample) {
     // d3.json("../dict_soccer_data.json").then(function(soccerdata) {
     d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
     ;
-    if (sample == "All Leagues"){
+    if (sample == "All leagues"){
       sorted_league = soccerdata;
     }
     else{
-      for (var i=0, len = soccerdata.Leagues.length; i < len; i++) {
-        // console.log(soccerdata.Leagues.league_name)
+      for (var i=0, len = soccerdata.leagues.length; i < len; i++) {
+        // console.log(soccerdata.leagues.league_name)
 
-        if (soccerdata.Leagues[i].league_name == sample) {
-          sorted_league = (soccerdata.Leagues[i]);
+        if (soccerdata.leagues[i].league_name == sample) {
+          sorted_league = (soccerdata.leagues[i]);
         };  
       };   
     };  
 
     target_league = []
-    if (sorted_league.Leagues){
-      players = soccerdata.Players
+    if (sorted_league.leagues){
+      players = soccerdata.players
     }
-    else{soccerdata.Players.forEach((player) => {
+    else{soccerdata.players.forEach((player) => {
         if (player.league_name == sorted_league.league_name){
         target_league.push(player)
         } })
@@ -83,10 +83,10 @@ function init() {
   var selector = d3.select("#selDataset");
     // Use the list of sample names to populate the select options
   d3.json("./static/data/dict_soccer_data.json").then((data) => {
-    var league_list = ["All Leagues"]
-    for (var i = 0; i < data.Leagues.length; i++) {
-      // console.log(data.Leagues)
-      var sorted_league = data.Leagues[i].league_name
+    var league_list = ["All leagues"]
+    for (var i = 0; i < data.leagues.length; i++) {
+      // console.log(data.leagues)
+      var sorted_league = data.leagues[i].league_name
         if (!(sorted_league in league_list)) {
           league_list.push(sorted_league)
           

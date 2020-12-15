@@ -50,9 +50,7 @@ class Fix:
 
     def heights( soccer_data1):
         for player in soccer_data1['players']:
-            
             if player["height"] == 0:
-                # print(player["name"])
                 list_height= []
                 targ_player = player
                 nat = targ_player["nat"]
@@ -72,8 +70,6 @@ class Fix:
                         if player["field_position"] == field_position:
                             if player["height"] != 0:
                                 list_height.append(float(player["height"]))
-
-                # targ_player["height"] = round(sum(list_height) / len(list_height),2)
                 targ_player["height"] = round(mean(list_height),2)
        
 
@@ -85,13 +81,11 @@ class Scrape:
             teams = []
             leaguename = league['league_name']
             url = league["league_link"]
-            # print(f"scraping: {league['country']}_{league['tier']}_{league['league_name']}")
             time.sleep(1)
             html = requests.get(url, headers=headers)
             soup = BeautifulSoup(html.content, 'html.parser')
             htmltable = soup.find('table', class_= "items")
             results = htmltable.findAll("tr", class_ =["odd","even"])
-            #league['clubs'] = {}
             for result in results:
                 features = result.findAll("td")
                 link = ("https://www.transfermarkt.com"+result.find("a", href=True)\
@@ -109,16 +103,9 @@ class Scrape:
                 teams.append({"team_ID" : team_id, "league_ID":league["league_ID"], 'league_name': leaguename,
                             "club" : name, "squad" : squad, "foreigners" : foreigner, "avg_market_m" : avg_MV,
                                 "total_MV_m" : total_MV, "logo_img" : logo, "link_page" : link})
-
-                # hierachy
-            #  teams.append({"team_ID" : team_id,"club" : name, "squad" : squad, "foreigners" : foreigner, "avg_market_m" : avg_MV,
-            #                "total_MV_m" : total_MV, "logo_img" : logo, "link_page" : link})
                 team_id = team_id + 1
             league["clubs"] = teams
         return soccer_data
-        #soccer_data['clubs'] = teams
-
-
 
 
     def team_data(soccer_data):
@@ -164,68 +151,68 @@ class Scrape:
 
                     nat = features[6].img["alt"]
 
-                    if league_id == 3 or   league_id == 4:
-                        try:
-                            height_1 = float((features[8].text.split(" ")[0]).replace(",", "."))
-                        except:
-                            height_1 = 0
+                    # if league_id == 3 or   league_id == 4:
+                    #     try:
+                    #         height_1 = float((features[8].text.split(" ")[0]).replace(",", "."))
+                    #     except:
+                    #         height_1 = 0
 
-                        foot_1 = features[9].text
-                        dt_joined_1 = features[10].text
-                        try:
-                            dt_joined_1 = datetime.strptime(dt_joined_1, '%b %d, %Y').date()
-                        except:
-                            dt_joined_1 = ""
-                        try:
-                            prev_team_1 = Fix.accents(features[11].img["alt"])
-                        except:
-                            prev_team_1 = "N.A."
+                    #     foot_1 = features[9].text
+                    #     dt_joined_1 = features[10].text
+                    #     try:
+                    #         dt_joined_1 = datetime.strptime(dt_joined_1, '%b %d, %Y').date()
+                    #     except:
+                    #         dt_joined_1 = ""
+                    #     try:
+                    #         prev_team_1 = Fix.accents(features[11].img["alt"])
+                    #     except:
+                    #         prev_team_1 = "N.A."
 
-                        contract_expires_1 = features[12].text
-                        try:
-                            contract_expires_1 = datetime.strptime(contract_expires_1, '%d.%m.%Y').date()
-                        except:
-                            contract_expires_1 = ""
+                    #     contract_expires_1 = features[12].text
+                    #     try:
+                    #         contract_expires_1 = datetime.strptime(contract_expires_1, '%d.%m.%Y').date()
+                    #     except:
+                    #         contract_expires_1 = ""
 
-                        try:
-                            market_value_1 = Fix.value_us(features[13].text[:-2],curr_value)
-                        except:
-                            market_value_1 = 0
+                    #     try:
+                    #         market_value_1 = Fix.value_us(features[13].text[:-2],curr_value)
+                    #     except:
+                    #         market_value_1 = 0
+                    # else:
+                    try:
+                        height_1 = float((features[7].text.split(" ")[0]).replace(",", "."))
+                    except:
+                        height_1 = 0
+
+                    foot_1 = features[8].text
+
+                    dt_joined_1 = features[9].text
+                    try:
+                        dt_joined_1 = datetime.strptime(dt_joined_1, '%b %d, %Y').date()
+                    except:
+                        dt_joined_1 = ""
+
+                    try:
+                        prev_team_1 = Fix.accents(features[10].img["alt"])
+                    except:
+                        prev_team_1 = "N.A."
+
+
+                    contract_expires_1 = features[11].text
+                    try:
+                        contract_expires_1 = datetime.strptime(contract_expires_1, '%d.%m.%Y').date()
+                    except:
+                        contract_expires_1 = ""
+
+                    try:
+                        market_value_1 = Fix.value_us(features[12].text[:-2],curr_value)
+                    except:
+                        market_value_1 = 0
+                    
+                    if league["country"] == nat:
+                        int_player = False
                     else:
-                        try:
-                            height_1 = float((features[7].text.split(" ")[0]).replace(",", "."))
-                        except:
-                            height_1 = 0
-
-                        foot_1 = features[8].text
-
-                        dt_joined_1 = features[9].text
-                        try:
-                            dt_joined_1 = datetime.strptime(dt_joined_1, '%b %d, %Y').date()
-                        except:
-                            dt_joined_1 = ""
-
-                        try:
-                            prev_team_1 = Fix.accents(features[10].img["alt"])
-                        except:
-                            prev_team_1 = "N.A."
-
-
-                        contract_expires_1 = features[11].text
-                        try:
-                            contract_expires_1 = datetime.strptime(contract_expires_1, '%d.%m.%Y').date()
-                        except:
-                            contract_expires_1 = ""
-
-                        try:
-                            market_value_1 = Fix.value_us(features[12].text[:-2],curr_value)
-                        except:
-                            market_value_1 = 0
-                        
-                        if league["country"] == nat:
-                            int_player = False
-                        else:
-                            int_player = True
+                        int_player = True
 
 
                     players.append({"players_ID": player_id, "team_ID": team_id, "club": team_name,
@@ -234,8 +221,6 @@ class Scrape:
                                     "height": height_1, "foot": foot_1,  'dt_joined': dt_joined_1,"prev_team": prev_team_1,
                                     "contract_expires": contract_expires_1, "market_value": market_value_1,"player_page": player_page}) 
                     player_id = player_id+1
-            # players dentro dos clubes (hierarchy)
-          #  club["players"] = players
         # players separado dos clubs #
         soccer_data["players"] = players 
 

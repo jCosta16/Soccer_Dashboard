@@ -11,17 +11,17 @@ var svg = d3.select("#stadium_svg")
 .attr("width", "100%");
 
 var img_positions = [
-{"Position":"GLK", "x": 195, "y": 505},
-{"Position":"LD","x": 45, "y": 425}, 
-{"Position":"ZD", "x": 150, "y": 425},
-{"Position":"ZE", "x": 250, "y": 425},
-{"Position":"LE","x": 350, "y": 425},
-{"Position":"MD","x": 45, "y": 265},
-{"Position":"MCE","x": 250, "y": 265},
-{"Position":"ME","x": 350, "y": 265},
-{"Position":"MCD","x": 150, "y": 265},
-{"Position":"ATTD", "x": 250, "y": 100},
-{"Position":"ATTE", "x": 150, "y": 100},
+{"position":"GLK", "x": 195, "y": 505},
+{"position":"LD","x": 45, "y": 425}, 
+{"position":"ZD", "x": 150, "y": 425},
+{"position":"ZE", "x": 250, "y": 425},
+{"position":"LE","x": 350, "y": 425},
+{"position":"MD","x": 45, "y": 265},
+{"position":"MCE","x": 250, "y": 265},
+{"position":"ME","x": 350, "y": 265},
+{"position":"MCD","x": 150, "y": 265},
+{"position":"ATTD", "x": 250, "y": 100},
+{"position":"ATTE", "x": 150, "y": 100},
 ];
 
 // drawing the field
@@ -42,7 +42,7 @@ var toolTip = d3.select("body")
 // {
 //   d3.json("../dict_soccer_data_hieranchy.json").then(function(soccerdata) {
 //     var sorted_league = [];
-//     if (sample == "All Leagues"){
+//     if (sample == "All leagues"){
 //       sorted_league = soccerdata;
 //     }
 //     else{
@@ -57,24 +57,24 @@ var toolTip = d3.select("body")
 function buildPosition(sample){
   d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
   ;
-  if (sample == "All Leagues"){
+  if (sample == "All leagues"){
     sorted_league = soccerdata;
   }
   else{
-    for (var i=0, len = soccerdata.Leagues.length; i < len; i++) {
-      // console.log(soccerdata.Leagues.league_name)
+    for (var i=0, len = soccerdata.leagues.length; i < len; i++) {
+      // console.log(soccerdata.leagues.league_name)
 
-      if (soccerdata.Leagues[i].league_name == sample) {
-        sorted_league = (soccerdata.Leagues[i]);
+      if (soccerdata.leagues[i].league_name == sample) {
+        sorted_league = (soccerdata.leagues[i]);
       };  
     };   
   };  
 
   target_league = []
-  if (sorted_league.Leagues){
-    players = soccerdata.Players
+  if (sorted_league.leagues){
+    players = soccerdata.players
   }
-  else{soccerdata.Players.forEach((player) => {
+  else{soccerdata.players.forEach((player) => {
       if (player.league_name == sorted_league.league_name){
       target_league.push(player)
       } })
@@ -96,7 +96,7 @@ function buildPosition(sample){
 
   // console.log(field_positions)
 
-// Players Positions
+// players positions
   // var players_positions = []
   // for (var i=0, len = soccerdata.length; i < len; i++) {
   //   var position = soccerdata[i].position
@@ -154,13 +154,13 @@ function buildPosition(sample){
 
 
 
-  // Drawing the Players
+  // Drawing the players
   
   img_positions.forEach(function(player) {
-    // console.log(player.data.Logo_img)
+    // console.log(player.data.logo_img)
   chartGroup.append("image")
-  .attr('link:href', player.data.Logo_img)
-  .classed(`field position ${player.Position}`, true)
+  .attr('link:href', player.data.logo_img)
+  .classed(`field position ${player.position}`, true)
   .attr('height', 60)
   .attr("x", player.x)
   .attr("y", player.y)
@@ -169,7 +169,8 @@ function buildPosition(sample){
     .attr("class", "tooltip");		
         toolTip	.html(`<strong>${player.data.name}</strong>
         <br>Market Value: <strong>$${player.data.market_value}M</strong>
-        <br>Position: <strong>${player.data.position}</strong>`)	
+        <br>position: <strong>${player.data.position}</strong>
+        <br>Nat: <strong>${player.data.nat}</strong>`)	
         .style("left", (d3.event.pageX) + "px")		
         .style("top", (d3.event.pageY - 28) + "px");	
     })					
