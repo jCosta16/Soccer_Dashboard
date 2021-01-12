@@ -39,20 +39,34 @@ var toolTip = d3.select("body")
 .classed("tooltip", true);
 
 
-// {
-//   d3.json("../dict_soccer_data_hieranchy.json").then(function(soccerdata) {
-//     var sorted_league = [];
-//     if (sample == "All Leagues"){
-//       sorted_league = soccerdata;
-//     }
-//     else{
-//       for (var i=0, len = soccerdata.length; i < len; i++) {
-//         if (soccerdata[i].league_name == sample) {
-//           sorted_league.push(soccerdata[i]);
-//         };
-//       };   
-//     }; 
-//     court_data = sorted_league
+function teamsSelect(sample) {
+  d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
+    if (sample == "All Leagues"){
+      sorted_league = soccerdata;
+    }
+    else{
+      for (var i=0, len = soccerdata.Leagues.length; i < len; i++) {
+        console.log(soccerdata.Leagues.league_name)
+
+        if (soccerdata.Leagues[i].league_name == sample) {
+          sorted_league = (soccerdata.Leagues[i]);
+        };  
+      };   
+    };  
+
+    target_league = []
+    if (sorted_league.Leagues){
+      players = soccerdata.players
+    }
+    else{soccerdata.players.forEach((player) => {
+        if (player.league_name == sorted_league.league_name){
+        target_league.push(player)
+        } })
+        players = target_league
+    }
+    court_data = players
+  })
+}
 
 function buildPosition(sample){
   d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
