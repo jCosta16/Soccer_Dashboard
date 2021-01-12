@@ -6,6 +6,7 @@ function buildMetadata(sample) {
     // d3.json("../dict_soccer_data.json").then(function(soccerdata) {
     d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
 
+      console.log(sample)
       for (var i=0, len = soccerdata.Leagues.length; i < len; i++) {
         // console.log(soccerdata.Leagues.league_name)
 
@@ -128,18 +129,18 @@ function short_name_func(list_reduce, team){
 
 
 function buildTeam(sample) {
+  console.log(sample)
   team_list = []
   var team_selector = d3.select("#selTeam")
 
   // d3.json("../dict_soccer_data.json").then(function(soccerdata) {
    d3.json("./static/data/dict_soccer_data.json").then(function(soccerdata) {
-    
     for (var i=0, len = soccerdata.Leagues.length; i < len; i++) {
       if (soccerdata.Leagues[i].league_name == sample){
-        var sorted_clubs = soccerdata.Leagues[i].Clubs;
+        var sorted_clubs = soccerdata.Leagues[i].clubs;
         for (var i=0; i < sorted_clubs.length;++i )
           team_list.push(sorted_clubs[i].club)
-          // console.log(team_list)
+          console.log(team_list)
       }
     
     // team_selector = d3.select("#selTeam")
@@ -227,6 +228,7 @@ function init() {
     // buildPosition(firstSampleL);
     // buildMap(firstSample);
     // buildPlotly(firstSample);
+    
     buildTeam(firstSample)
 
 

@@ -22,9 +22,9 @@ function buildMetadata(sample) {
 
     target_league = []
     if (sorted_league.Leagues){
-      players = soccerdata.Players
+      players = soccerdata.players
     }
-    else{soccerdata.Players.forEach((player) => {
+    else{soccerdata.players.forEach((player) => {
         if (player.league_name == sorted_league.league_name){
         target_league.push(player)
         } })
@@ -102,7 +102,7 @@ function init() {
     
     // Use the first sample from the list to build the initial plots
     const firstSample = league_list[0];
-    
+    console.log(firstSample)
     buildMetadata(firstSample);
     buildPosition(firstSample);
     // buildMap(firstSample);
