@@ -3,7 +3,7 @@
         {
             "clubs": [
                 {
-                    "club": "Clube de Regatas do Flamengo",
+                    "club": "CR Flamengo",
                     "league_ID": 1,
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/flamengo-rio-de-janeiro/kader/verein/614/saison_id/2020/plus/1",
@@ -11,7 +11,7 @@
                     "team_ID": 1
                 },
                 {
-                    "club": "Sociedade Esportiva Palmeiras",
+                    "club": "SE Palmeiras",
                     "league_ID": 1,
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/se-palmeiras-sao-paulo/kader/verein/1023/saison_id/2020/plus/1",
@@ -19,36 +19,20 @@
                     "team_ID": 2
                 },
                 {
-                    "club": "Sport Club Corinthians Paulista",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/corinthians-sao-paulo/kader/verein/199/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/199.png",
-                    "team_ID": 3
-                },
-                {
-                    "club": "Gremio Foot-Ball Porto Alegrense",
+                    "club": "Gremio FBPA",
                     "league_ID": 1,
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/gremio-foot-ball-porto-alegrense/kader/verein/210/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/210.png",
+                    "team_ID": 3
+                },
+                {
+                    "club": "SC Corinthians Paulista",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/corinthians-sao-paulo/kader/verein/199/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/199.png",
                     "team_ID": 4
-                },
-                {
-                    "club": "Sao Paulo Futebol Clube",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/fc-sao-paulo/kader/verein/585/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/585.png",
-                    "team_ID": 5
-                },
-                {
-                    "club": "Sport Club Internacional",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/sc-internacional-porto-alegre/kader/verein/6600/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/6600.png",
-                    "team_ID": 6
                 },
                 {
                     "club": "Clube Atletico Mineiro",
@@ -56,6 +40,22 @@
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/atletico-mineiro/kader/verein/330/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/330.png",
+                    "team_ID": 5
+                },
+                {
+                    "club": "Sao Paulo FC",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/fc-sao-paulo/kader/verein/585/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/585.png",
+                    "team_ID": 6
+                },
+                {
+                    "club": "SC Internacional",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/sc-internacional-porto-alegre/kader/verein/6600/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/6600.png",
                     "team_ID": 7
                 },
                 {
@@ -67,68 +67,12 @@
                     "team_ID": 8
                 },
                 {
-                    "club": "Esporte Clube Bahia",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/ec-bahia/kader/verein/10010/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/10010.png",
-                    "team_ID": 9
-                },
-                {
                     "club": "Club Athletico Paranaense",
                     "league_ID": 1,
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/clube-atletico-paranaense/kader/verein/679/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/679.png",
-                    "team_ID": 10
-                },
-                {
-                    "club": "Club de Regatas Vasco da Gama",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/vasco-da-gama-rio-de-janeiro/kader/verein/978/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/978.png",
-                    "team_ID": 11
-                },
-                {
-                    "club": "Fluminense Football Club",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/fluminense-football-club/kader/verein/2462/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/2462.png",
-                    "team_ID": 12
-                },
-                {
-                    "club": "Fortaleza Esporte Clube",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/fortaleza-esporte-clube/kader/verein/10870/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/10870.png",
-                    "team_ID": 13
-                },
-                {
-                    "club": "Goias Esporte Clube",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/goias-esporte-clube/kader/verein/3197/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/3197.png",
-                    "team_ID": 14
-                },
-                {
-                    "club": "Botafogo de Futebol e Regatas",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/botafogo-fr-rio-de-janeiro/kader/verein/537/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/537.png",
-                    "team_ID": 15
-                },
-                {
-                    "club": "Ceara Sporting Club",
-                    "league_ID": 1,
-                    "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/ceara-sporting-club-ce-/kader/verein/2029/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/2029.png",
-                    "team_ID": 16
+                    "team_ID": 9
                 },
                 {
                     "club": "Red Bull Bragantino",
@@ -136,15 +80,39 @@
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/clube-atletico-bragantino-sp-/kader/verein/8793/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/8793.png",
-                    "team_ID": 17
+                    "team_ID": 10
                 },
                 {
-                    "club": "Sport Club do Recife",
+                    "club": "Fluminense FC",
                     "league_ID": 1,
                     "league_name": "Brazil Serie A",
-                    "link_page": "https://www.transfermarkt.com/sport-club-do-recife/kader/verein/8718/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/8718.png",
-                    "team_ID": 18
+                    "link_page": "https://www.transfermarkt.com/fluminense-football-club/kader/verein/2462/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/2462.png",
+                    "team_ID": 11
+                },
+                {
+                    "club": "CR Vasco da Gama",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/vasco-da-gama-rio-de-janeiro/kader/verein/978/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/978.png",
+                    "team_ID": 12
+                },
+                {
+                    "club": "Botafogo FR",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/botafogo-fr-rio-de-janeiro/kader/verein/537/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/537.png",
+                    "team_ID": 13
+                },
+                {
+                    "club": "EC Bahia",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/ec-bahia/kader/verein/10010/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/10010.png",
+                    "team_ID": 14
                 },
                 {
                     "club": "Coritiba Foot Ball Club",
@@ -152,7 +120,23 @@
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/coritiba-fc/kader/verein/776/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/776.png",
-                    "team_ID": 19
+                    "team_ID": 15
+                },
+                {
+                    "club": "Sport Club do Recife",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/sport-club-do-recife/kader/verein/8718/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/8718.png",
+                    "team_ID": 16
+                },
+                {
+                    "club": "Ceara SC",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/ceara-sporting-club-ce-/kader/verein/2029/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/2029.png",
+                    "team_ID": 17
                 },
                 {
                     "club": "Atletico Clube Goianiense",
@@ -160,6 +144,22 @@
                     "league_name": "Brazil Serie A",
                     "link_page": "https://www.transfermarkt.com/atletico-goianiense/kader/verein/15172/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/15172.png",
+                    "team_ID": 18
+                },
+                {
+                    "club": "Fortaleza EC",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/fortaleza-esporte-clube/kader/verein/10870/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/10870.png",
+                    "team_ID": 19
+                },
+                {
+                    "club": "Goias EC",
+                    "league_ID": 1,
+                    "league_name": "Brazil Serie A",
+                    "link_page": "https://www.transfermarkt.com/goias-esporte-clube/kader/verein/3197/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/3197.png",
                     "team_ID": 20
                 }
             ],
@@ -276,19 +276,19 @@
                     "team_ID": 33
                 },
                 {
-                    "club": "Portland Timbers",
-                    "league_ID": 2,
-                    "league_name": "MLS (US)",
-                    "link_page": "https://www.transfermarkt.com/portland-timbers/kader/verein/4291/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/4291.png",
-                    "team_ID": 34
-                },
-                {
                     "club": "Colorado Rapids",
                     "league_ID": 2,
                     "league_name": "MLS (US)",
                     "link_page": "https://www.transfermarkt.com/colorado-rapids/kader/verein/1247/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1247.png",
+                    "team_ID": 34
+                },
+                {
+                    "club": "Portland Timbers",
+                    "league_ID": 2,
+                    "league_name": "MLS (US)",
+                    "link_page": "https://www.transfermarkt.com/portland-timbers/kader/verein/4291/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/4291.png",
                     "team_ID": 35
                 },
                 {
@@ -550,7 +550,7 @@
         {
             "clubs": [
                 {
-                    "club": "Club Atletico River Plate",
+                    "club": "River Plate",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-river-plate/kader/verein/209/saison_id/2020/plus/1",
@@ -558,7 +558,7 @@
                     "team_ID": 66
                 },
                 {
-                    "club": "Club Atletico Boca Juniors",
+                    "club": "Boca Juniors",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-boca-juniors/kader/verein/189/saison_id/2020/plus/1",
@@ -566,7 +566,7 @@
                     "team_ID": 67
                 },
                 {
-                    "club": "Club Atletico Independiente",
+                    "club": "Independiente",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/ca-independiente-de-avellaneda/kader/verein/1234/saison_id/2020/plus/1",
@@ -574,7 +574,7 @@
                     "team_ID": 68
                 },
                 {
-                    "club": "Club Atletico San Lorenzo de Almagro",
+                    "club": "San Lorenzo de Almagro",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-san-lorenzo-de-almagro/kader/verein/1775/saison_id/2020/plus/1",
@@ -582,28 +582,20 @@
                     "team_ID": 69
                 },
                 {
+                    "club": "Velez Sarsfield",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-atletico-velez-sarsfield/kader/verein/1029/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1029.png",
+                    "team_ID": 70
+                },
+                {
                     "club": "Racing Club",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/racing-club-de-avellaneda/kader/verein/1444/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1444.png",
-                    "team_ID": 70
-                },
-                {
-                    "club": "Club Atletico Velez Sarsfield",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-atletico-velez-sarsfield/kader/verein/1029/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1029.png",
                     "team_ID": 71
-                },
-                {
-                    "club": "Club Atletico Lanus",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-atletico-lanus/kader/verein/333/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/333.png",
-                    "team_ID": 72
                 },
                 {
                     "club": "Defensa y Justicia",
@@ -611,10 +603,18 @@
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/defensa-y-justicia/kader/verein/2402/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/2402.png",
+                    "team_ID": 72
+                },
+                {
+                    "club": "Lanus",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-atletico-lanus/kader/verein/333/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/333.png",
                     "team_ID": 73
                 },
                 {
-                    "club": "Club Estudiantes de La Plata",
+                    "club": "Estudiantes de La Plata",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/estudiantes-de-la-plata/kader/verein/288/saison_id/2020/plus/1",
@@ -622,63 +622,63 @@
                     "team_ID": 74
                 },
                 {
-                    "club": "Club Atletico Colon",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-atletico-colon-santa-fe-/kader/verein/1070/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1070.png",
-                    "team_ID": 75
-                },
-                {
-                    "club": "Club Atletico Talleres",
+                    "club": "Talleres",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/talleres-de-cordoba-ca/kader/verein/3938/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/3938.png",
+                    "team_ID": 75
+                },
+                {
+                    "club": "Colon",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-atletico-colon-santa-fe-/kader/verein/1070/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1070.png",
                     "team_ID": 76
                 },
                 {
-                    "club": "Club Atletico Rosario Central",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-atletico-rosario-central/kader/verein/1418/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1418.png",
-                    "team_ID": 77
-                },
-                {
-                    "club": "Club Deportivo Godoy Cruz Antonio Tomba",
+                    "club": "CD Godoy Cruz",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-deportivo-godoy-cruz/kader/verein/12574/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/12574.png",
+                    "team_ID": 77
+                },
+                {
+                    "club": "Rosario Central",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-atletico-rosario-central/kader/verein/1418/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1418.png",
                     "team_ID": 78
                 },
                 {
-                    "club": "Club de Gimnasia y Esgrima La Plata",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-de-gimnasia-y-esgrima-la-plata/kader/verein/1106/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1106.png",
-                    "team_ID": 79
-                },
-                {
-                    "club": "Club Atletico Banfield",
+                    "club": "Banfield",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-banfield/kader/verein/830/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/830.png",
-                    "team_ID": 80
+                    "team_ID": 79
                 },
                 {
-                    "club": "Club Atletico Newell's Old Boys",
+                    "club": "Newell's Old Boys",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-newells-old-boys/kader/verein/1286/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1286.png",
+                    "team_ID": 80
+                },
+                {
+                    "club": "Gimnasia y Esgrima",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-de-gimnasia-y-esgrima-la-plata/kader/verein/1106/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1106.png",
                     "team_ID": 81
                 },
                 {
-                    "club": "Club Atletico Huracan",
+                    "club": "Huracan",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-huracan/kader/verein/2063/saison_id/2020/plus/1",
@@ -686,7 +686,7 @@
                     "team_ID": 82
                 },
                 {
-                    "club": "Club Atletico Union",
+                    "club": "Union",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/ca-union-santa-fe/kader/verein/7097/saison_id/2020/plus/1",
@@ -694,39 +694,39 @@
                     "team_ID": 83
                 },
                 {
-                    "club": "Asociacion Atletica Argentinos Juniors",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/argentinos-juniors/kader/verein/1030/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1030.png",
-                    "team_ID": 84
-                },
-                {
-                    "club": "Club Atletico Tucuman",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-atletico-tucuman/kader/verein/14554/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/14554.png",
-                    "team_ID": 85
-                },
-                {
-                    "club": "Club Atletico Aldosivi",
-                    "league_ID": 4,
-                    "league_name": "Superliga (ARG)",
-                    "link_page": "https://www.transfermarkt.com/club-atletico-aldosivi-mdp-/kader/verein/12301/saison_id/2020/plus/1",
-                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/12301.png",
-                    "team_ID": 86
-                },
-                {
-                    "club": "Club Atletico Central Cordoba (SdE)",
+                    "club": "Central Cordoba (SdE)",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-central-cordoba-sde-/kader/verein/31284/saison_id/2020/plus/1",
                     "logo_img": "https://tmssl.akamaized.net/images/wappen/header/31284.png",
+                    "team_ID": 84
+                },
+                {
+                    "club": "Aldosivi",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-atletico-aldosivi-mdp-/kader/verein/12301/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/12301.png",
+                    "team_ID": 85
+                },
+                {
+                    "club": "Tucuman",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/club-atletico-tucuman/kader/verein/14554/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/14554.png",
+                    "team_ID": 86
+                },
+                {
+                    "club": "AA Argentinos Juniors",
+                    "league_ID": 4,
+                    "league_name": "Superliga (ARG)",
+                    "link_page": "https://www.transfermarkt.com/argentinos-juniors/kader/verein/1030/saison_id/2020/plus/1",
+                    "logo_img": "https://tmssl.akamaized.net/images/wappen/header/1030.png",
                     "team_ID": 87
                 },
                 {
-                    "club": "Club Atletico Patronato",
+                    "club": "Patronato",
                     "league_ID": 4,
                     "league_name": "Superliga (ARG)",
                     "link_page": "https://www.transfermarkt.com/club-atletico-patronato/kader/verein/19806/saison_id/2020/plus/1",

@@ -97,6 +97,7 @@ def league_data( soccer_data):
             logo = logo.split("?")[0]
             logo = logo.replace("tiny", "header")
             name = accents(features[1].text)
+            name = team_name_fix(name)
             # squad = int(features[3].text)
             # foreigner = int(features[5].text)
             # total_MV = float(value_us(features[6].text,curr_value))
@@ -116,6 +117,69 @@ def league_data( soccer_data):
     return soccer_data
     #soccer_data['clubs'] = teams
 
+
+def short_name_func(item, club_name):
+    abb = ''.join([x[0].upper() for x in item.split(' ')])
+    club_name = club_name.replace(item,abb)
+    
+    return club_name
+
+
+
+def team_name_fix(club_name):
+    short_list = ["Club Atletico","Club Athletico", "Asociacion Atletica", "Sport Club", "Futebol Clube", "Sporting Club",
+                 "Sociedade Esportiva", "Esporte Clube", "Football Club","Atletico Clube","Foot Ball Club", "Foot-Ball Porto Alegrense" ]
+    remove_list = ["Estudiantes", "Foot Ball Club", "Clube de Regatas do","Futebol e Regatas", 
+                   "Club de Regatas", "Godoy ", "Gimnasia", "Lorenzo"]
+    for item in short_list:
+#         print(item)
+        if club_name.find(item) ==-1:
+#             print(club_name+ " ==-1")
+            club_name = club_name
+            
+        
+        elif club_name == "Sport Club do Recife":
+            club_name = club_name
+            
+        elif club_name == "Gremio Foot-Ball Porto Alegrense":
+            club_name = "Gremio FBPA"
+
+        elif club_name == "Club Athletico Paranaense":
+            club_name = "Athletico Paranaense"
+
+        elif club_name == "Atletico Clube Goianiense":
+            club_name = "Atletico Goianiense"
+
+        elif club_name.find("Club Atletico") != -1:
+            club_name = club_name.replace("Club Atletico ", "")
+            
+        elif club_name.find(item) !=-1:
+            club_name = short_name_func(item,club_name)
+
+    
+    for item in remove_list:
+        if club_name.find(item) !=-1:
+            if club_name == "Clube de Regatas do Flamengo":
+                club_name = "CR Flamengo"
+                
+            elif club_name == "Botafogo de Futebol e Regatas":
+                club_name = "Botafogo FR"
+                
+            elif club_name == "Club de Regatas Vasco da Gama":
+                club_name = "CR Vasco da Gama"
+                
+            elif club_name == "Club Deportivo Godoy Cruz Antonio Tomba":
+                club_name = "CD Godoy Cruz"
+                
+            elif club_name == "Club de Gimnasia y Esgrima La Plata":
+                club_name = "Gimnasia y Esgrima"
+                
+            elif club_name == "Club Atletico San Lorenzo de Almagro":
+                club_name = "San Lorenzo"
+                
+            elif club_name == "Club Estudiantes de La Plata":
+                club_name = "Estudiantes de La Plata"
+    return club_name
 
 
 
